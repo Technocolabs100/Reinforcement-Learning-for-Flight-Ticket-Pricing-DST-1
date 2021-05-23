@@ -6,15 +6,16 @@
 ## DECLARATION
 
 #### A project report on Machine-Learning-for-Flight-Ticket-Pricing project Successfully submitted By
-![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)
+
+![Ms. Deepika Goel.](https://github.com/goeld9911/)
 
 ![Mr. Prasad Pawar.](https://github.com/Prasad993)
+
+![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)
 
 ![Mr. Chakradhar Reddy Yerragudi.](https://github.com/chakradhar123)
 
 ![Mr. Mervana Prit Jitendrabhai.](https://github.com/Prit005)
-
-![Ms. Deepika Goel.](https://github.com/goeld9911/)
 
 ![Mr. Praneeth Kumar.](https://github.com/praneeth300?tab=repositories)
 
