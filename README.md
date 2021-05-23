@@ -23,7 +23,7 @@
 
 ![Mr. Rudra Kumawat.](https://github.com/Rudra-kumawat-22)
 
-Team Members details is available in below link:
+*Active Team Members details is available in below link:*
 
 https://docs.google.com/spreadsheets/d/1vHy8QH4HDF3_vx4foENfCvC8e1x4b0MyGaUgVGmqu2A/edit?usp=sharing
 
