@@ -24,7 +24,7 @@
 
 
 ## Problem Statement
-#### Can we use Reinforcement Learning to help a customer decide the optimal time to purchase a flight ticket?
+#### Can we use Machine Learning to help a customer decide the optimal time to purchase a flight ticket?
 
 
 
@@ -78,4 +78,74 @@ hours before departure. The optimal time to purchase the ticket t0pt is:
 - in the range [X hours before dep., 4 hours before dep.]
 - time at which we achieve minimum flight price until departure
 
+We have used `RandomForestRegressor` algorithm to predict first optimal time then to predict price whose architecture is as below:
 
+##### Predict optimal time architecture
+
+    Fitting 5 folds for each of 10 candidates, totalling 50 fits
+    [Parallel(n_jobs=-1)]: Using backend LokyBackend with 2 concurrent workers.
+    [Parallel(n_jobs=-1)]: Done  37 tasks      | elapsed: 15.4min
+    [Parallel(n_jobs=-1)]: Done  50 out of  50 | elapsed: 19.7min finished
+    RandomizedSearchCV(cv=5, error_score=nan,
+                       estimator=RandomForestRegressor(bootstrap=True,
+                                                       ccp_alpha=0.0,
+                                                       criterion='mse',
+                                                       max_depth=None,
+                                                       max_features='auto',
+                                                       max_leaf_nodes=None,
+                                                       max_samples=None,
+                                                       min_impurity_decrease=0.0,
+                                                       min_impurity_split=None,
+                                                       min_samples_leaf=1,
+                                                       min_samples_split=2,
+                                                       min_weight_fraction_leaf=0.0,
+                                                       n_estimators=100,
+                                                       n_jobs=None, oob_score=False,
+                                                       random_state=None, verbose=0,
+                                                       warm_start=False),
+                       iid='deprecated', n_iter=10, n_jobs=-1,
+                       param_distributions={'max_depth': [5, 10, 15, 20, 50],
+                                            'min_samples_split': [2, 3, 5, 10]},
+                       pre_dispatch='2*n_jobs', random_state=None, refit=True,
+                       return_train_score=False, scoring=None, verbose=2)
+
+Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, 'max_depth': 20}`
+
+    Root Mean Square Error = 2.176572809178177
+    Accuracy = 0.9017739133612731
+
+##### Predict price time architecture
+
+    Fitting 5 folds for each of 10 candidates, totalling 50 fits
+    [Parallel(n_jobs=-1)]: Using backend LokyBackend with 2 concurrent workers.
+    [Parallel(n_jobs=-1)]: Done  37 tasks      | elapsed: 14.5min
+    [Parallel(n_jobs=-1)]: Done  50 out of  50 | elapsed: 19.6min finished
+    RandomizedSearchCV(cv=5, error_score=nan,
+                       estimator=RandomForestRegressor(bootstrap=True,
+                                                       ccp_alpha=0.0,
+                                                       criterion='mse',
+                                                       max_depth=None,
+                                                       max_features='auto',
+                                                       max_leaf_nodes=None,
+                                                       max_samples=None,
+                                                       min_impurity_decrease=0.0,
+                                                       min_impurity_split=None,
+                                                       min_samples_leaf=1,
+                                                       min_samples_split=2,
+                                                       min_weight_fraction_leaf=0.0,
+                                                       n_estimators=100,
+                                                       n_jobs=None, oob_score=False,
+                                                       random_state=None, verbose=0,
+                                                       warm_start=False),
+                       iid='deprecated', n_iter=10, n_jobs=-1,
+                       param_distributions={'max_depth': [5, 10, 15, 20, 50],
+                                            'min_samples_split': [2, 3, 5, 10]},
+                       pre_dispatch='2*n_jobs', random_state=None, refit=True,
+                       return_train_score=False, scoring=None, verbose=2)
+                       
+Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, 'max_depth': 20}`
+
+    Root Mean Square Error = 672.8986132298949
+    Accuracy = 0.9351213338653643
+
+## Final Model output on WebApp
