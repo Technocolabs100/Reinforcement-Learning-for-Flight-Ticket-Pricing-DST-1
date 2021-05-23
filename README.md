@@ -5,7 +5,7 @@
 
 ## DECLARATION
 
-#### A project report on Reinforcement-Learning-for-Flight-Ticket-Pricing project Successfully submitted By
+#### A project report on Machine-Learning-for-Flight-Ticket-Pricing project Successfully submitted By
 ![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)
 
 ![Mr. Prasad Pawar.](https://github.com/Prasad993)
