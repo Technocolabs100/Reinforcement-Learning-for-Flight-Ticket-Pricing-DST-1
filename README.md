@@ -75,7 +75,7 @@ Dept_flights_time
 
 optimal_hours
 
-### ML Framework:
+### Machine Learning Framework:
 
 Assume a customer decides to purchase a ticket for a particular flight at time = X 
 hours before departure. The optimal time to purchase the ticket t0pt is:
