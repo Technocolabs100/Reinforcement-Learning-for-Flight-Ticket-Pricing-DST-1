@@ -1,4 +1,4 @@
-# Reinforcement-Learning-for-Flight-Ticket-Pricing-DST-1
+# Machine-Learning-for-Flight-Ticket-Pricing-DST-1
 ## Project Report
 
 ![](img.jpg)
