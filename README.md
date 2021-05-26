@@ -114,9 +114,8 @@ We have used `RandomForestRegressor` algorithm to predict first optimal time the
                        return_train_score=False, scoring=None, verbose=2)
 
 Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, 'max_depth': 20}`
-
-    Root Mean Square Error = 2.176572809178177
-    Accuracy = 0.9017739133612731
+ 
+ Accuracy = 0.9017739133612731
 
 ##### Predict price time architecture
 
@@ -149,13 +148,13 @@ Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, '
                        
 Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, 'max_depth': 20}`
 
-    Root Mean Square Error = 672.8986132298949
-    Accuracy = 0.9351213338653643
+Accuracy = 0.9351213338653643
 
 ## Final Model output on WebApp
 ## Using Flask Heroku Web App
 Flask Code
 Link :https://github.com/mak-rayate/Flask_ML_Flight_pred
+
 Public URL : 
 
 ![WhatsApp Image 2021-05-25 at 11 42 57 PM](https://user-images.githubusercontent.com/67750027/119673710-32e27200-be59-11eb-9450-13bbad3dac24.jpeg)
