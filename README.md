@@ -153,3 +153,10 @@ Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, '
     Accuracy = 0.9351213338653643
 
 ## Final Model output on WebApp
+## Using Flask Heroku Web App
+Flask Code
+Link :https://github.com/mak-rayate/Flask_ML_Flight_pred
+Public URL : 
+
+![WhatsApp Image 2021-05-25 at 11 42 57 PM](https://user-images.githubusercontent.com/67750027/119673710-32e27200-be59-11eb-9450-13bbad3dac24.jpeg)
+
