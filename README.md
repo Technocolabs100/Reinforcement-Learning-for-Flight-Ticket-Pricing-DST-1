@@ -36,11 +36,22 @@ https://docs.google.com/spreadsheets/d/1vHy8QH4HDF3_vx4foENfCvC8e1x4b0MyGaUgVGmq
 
 Airlines employ complex, secretly-kept algorithms to vary flight ticket prices over time based on several factors,including seat availability,airline capacity, the price of oil, seasonality, etc. At any point in time, a customer looking to purchase a flight ticket has the option to buy or wait (in the hope of the flight price reducing in future).However, since they lack knowledge of these algorithms, customers often default to purchasing a ticket as early as possible rather than trying to optimize their time of purchase.However, vast quantities of data regarding flight ticket prices are available on the Internet. Through this project,we hoped to use this data to help customers make their decisions. We created an airline ticket-buying agent that tries to buy a customer’s flight ticket to optimize for price of purchase.We have selected ![MakeMyTrip](https://www.makemytrip.com/flights/) website to scrap the Indian flights data.
 
-## Data
+## Prerequisites
+
+You need to have installed following softwares and libraries in your machine before running this project.
+
+Python 3
+Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy,streamlit.
+
+For more details refer repo path : Web App Model/Flask/requirements.txt
+
+## Sample Data
 Below is the small sample of our dataset:
 
 ![](Screenshot.png)
 
+## Data Overview
+#### Data Source --> Dataset/
 #### Data points --> 330939 rows
 #### Dataset date range --> April 2021 to May 2021
 #### Dataset Attributes:
@@ -75,7 +86,7 @@ Dept_flights_time
 
 optimal_hours
 
-### Machine Learning Framework:
+## Machine Learning Framework:
 
 Assume a customer decides to purchase a ticket for a particular flight at time = X 
 hours before departure. The optimal time to purchase the ticket t0pt is:
@@ -84,7 +95,7 @@ hours before departure. The optimal time to purchase the ticket t0pt is:
 
 We have used `RandomForestRegressor` algorithm to predict first optimal time then to predict price whose architecture is as below:
 
-##### Predict optimal time architecture
+#### Predict optimal time architecture
 
     Fitting 5 folds for each of 10 candidates, totalling 50 fits
     [Parallel(n_jobs=-1)]: Using backend LokyBackend with 2 concurrent workers.
@@ -115,9 +126,9 @@ We have used `RandomForestRegressor` algorithm to predict first optimal time the
 
 Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, 'max_depth': 20}`
  
- Accuracy = 0.9017739133612731
+###### Accuracy = 0.9017739133612731
 
-##### Predict price time architecture
+#### Predict price architecture
 
     Fitting 5 folds for each of 10 candidates, totalling 50 fits
     [Parallel(n_jobs=-1)]: Using backend LokyBackend with 2 concurrent workers.
@@ -148,19 +159,36 @@ Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, '
                        
 Selected best_params_ after hyperparameter tunning : `{'min_samples_split': 5, 'max_depth': 20}`
 
-Accuracy = 0.9351213338653643
+##### Accuracy = 0.9351213338653643
 
 ## Final Model output on WebApp
 ## Using Flask Heroku Web App
 
 Team Members : ![Mr. Prasad Pawar.](https://github.com/Prasad993)![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)![Mr. Rudra Kumawat.](https://github.com/Rudra-kumawat-22)
 
-Flask Code
-Link :https://github.com/mak-rayate/Flask_ML_Flight_pred
+#### Deployment Steps : 
+
+To deploy model on Heroku we have 2 options, by Heroku CLI or by GitHub. We have selected deployment by GitHub
+
+Step 1 : Create an account on heroku.com
+
+Step 2 : Upload all files on GitHub 
+
+Step 3 : Deployment method --> GitHub
+
+Step 4 : App connected to GitHub 
+
+Step 5 : Select Manual deploy Deploy--> the current state of a branch to this app should be Master.
+
+Step 6 : Resolve package error if occurs and test your Pulic URL
+
+Flask Code : Web App Model/Flask/
 
 Public URL : https://mlflightpred.herokuapp.com/
 
-![WhatsApp Image 2021-05-25 at 11 42 57 PM](https://user-images.githubusercontent.com/67750027/119673710-32e27200-be59-11eb-9450-13bbad3dac24.jpeg)
+#### Demo :
+
+https://user-images.githubusercontent.com/67750027/119845145-a4d4bd00-bf26-11eb-951d-f1b7caeaff32.mp4
 
 
 ## Using Streamlit Heroku Web App
@@ -253,3 +281,5 @@ Public URL : [Streamlit Web app](https://hidden-mesa-46970.herokuapp.com/)
 <img src="https://user-images.githubusercontent.com/64009514/119779170-ff015e00-bee5-11eb-9758-dc90c71b5acc.jpg" width=700 height=800>
 <br>
 
+## Author
+-Yasin Shah
