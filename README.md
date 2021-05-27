@@ -166,10 +166,90 @@ Public URL : https://mlflightpred.herokuapp.com/
 ## Using Streamlit Heroku Web App
 Team Members : ![Ms. Deepika Goel.](https://github.com/goeld9911/)![Mr. Chakradhar Reddy Yerragudi.](https://github.com/chakradhar123)![Mr. Mervana Prit Jitendrabhai.](https://github.com/Prit005)![Mr. Praneeth Kumar.](https://github.com/praneeth300?tab=repositories)![Ms. Himadri Chutia.](https://github.com/Himadrichutia)
 
+### Steps that we performed:
+
+- [x] Web scrapped
+- [x] Data Loading
+- [x] Data Preprocessing
+- [x] Exploratory data analysis
+- [x] Feature engineering
+- [x] Feature selection
+- [x] Feature transformation
+- [x] Model building
+- [x] Model evalutaion
+- [x] Model tuning
+- [x] Prediction's
+- [x] Model deployement Flask & Heroku
+- [x] Published the URL
+- [x] Submitting the Reports using Tableu
+
+### Tools used:
+> Python <br>
+> Pycharm <br>
+> Jupyter Notebook <br>
+> Google Colab <br>
+> DataBricks <br>
+> Streamlit <br>
+> Flask <br>
+> GitHub <br>
+> GitBash <br>
+> SublimeTextEditor <br>
+<br>
+### Libraries used: <br>
+* Pandas <br>
+* Numpy <br>
+* scipy <br>
+* sklearn <br>
+* lightgbm <br>
+* Boosting <br>
+* selenium <br>
+* Matplotlib <br>
+* Seaborn <br>
+* Plotly <br>
+* Cufflinks <br>
+
+Commands that we used for deployement:
+```
+git init
+git add .
+git status
+git commit -m "First commit"
+git status
+
+heroku create
+git remote -v
+git push origin master
+
+heorku logs --tail
+```
+
+Procfile:
+```
+web: sh setup.sh && streamlit run gh.py
+```
+
+Setup.sh:
+``` 
+mkdir -p ~/.streamlit/
+
+echo "\
+[server]\n\
+headless = true\n\
+port = $PORT\n\
+enableCORS = false\n\
+\n\
+" > ~/.streamlit/config.toml
+```
+
 Flask Code
-Link :
+Link : [Github](https://github.com/praneeth300/Flight-Price-Deployement-in-Streamlit/tree/master)
 
-Public URL : 
+Public URL : [Streamlit Web app](https://hidden-mesa-46970.herokuapp.com/)
 
-
+### Frontend Of the Streamlit
+<img src="https://user-images.githubusercontent.com/64009514/119778680-6ff44600-bee5-11eb-85e7-55d2ec7e55d5.jpg" width=1200 height=450>
+<br>
+**Here the results template**
+<img src="https://user-images.githubusercontent.com/64009514/119779170-ff015e00-bee5-11eb-9758-dc90c71b5acc.jpg" width=700 height=800>
+<br>
 
