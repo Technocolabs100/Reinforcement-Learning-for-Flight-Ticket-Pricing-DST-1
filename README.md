@@ -3,29 +3,7 @@
 
 ![](img.jpg)
 
-## DECLARATION
 
-#### A project report on Machine-Learning-for-Flight-Ticket-Pricing project Successfully submitted By
-
-![Ms. Deepika Goel.](https://github.com/goeld9911/)
-
-![Mr. Prasad Pawar.](https://github.com/Prasad993)
-
-![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)
-
-![Mr. Chakradhar Reddy Yerragudi.](https://github.com/chakradhar123)
-
-![Mr. Mervana Prit Jitendrabhai.](https://github.com/Prit005)
-
-![Mr. Praneeth Kumar.](https://github.com/praneeth300?tab=repositories)
-
-![Ms. Himadri Chutia.](https://github.com/Himadrichutia)
-
-![Mr. Rudra Kumawat.](https://github.com/Rudra-kumawat-22)
-
-*Active Team Members details are available in below link:*
-
-https://docs.google.com/spreadsheets/d/1vHy8QH4HDF3_vx4foENfCvC8e1x4b0MyGaUgVGmqu2A/edit?usp=sharing
 
 ## Problem Statement
 #### Can we use Machine Learning to help a customer decide the optimal time to purchase a flight ticket?
@@ -85,6 +63,18 @@ weekday	dept_hours
 Dept_flights_time	
 
 optimal_hours
+
+## BLUEPRINT	
+The blueprint file structure follows the following pattern:
+Data --> Data Processing-->EDA-->Training Model-->Test Model & Evaluation-->Model Prediction-->Model Deployment
+![image](https://user-images.githubusercontent.com/67750027/120107349-60435e80-c17e-11eb-82c9-03ce51382901.png)
+![image](https://user-images.githubusercontent.com/67750027/120107270-08a4f300-c17e-11eb-86ca-3b47fc205d9b.png)
+![image](https://user-images.githubusercontent.com/67750027/120107281-1b1f2c80-c17e-11eb-8e7c-dacab91f4731.png)
+![image](https://user-images.githubusercontent.com/67750027/120107416-9254c080-c17e-11eb-8721-37eae088bf80.png)
+![image](https://user-images.githubusercontent.com/67750027/120107444-a7c9ea80-c17e-11eb-9d0b-993872f06a56.png)
+![image](https://user-images.githubusercontent.com/67750027/120107464-bb755100-c17e-11eb-8864-d1222e01947b.png)
+![image](https://user-images.githubusercontent.com/67750027/120107507-e495e180-c17e-11eb-9301-948b27c66294.png)
+
 
 ## Machine Learning Framework:
 
@@ -283,3 +273,23 @@ Public URL : [Streamlit Web app](https://hidden-mesa-46970.herokuapp.com/)
 
 ## Author
 -Yasin Shah
+
+## DECLARATION
+
+#### A project report on Machine-Learning-for-Flight-Ticket-Pricing project Successfully submitted By
+
+![Ms. Deepika Goel.](https://github.com/goeld9911/)
+
+![Mr. Prasad Pawar.](https://github.com/Prasad993)
+
+![Mr. Makarand Anna Rayate.](https://github.com/mak-rayate)
+
+![Mr. Chakradhar Reddy Yerragudi.](https://github.com/chakradhar123)
+
+![Mr. Mervana Prit Jitendrabhai.](https://github.com/Prit005)
+
+![Mr. Praneeth Kumar.](https://github.com/praneeth300?tab=repositories)
+
+![Ms. Himadri Chutia.](https://github.com/Himadrichutia)
+
+![Mr. Rudra Kumawat.](https://github.com/Rudra-kumawat-22)
