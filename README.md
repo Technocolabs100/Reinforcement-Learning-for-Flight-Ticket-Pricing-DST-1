@@ -67,7 +67,7 @@ optimal_hours
 ## BLUEPRINT	
 The blueprint file structure follows the following pattern:
 Data --> Data Processing-->EDA-->Training Model-->Test Model & Evaluation-->Model Prediction-->Model Deployment
-![image](https://user-images.githubusercontent.com/67750027/120107349-60435e80-c17e-11eb-82c9-03ce51382901.png)
+![image](https://user-images.githubusercontent.com/67750027/120107633-700f7280-c17f-11eb-9088-76f539f84da7.png)
 ![image](https://user-images.githubusercontent.com/67750027/120107270-08a4f300-c17e-11eb-86ca-3b47fc205d9b.png)
 ![image](https://user-images.githubusercontent.com/67750027/120107281-1b1f2c80-c17e-11eb-8e7c-dacab91f4731.png)
 ![image](https://user-images.githubusercontent.com/67750027/120107416-9254c080-c17e-11eb-8721-37eae088bf80.png)
