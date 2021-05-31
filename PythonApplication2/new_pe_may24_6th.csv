@@ -1,0 +1,13 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 9,338","Port Blair to New Delhi , 24 May",08:45,23:30,1 stop via Kolkata,Spicejet,2021-05-16 11:29:41.884315
+" 9,338","Port Blair to New Delhi , 24 May",09:50,00:50,1 stop via Chennai,Spicejet,2021-05-16 11:29:41.884315
+" 9,338","Port Blair to New Delhi , 24 May",08:45,08:45,1 stop via Kolkata,Spicejet,2021-05-16 11:29:41.884315
+" 9,338","Port Blair to New Delhi , 24 May",09:50,09:50,1 stop via Chennai,Spicejet,2021-05-16 11:29:41.884315
+" 9,338","Port Blair to Mumbai , 24 May",08:45,22:15,1 stop via Kolkata,Spicejet,2021-05-16 11:30:04.875090
+" 9,338","Port Blair to Mumbai , 24 May",09:50,23:50,1 stop via Chennai,Spicejet,2021-05-16 11:30:04.875090
+" 9,338","Port Blair to Mumbai , 24 May",09:50,08:20,1 stop via Chennai,Spicejet,2021-05-16 11:30:04.875090
+" 11,092","Port Blair to Bengaluru , 24 May",09:50,09:05,1 stop via Chennai,Spicejet,2021-05-16 11:30:50.151031
+" 5,588","Port Blair to Chennai , 24 May",09:50,12:05,Non stop,Spicejet,2021-05-16 11:31:39.475847
+" 5,588","Port Blair to Kolkata , 24 May",08:45,11:10,Non stop,Spicejet,2021-05-16 11:32:02.022768
+" 10,058","Port Blair to Goa , 24 May",09:50,14:50,1 stop via Chennai,Spicejet,2021-05-16 11:32:42.374046
+" 10,058","Port Blair to Goa , 24 May",08:45,11:35,1 stop via Kolkata,Spicejet,2021-05-16 11:32:42.374046

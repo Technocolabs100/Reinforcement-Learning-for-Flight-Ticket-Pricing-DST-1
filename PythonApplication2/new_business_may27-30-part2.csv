@@ -1,0 +1,104 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 27,088","Srinagar to Pune , 30 May",12:25,18:10,1 stop via New Delhi,Air India,2021-05-10 06:33:03.064089
+" 27,088","Srinagar to Pune , 30 May",09:25,18:10,1 stop via New Delhi,Air India,2021-05-10 06:33:03.064089
+" 40,891","Srinagar to Guwahati , 30 May",14:15,11:05,"3 stop via Jammu,New Delhi,Kolkata",Air India,2021-05-10 06:33:25.878923
+" 42,317","Srinagar to Guwahati , 30 May",09:25,11:05,"2 stop via New Delhi,Kolkata",Air India,2021-05-10 06:33:25.878923
+" 42,367","Srinagar to Guwahati , 30 May",12:25,11:05,"2 stop via New Delhi,Kolkata",Air India,2021-05-10 06:33:25.878923
+" 42,485","Srinagar to Guwahati , 30 May",12:50,11:05,"2 stop via New Delhi,Kolkata","Vistara, Air India",2021-05-10 06:33:25.878923
+" 21,813","Srinagar to Lucknow , 30 May",09:25,14:00,1 stop via New Delhi,Air India,2021-05-10 06:33:45.079186
+" 21,813","Srinagar to Lucknow , 30 May",14:15,19:40,"2 stop via Jammu,New Delhi",Air India,2021-05-10 06:33:45.079186
+" 21,813","Srinagar to Lucknow , 30 May",12:25,19:40,1 stop via New Delhi,Air India,2021-05-10 06:33:45.079186
+" 21,813","Srinagar to Lucknow , 30 May",09:25,19:40,1 stop via New Delhi,Air India,2021-05-10 06:33:45.079186
+" 22,703","Srinagar to Lucknow , 30 May",09:25,14:50,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:33:45.079186
+" 22,971","Srinagar to Lucknow , 30 May",12:50,19:40,1 stop via New Delhi,"Vistara, Air India",2021-05-10 06:33:45.079186
+" 57,519","Srinagar to Lucknow , 30 May",14:15,10:30,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 57,519","Srinagar to Lucknow , 30 May",14:15,10:30,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 57,519","Srinagar to Lucknow , 30 May",12:25,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 57,519","Srinagar to Lucknow , 30 May",12:25,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 57,909","Srinagar to Lucknow , 30 May",12:25,10:30,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 57,909","Srinagar to Lucknow , 30 May",09:25,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 57,909","Srinagar to Lucknow , 30 May",09:25,10:30,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 57,909","Srinagar to Lucknow , 30 May",09:25,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:33:45.079186
+" 58,077","Srinagar to Lucknow , 30 May",12:50,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-10 06:33:45.079186
+" 58,112","Srinagar to Jaipur , 30 May",14:15,09:20,"3 stop via Jammu,New Delhi,Bengaluru",Air India,2021-05-10 06:34:00.413174
+" 58,112","Srinagar to Jaipur , 30 May",12:25,09:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-10 06:34:00.413174
+" 58,503","Srinagar to Jaipur , 30 May",09:25,09:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-10 06:34:00.413174
+" 58,671","Srinagar to Jaipur , 30 May",12:50,09:20,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-10 06:34:00.413174
+" 25,968","Srinagar to Patna , 30 May",09:25,15:20,1 stop via New Delhi,Air India,2021-05-10 06:34:22.610685
+" 25,968","Srinagar to Patna , 30 May",12:25,18:25,1 stop via New Delhi,Air India,2021-05-10 06:34:22.610685
+" 25,968","Srinagar to Patna , 30 May",09:25,18:25,1 stop via New Delhi,Air India,2021-05-10 06:34:22.610685
+" 26,359","Srinagar to Patna , 30 May",09:25,19:55,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:34:22.610685
+" 26,409","Srinagar to Patna , 30 May",12:25,19:55,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:34:22.610685
+" 26,527","Srinagar to Patna , 30 May",12:50,18:25,1 stop via New Delhi,"Vistara, Air India",2021-05-10 06:34:22.610685
+" 26,527","Srinagar to Patna , 30 May",12:50,19:55,1 stop via New Delhi,Vistara,2021-05-10 06:34:22.610685
+" 43,481","Srinagar to Patna , 30 May",09:25,17:00,"2 stop via New Delhi,Amritsar",Air India,2021-05-10 06:34:22.610685
+" 30,807","Srinagar to Thiruvananthapuram , 30 May",12:25,20:30,1 stop via New Delhi,Air India,2021-05-10 06:34:59.299414
+" 30,807","Srinagar to Thiruvananthapuram , 30 May",09:25,20:30,1 stop via New Delhi,Air India,2021-05-10 06:34:59.299414
+" 31,365","Srinagar to Thiruvananthapuram , 30 May",12:50,20:30,1 stop via New Delhi,"Vistara, Air India",2021-05-10 06:34:59.299414
+" 28,096","Srinagar to Bhubaneswar , 30 May",14:15,20:55,"2 stop via Jammu,New Delhi",Air India,2021-05-10 06:35:15.937557
+" 28,096","Srinagar to Bhubaneswar , 30 May",12:25,20:55,1 stop via New Delhi,Air India,2021-05-10 06:35:15.937557
+" 28,096","Srinagar to Bhubaneswar , 30 May",09:25,20:55,1 stop via New Delhi,Air India,2021-05-10 06:35:15.937557
+" 29,255","Srinagar to Bhubaneswar , 30 May",12:50,20:55,1 stop via New Delhi,"Vistara, Air India",2021-05-10 06:35:15.937557
+" 51,392","Srinagar to Bhubaneswar , 30 May",14:15,14:00,"3 stop via Jammu,New Delhi,Bengaluru",Air India,2021-05-10 06:35:15.937557
+" 51,392","Srinagar to Bhubaneswar , 30 May",12:25,14:00,"2 stop via New Delhi,Bengaluru",Air India,2021-05-10 06:35:15.937557
+" 51,392","Srinagar to Bhubaneswar , 30 May",09:25,14:00,"2 stop via New Delhi,Bengaluru",Air India,2021-05-10 06:35:15.937557
+" 51,951","Srinagar to Bhubaneswar , 30 May",12:50,14:00,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-10 06:35:15.937557
+" 53,455","Srinagar to Bhubaneswar , 30 May",14:15,17:40,"3 stop via Jammu,New Delhi,Surat",Air India,2021-05-10 06:35:15.937557
+" 48,559","Srinagar to Nagpur , 30 May",12:25,20:35,"3 stop via New Delhi,Indore,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,559","Srinagar to Nagpur , 30 May",09:25,20:35,"3 stop via New Delhi,Indore,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,559","Srinagar to Nagpur , 30 May",14:15,07:20,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,559","Srinagar to Nagpur , 30 May",14:15,07:20,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,949","Srinagar to Nagpur , 30 May",12:25,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,949","Srinagar to Nagpur , 30 May",12:25,07:20,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,949","Srinagar to Nagpur , 30 May",12:25,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,949","Srinagar to Nagpur , 30 May",09:25,07:20,"3 stop via New Delhi,Indore,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,949","Srinagar to Nagpur , 30 May",09:25,07:20,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,949","Srinagar to Nagpur , 30 May",09:25,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 48,949","Srinagar to Nagpur , 30 May",09:25,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:36:21.103747
+" 49,117","Srinagar to Nagpur , 30 May",12:50,07:20,"3 stop via New Delhi,Aurangabad,Mumbai","Vistara, Air India",2021-05-10 06:36:21.103747
+" 49,117","Srinagar to Nagpur , 30 May",12:50,07:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-10 06:36:21.103747
+" 21,813","Srinagar to Varanasi , 30 May",09:25,14:50,"2 stop via New Delhi,Gaya",Air India,2021-05-10 06:36:39.356578
+" 22,887","Srinagar to Varanasi , 30 May",09:25,14:45,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:36:39.356578
+" 23,202","Srinagar to Indore , 30 May",12:25,16:30,1 stop via New Delhi,Air India,2021-05-10 06:37:18.429785
+" 23,202","Srinagar to Indore , 30 May",09:25,16:30,1 stop via New Delhi,Air India,2021-05-10 06:37:18.429785
+" 45,199","Srinagar to Indore , 30 May",14:15,08:25,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,199","Srinagar to Indore , 30 May",14:15,08:25,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,199","Srinagar to Indore , 30 May",12:25,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,199","Srinagar to Indore , 30 May",12:25,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,589","Srinagar to Indore , 30 May",09:25,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,589","Srinagar to Indore , 30 May",09:25,08:25,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,589","Srinagar to Indore , 30 May",09:25,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,639","Srinagar to Indore , 30 May",12:25,08:25,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:37:18.429785
+" 45,757","Srinagar to Indore , 30 May",12:50,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-10 06:37:18.429785
+" 45,757","Srinagar to Indore , 30 May",12:50,08:25,"3 stop via New Delhi,Aurangabad,Mumbai","Vistara, Air India",2021-05-10 06:37:18.429785
+" 32,957","Srinagar to Visakhapatnam , 30 May",09:25,17:15,1 stop via New Delhi,Air India,2021-05-10 06:38:04.115609
+" 50,799","Srinagar to Visakhapatnam , 30 May",14:15,13:35,"4 stop via Jammu,New Delhi,Mumbai,Raipur",Air India,2021-05-10 06:38:04.115609
+" 50,799","Srinagar to Visakhapatnam , 30 May",12:25,13:35,"3 stop via New Delhi,Mumbai,Raipur",Air India,2021-05-10 06:38:04.115609
+" 50,799","Srinagar to Visakhapatnam , 30 May",09:25,13:35,"3 stop via New Delhi,Mumbai,Raipur",Air India,2021-05-10 06:38:04.115609
+" 51,357","Srinagar to Visakhapatnam , 30 May",12:50,13:35,"3 stop via New Delhi,Mumbai,Raipur","Vistara, Air India",2021-05-10 06:38:04.115609
+" 25,687","Srinagar to Ranchi , 30 May",09:25,19:40,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:38:19.176706
+" 25,737","Srinagar to Ranchi , 30 May",12:25,19:40,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:38:19.176706
+" 25,855","Srinagar to Ranchi , 30 May",12:50,19:40,1 stop via New Delhi,Vistara,2021-05-10 06:38:19.176706
+" 20,301","Srinagar to Amritsar , 30 May",09:25,13:10,1 stop via New Delhi,Air India,2021-05-10 06:38:43.032471
+" 20,301","Srinagar to Amritsar , 30 May",14:15,22:20,"2 stop via Jammu,New Delhi",Air India,2021-05-10 06:38:43.032471
+" 20,301","Srinagar to Amritsar , 30 May",12:25,22:20,1 stop via New Delhi,Air India,2021-05-10 06:38:43.032471
+" 20,301","Srinagar to Amritsar , 30 May",09:25,22:20,1 stop via New Delhi,Air India,2021-05-10 06:38:43.032471
+" 21,359","Srinagar to Amritsar , 30 May",09:25,14:50,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:38:43.032471
+" 21,459","Srinagar to Amritsar , 30 May",12:50,22:20,1 stop via New Delhi,"Vistara, Air India",2021-05-10 06:38:43.032471
+" 57,519","Srinagar to Amritsar , 30 May",14:15,09:50,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 57,519","Srinagar to Amritsar , 30 May",14:15,09:50,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 57,519","Srinagar to Amritsar , 30 May",12:25,09:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 57,519","Srinagar to Amritsar , 30 May",12:25,09:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 57,909","Srinagar to Amritsar , 30 May",12:25,09:50,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 57,909","Srinagar to Amritsar , 30 May",09:25,09:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 57,909","Srinagar to Amritsar , 30 May",09:25,09:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 57,909","Srinagar to Amritsar , 30 May",09:25,09:50,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 06:38:43.032471
+" 58,077","Srinagar to Amritsar , 30 May",12:50,09:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-10 06:38:43.032471
+" 21,655","Srinagar to Chandigarh , 30 May",09:25,14:45,1 stop via New Delhi,"Air India, Vistara",2021-05-10 06:39:04.562015
+" 23,202","Srinagar to Raipur , 30 May",12:25,18:10,1 stop via New Delhi,Air India,2021-05-10 06:39:14.102228
+" 23,202","Srinagar to Raipur , 30 May",09:25,18:10,1 stop via New Delhi,Air India,2021-05-10 06:39:14.102228
+" 24,360","Srinagar to Raipur , 30 May",12:50,18:10,1 stop via New Delhi,"Vistara, Air India",2021-05-10 06:39:14.102228
+" 49,074","Srinagar to Raipur , 30 May",14:15,11:50,"3 stop via Jammu,New Delhi,Mumbai",Air India,2021-05-10 06:39:14.102228
+" 49,074","Srinagar to Raipur , 30 May",12:25,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:39:14.102228
+" 49,074","Srinagar to Raipur , 30 May",09:25,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 06:39:14.102228
+" 49,632","Srinagar to Raipur , 30 May",12:50,11:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-10 06:39:14.102228

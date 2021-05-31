@@ -1,0 +1,110 @@
+,Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+0," 8,072","Mangalore to Lucknow , 28 May",11:40,18:20,1 stop via Mumbai,IndiGo,2021-05-10 13:49:24.609957
+1," 8,072","Mangalore to Lucknow , 28 May",11:40,22:00,1 stop via Mumbai,IndiGo,2021-05-10 13:49:24.609957
+2," 8,684","Mangalore to Lucknow , 28 May",08:25,16:50,"2 stop via Bengaluru,Pune","Spicejet, IndiGo",2021-05-10 13:49:24.609957
+3," 8,684","Mangalore to Lucknow , 28 May",08:25,19:45,"2 stop via Bengaluru,New Delhi","Spicejet, IndiGo",2021-05-10 13:49:24.609957
+4," 8,684","Mangalore to Lucknow , 28 May",08:25,22:00,"2 stop via Bengaluru,Mumbai","Spicejet, IndiGo",2021-05-10 13:49:24.609957
+5," 8,684","Mangalore to Lucknow , 28 May",08:25,22:15,"3 stop via Bengaluru,Goa,New Delhi","Spicejet, Go Air",2021-05-10 13:49:24.609957
+6," 8,686","Mangalore to Lucknow , 28 May",08:25,21:50,"2 stop via Bengaluru,Mumbai","Spicejet, Go Air",2021-05-10 13:49:24.609957
+7," 8,909","Mangalore to Lucknow , 28 May",08:25,17:10,1 stop via Bengaluru,"Spicejet, Go Air",2021-05-10 13:49:24.609957
+8," 8,910","Mangalore to Lucknow , 28 May",08:25,16:15,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-10 13:49:24.609957
+9," 8,911","Mangalore to Lucknow , 28 May",08:25,16:20,1 stop via Bengaluru,"Spicejet, Air India",2021-05-10 13:49:24.609957
+10," 9,859","Mangalore to Lucknow , 28 May",08:25,19:40,"2 stop via Bengaluru,New Delhi","Spicejet, Air India",2021-05-10 13:49:24.609957
+11," 10,665","Mangalore to Lucknow , 28 May",12:35,08:15,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:49:24.609957
+12," 10,665","Mangalore to Lucknow , 28 May",12:35,08:15,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:49:24.609957
+13," 7,442","Mangalore to Jaipur , 28 May",11:40,17:15,1 stop via Mumbai,IndiGo,2021-05-10 13:50:10.060352
+14," 7,688","Mangalore to Jaipur , 28 May",20:00,07:35,1 stop via Mumbai,Go Air,2021-05-10 13:50:10.060352
+15," 8,682","Mangalore to Jaipur , 28 May",08:25,16:45,"2 stop via Bengaluru,Pune","Spicejet, AirAsia",2021-05-10 13:50:10.060352
+16," 8,682","Mangalore to Jaipur , 28 May",08:25,20:30,"2 stop via Bengaluru,Hyderabad","Spicejet, AirAsia",2021-05-10 13:50:10.060352
+17," 8,682","Mangalore to Jaipur , 28 May",08:25,20:30,"2 stop via Bengaluru,Hyderabad","Spicejet, AirAsia",2021-05-10 13:50:10.060352
+18," 8,682","Mangalore to Jaipur , 28 May",08:25,20:55,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-10 13:50:10.060352
+19," 8,682","Mangalore to Jaipur , 28 May",08:25,23:10,"2 stop via Bengaluru,New Delhi","Spicejet, IndiGo",2021-05-10 13:50:10.060352
+20," 8,910","Mangalore to Jaipur , 28 May",08:25,17:25,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-10 13:50:10.060352
+21," 10,560","Mangalore to Jaipur , 28 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:50:10.060352
+22," 10,560","Mangalore to Jaipur , 28 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:50:10.060352
+23," 7,723","Mangalore to Patna , 28 May",20:40,10:10,1 stop via Hyderabad,Spicejet,2021-05-10 13:50:33.660086
+24," 8,126","Mangalore to Patna , 28 May",14:30,20:45,1 stop via Bengaluru,IndiGo,2021-05-10 13:50:33.660086
+25," 8,126","Mangalore to Patna , 28 May",08:25,16:40,1 stop via Bengaluru,Spicejet,2021-05-10 13:50:33.660086
+26," 8,126","Mangalore to Patna , 28 May",18:40,16:40,1 stop via Bengaluru,Spicejet,2021-05-10 13:50:33.660086
+27," 9,811","Mangalore to Patna , 28 May",14:30,07:25,"3 stop via Bengaluru,Mumbai,New Delhi","IndiGo, Go Air",2021-05-10 13:50:33.660086
+28," 9,812","Mangalore to Patna , 28 May",12:35,07:25,"3 stop via Coimbatore,Mumbai,New Delhi","Air India, Go Air",2021-05-10 13:50:33.660086
+29," 9,812","Mangalore to Patna , 28 May",11:40,07:25,"2 stop via Mumbai,New Delhi","IndiGo, Go Air",2021-05-10 13:50:33.660086
+30," 10,094","Mangalore to Patna , 28 May",12:35,21:40,"2 stop via Coimbatore,Mumbai","Air India, Spicejet",2021-05-10 13:50:33.660086
+31," 10,094","Mangalore to Patna , 28 May",11:40,21:40,1 stop via Mumbai,"IndiGo, Spicejet",2021-05-10 13:50:33.660086
+32," 5,832","Mangalore to Thiruvananthapuram , 28 May",14:30,18:15,1 stop via Bengaluru,IndiGo,2021-05-10 13:50:49.563479
+33," 7,650","Mangalore to Bhubaneswar , 28 May",08:25,16:35,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-10 13:51:12.494517
+34," 7,650","Mangalore to Bhubaneswar , 28 May",18:40,07:30,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-10 13:51:12.494517
+35," 7,651","Mangalore to Bhubaneswar , 28 May",08:25,14:00,1 stop via Bengaluru,"Spicejet, Air India",2021-05-10 13:51:12.494517
+36," 7,651","Mangalore to Bhubaneswar , 28 May",08:25,19:20,1 stop via Bengaluru,"Spicejet, AirAsia",2021-05-10 13:51:12.494517
+37," 8,298","Mangalore to Bhubaneswar , 28 May",11:40,18:05,1 stop via Mumbai,IndiGo,2021-05-10 13:51:12.494517
+38," 9,563","Mangalore to Bhubaneswar , 28 May",12:35,10:20,"4 stop via Coimbatore,Mumbai,Bengaluru,Kolkata",Air India,2021-05-10 13:51:12.494517
+39," 9,857","Mangalore to Bhubaneswar , 28 May",14:30,09:05,"2 stop via Bengaluru,New Delhi","IndiGo, Vistara",2021-05-10 13:51:12.494517
+40," 9,857","Mangalore to Bhubaneswar , 28 May",08:25,09:05,"2 stop via Bengaluru,New Delhi","Spicejet, Vistara",2021-05-10 13:51:12.494517
+41," 9,859","Mangalore to Bhubaneswar , 28 May",08:25,20:55,"2 stop via Bengaluru,New Delhi","Spicejet, Air India",2021-05-10 13:51:12.494517
+42," 8,034","Mangalore to Bagdogra , 28 May",18:40,08:50,1 stop via Bengaluru,Spicejet,2021-05-10 13:51:56.767857
+43," 8,034","Mangalore to Bagdogra , 28 May",21:10,12:30,1 stop via Hyderabad,IndiGo,2021-05-10 13:51:56.767857
+44," 8,034","Mangalore to Bagdogra , 28 May",08:25,08:50,1 stop via Bengaluru,Spicejet,2021-05-10 13:51:56.767857
+45," 8,955","Mangalore to Bagdogra , 28 May",14:30,12:50,"2 stop via Bengaluru,Kolkata","IndiGo, Spicejet",2021-05-10 13:51:56.767857
+46," 9,192","Mangalore to Bagdogra , 28 May",08:25,12:50,"2 stop via Bengaluru,Kolkata",Spicejet,2021-05-10 13:51:56.767857
+47," 9,745","Mangalore to Bagdogra , 28 May",08:25,14:45,1 stop via Bengaluru,"Spicejet, AirAsia",2021-05-10 13:51:56.767857
+48," 7,688","Mangalore to Nagpur , 28 May",20:00,07:25,1 stop via Mumbai,Go Air,2021-05-10 13:52:19.773352
+49," 11,820","Mangalore to Nagpur , 28 May",12:35,08:30,"4 stop via Coimbatore,Mumbai,New Delhi,Raipur",Air India,2021-05-10 13:52:19.773352
+50," 11,820","Mangalore to Nagpur , 28 May",12:35,08:30,"4 stop via Coimbatore,Mumbai,New Delhi,Raipur",Air India,2021-05-10 13:52:19.773352
+51," 12,510","Mangalore to Nagpur , 28 May",11:40,08:30,"3 stop via Mumbai,New Delhi,Raipur","IndiGo, Air India",2021-05-10 13:52:19.773352
+52," 12,510","Mangalore to Nagpur , 28 May",11:40,08:30,"4 stop via Mumbai,Aurangabad,New Delhi,Raipur","IndiGo, Air India",2021-05-10 13:52:19.773352
+53," 12,510","Mangalore to Nagpur , 28 May",11:40,08:30,"3 stop via Mumbai,New Delhi,Raipur","IndiGo, Air India",2021-05-10 13:52:19.773352
+54," 12,510","Mangalore to Nagpur , 28 May",11:40,08:30,"3 stop via Mumbai,New Delhi,Raipur","IndiGo, Air India",2021-05-10 13:52:19.773352
+55," 14,547","Mangalore to Nagpur , 28 May",12:35,08:30,"4 stop via Coimbatore,Chennai,New Delhi,Raipur",Air India,2021-05-10 13:52:19.773352
+56," 8,072","Mangalore to Varanasi , 28 May",11:40,19:00,1 stop via Mumbai,IndiGo,2021-05-10 13:52:42.426930
+57," 2,892","Mangalore to Coimbatore , 28 May",12:35,13:30,Non stop,Air India,2021-05-10 13:53:27.438203
+58," 11,190","Mangalore to Srinagar , 28 May",12:35,09:50,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:53:50.137242
+59," 6,462","Mangalore to Visakhapatnam , 28 May",14:30,18:25,1 stop via Bengaluru,IndiGo,2021-05-10 13:54:12.802907
+60," 6,462","Mangalore to Visakhapatnam , 28 May",20:40,08:30,1 stop via Hyderabad,Spicejet,2021-05-10 13:54:12.802907
+61," 7,020","Mangalore to Visakhapatnam , 28 May",08:25,14:10,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-10 13:54:12.802907
+62," 7,020","Mangalore to Visakhapatnam , 28 May",08:25,16:10,"2 stop via Bengaluru,Hyderabad","Spicejet, IndiGo",2021-05-10 13:54:12.802907
+63," 7,020","Mangalore to Visakhapatnam , 28 May",08:25,18:25,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-10 13:54:12.802907
+64," 7,020","Mangalore to Visakhapatnam , 28 May",08:25,19:55,"2 stop via Bengaluru,Hyderabad","Spicejet, IndiGo",2021-05-10 13:54:12.802907
+65," 7,021","Mangalore to Visakhapatnam , 28 May",14:30,22:55,1 stop via Bengaluru,"IndiGo, AirAsia",2021-05-10 13:54:12.802907
+66," 7,021","Mangalore to Visakhapatnam , 28 May",08:25,22:55,1 stop via Bengaluru,"Spicejet, AirAsia",2021-05-10 13:54:12.802907
+67," 7,445","Mangalore to Ranchi , 28 May",21:10,08:10,1 stop via Hyderabad,IndiGo,2021-05-10 13:54:35.496233
+68," 8,910","Mangalore to Amritsar , 28 May",08:25,11:25,"2 stop via Bengaluru,Patna",Spicejet,2021-05-10 13:54:58.141508
+69," 8,910","Mangalore to Amritsar , 28 May",08:25,18:35,"2 stop via Bengaluru,Ahmedabad",Spicejet,2021-05-10 13:54:58.141508
+70," 8,910","Mangalore to Amritsar , 28 May",08:25,18:45,"2 stop via Bengaluru,New Delhi",Spicejet,2021-05-10 13:54:58.141508
+71," 8,948","Mangalore to Amritsar , 28 May",14:30,18:45,"2 stop via Bengaluru,New Delhi","IndiGo, Spicejet",2021-05-10 13:54:58.141508
+72," 9,038","Mangalore to Amritsar , 28 May",14:30,09:20,"2 stop via Bengaluru,New Delhi","IndiGo, Vistara",2021-05-10 13:54:58.141508
+73," 9,038","Mangalore to Amritsar , 28 May",08:25,09:20,"2 stop via Bengaluru,New Delhi","Spicejet, Vistara",2021-05-10 13:54:58.141508
+74," 11,014","Mangalore to Amritsar , 28 May",08:25,22:20,"2 stop via Bengaluru,New Delhi","Spicejet, Air India",2021-05-10 13:54:58.141508
+75," 11,313","Mangalore to Amritsar , 28 May",08:25,19:45,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-10 13:54:58.141508
+76," 11,912","Mangalore to Amritsar , 28 May",12:35,22:20,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-10 13:54:58.141508
+77," 8,318","Mangalore to Chandigarh , 28 May",20:00,11:00,1 stop via Mumbai,Go Air,2021-05-10 13:55:20.975872
+78," 8,946","Mangalore to Chandigarh , 28 May",11:40,19:30,1 stop via Mumbai,"IndiGo, Go Air",2021-05-10 13:55:20.975872
+79," 8,994","Mangalore to Chandigarh , 28 May",12:35,14:45,"3 stop via Coimbatore,Mumbai,New Delhi","Air India, Vistara",2021-05-10 13:55:20.975872
+80," 8,994","Mangalore to Chandigarh , 28 May",11:40,14:45,"2 stop via Mumbai,New Delhi","IndiGo, Vistara",2021-05-10 13:55:20.975872
+81," 9,510","Mangalore to Chandigarh , 28 May",12:35,06:35,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:55:20.975872
+82," 9,510","Mangalore to Chandigarh , 28 May",12:35,06:35,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:55:20.975872
+83," 9,888","Mangalore to Chandigarh , 28 May",11:40,06:35,"2 stop via Mumbai,New Delhi","IndiGo, Air India",2021-05-10 13:55:20.975872
+84," 9,888","Mangalore to Chandigarh , 28 May",11:40,06:35,"2 stop via Mumbai,New Delhi","IndiGo, Air India",2021-05-10 13:55:20.975872
+85," 9,888","Mangalore to Chandigarh , 28 May",11:40,06:35,"3 stop via Mumbai,Aurangabad,New Delhi","IndiGo, Air India",2021-05-10 13:55:20.975872
+86," 9,888","Mangalore to Chandigarh , 28 May",11:40,06:35,"2 stop via Mumbai,New Delhi","IndiGo, Air India",2021-05-10 13:55:20.975872
+87," 10,560","Mangalore to Chandigarh , 28 May",12:35,07:40,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:55:20.975872
+88," 10,560","Mangalore to Chandigarh , 28 May",12:35,07:40,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:55:20.975872
+89," 10,823","Mangalore to Chandigarh , 28 May",12:35,10:35,"4 stop via Coimbatore,Mumbai,New Delhi,Dharamshala",Air India,2021-05-10 13:55:20.975872
+90," 10,823","Mangalore to Chandigarh , 28 May",12:35,10:35,"4 stop via Coimbatore,Mumbai,New Delhi,Dharamshala",Air India,2021-05-10 13:55:20.975872
+91," 11,715","Mangalore to Chandigarh , 28 May",12:35,06:35,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-10 13:55:20.975872
+92," 7,703","Mangalore to Raipur , 28 May",08:25,20:00,"2 stop via Bengaluru,Hyderabad","Spicejet, IndiGo",2021-05-10 13:55:44.546135
+93," 7,703","Mangalore to Raipur , 28 May",08:25,20:15,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-10 13:55:44.546135
+94," 9,448","Mangalore to Raipur , 28 May",08:25,08:20,"2 stop via Bengaluru,New Delhi","Spicejet, Vistara",2021-05-10 13:55:44.546135
+95," 9,510","Mangalore to Raipur , 28 May",12:35,07:05,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:55:44.546135
+96," 9,510","Mangalore to Raipur , 28 May",12:35,07:05,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-10 13:55:44.546135
+97," 9,571","Mangalore to Raipur , 28 May",14:30,08:20,"2 stop via Bengaluru,New Delhi","IndiGo, Vistara",2021-05-10 13:55:44.546135
+98," 9,859","Mangalore to Raipur , 28 May",14:30,07:05,"2 stop via Bengaluru,New Delhi","IndiGo, Air India",2021-05-10 13:55:44.546135
+99," 9,859","Mangalore to Raipur , 28 May",08:25,07:05,"2 stop via Bengaluru,New Delhi","Spicejet, Air India",2021-05-10 13:55:44.546135
+100," 11,715","Mangalore to Raipur , 28 May",12:35,07:05,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-10 13:55:44.546135
+101," 7,019","Mangalore to Port Blair , 28 May",18:40,07:00,"2 stop via Bengaluru,Chennai","Spicejet, IndiGo",2021-05-10 13:56:15.730347
+102," 7,619","Mangalore to Port Blair , 28 May",14:30,09:20,"2 stop via Bengaluru,Chennai","IndiGo, Spicejet",2021-05-10 13:56:15.730347
+103," 9,385","Mangalore to Port Blair , 28 May",12:35,07:00,"4 stop via Coimbatore,Mumbai,Bengaluru,Chennai","Air India, IndiGo",2021-05-10 13:56:15.730347
+104," 9,385","Mangalore to Port Blair , 28 May",12:35,09:20,"4 stop via Coimbatore,Mumbai,Bengaluru,Chennai","Air India, Spicejet",2021-05-10 13:56:15.730347
+105," 16,891","Mangalore to Port Blair , 28 May",14:30,11:20,"3 stop via Bengaluru,New Delhi,Kolkata","IndiGo, Vistara",2021-05-10 13:56:15.730347
+106," 16,891","Mangalore to Port Blair , 28 May",08:25,11:20,"3 stop via Bengaluru,New Delhi,Kolkata","Spicejet, Vistara",2021-05-10 13:56:15.730347
+107," 5,255","Mangalore to Tiruchirappalli , 28 May",14:30,18:05,1 stop via Bengaluru,IndiGo,2021-05-10 13:56:38.719733
+108," 5,760","Mangalore to Tiruchirappalli , 28 May",08:25,18:05,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-10 13:56:38.719733

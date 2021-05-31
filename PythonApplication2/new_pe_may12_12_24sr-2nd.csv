@@ -1,0 +1,3 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 6,202","Patna to Amritsar , 12 May",08:55,11:25,Non stop,Spicejet,2021-05-11 09:18:29.859129
+" 8,642","Patna to Mangalore , 12 May",10:45,08:05,1 stop via Bengaluru,Spicejet,2021-05-11 09:20:17.899410

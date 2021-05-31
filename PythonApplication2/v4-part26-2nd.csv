@@ -1,0 +1,568 @@
+,Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+0," 6,245","Chandigarh to Guwahati , 26 May",07:35,15:05,1 stop via New Delhi,IndiGo,2021-05-07 23:45:52.467332
+1," 8,144","Chandigarh to Guwahati , 26 May",07:05,12:10,1 stop via New Delhi,Air India,2021-05-07 23:45:52.467332
+2," 8,144","Chandigarh to Guwahati , 26 May",10:40,18:45,1 stop via New Delhi,Air India,2021-05-07 23:45:52.467332
+3," 8,144","Chandigarh to Guwahati , 26 May",21:15,12:10,1 stop via New Delhi,Air India,2021-05-07 23:45:52.467332
+4," 8,329","Chandigarh to Guwahati , 26 May",15:25,07:15,"2 stop via New Delhi,Kolkata","Vistara, IndiGo",2021-05-07 23:45:52.467332
+5," 8,497","Chandigarh to Guwahati , 26 May",14:10,07:05,"2 stop via New Delhi,Kolkata","IndiGo, Go Air",2021-05-07 23:45:52.467332
+6," 8,647","Chandigarh to Guwahati , 26 May",07:35,14:55,1 stop via New Delhi,"IndiGo, Go Air",2021-05-07 23:45:52.467332
+7," 8,649","Chandigarh to Guwahati , 26 May",14:10,20:30,1 stop via New Delhi,"IndiGo, Spicejet",2021-05-07 23:45:52.467332
+8," 8,650","Chandigarh to Guwahati , 26 May",15:25,20:55,1 stop via New Delhi,"Vistara, AirAsia",2021-05-07 23:45:52.467332
+9," 9,094","Chandigarh to Guwahati , 26 May",10:55,18:45,"2 stop via Dharamshala,New Delhi",Air India,2021-05-07 23:45:52.467332
+10," 4,401","Chandigarh to Lucknow , 26 May",14:10,17:35,1 stop via New Delhi,IndiGo,2021-05-07 23:46:15.574346
+11," 4,401","Chandigarh to Lucknow , 26 May",07:35,13:25,1 stop via New Delhi,IndiGo,2021-05-07 23:46:15.574346
+12," 4,401","Chandigarh to Lucknow , 26 May",07:05,19:40,1 stop via New Delhi,Air India,2021-05-07 23:46:15.574346
+13," 4,462","Chandigarh to Lucknow , 26 May",11:30,18:25,1 stop via Mumbai,Go Air,2021-05-07 23:46:15.574346
+14," 4,462","Chandigarh to Lucknow , 26 May",16:05,07:15,1 stop via Ahmedabad,Go Air,2021-05-07 23:46:15.574346
+15," 6,004","Chandigarh to Lucknow , 26 May",10:40,19:40,1 stop via New Delhi,Air India,2021-05-07 23:46:15.574346
+16," 6,004","Chandigarh to Lucknow , 26 May",21:15,08:15,1 stop via New Delhi,Air India,2021-05-07 23:46:15.574346
+17," 6,235","Chandigarh to Lucknow , 26 May",15:25,13:00,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-07 23:46:15.574346
+18," 6,393","Chandigarh to Lucknow , 26 May",07:35,13:00,1 stop via New Delhi,"IndiGo, Go Air",2021-05-07 23:46:15.574346
+19," 6,393","Chandigarh to Lucknow , 26 May",07:05,13:00,1 stop via New Delhi,"Air India, Go Air",2021-05-07 23:46:15.574346
+20," 6,394","Chandigarh to Lucknow , 26 May",10:40,17:35,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:46:15.574346
+21," 6,395","Chandigarh to Lucknow , 26 May",15:25,19:40,1 stop via New Delhi,"Vistara, Air India",2021-05-07 23:46:15.574346
+22," 3,206","Chandigarh to Jaipur , 26 May",07:35,13:25,1 stop via New Delhi,IndiGo,2021-05-07 23:47:00.566925
+23," 3,206","Chandigarh to Jaipur , 26 May",11:30,18:00,1 stop via Mumbai,Go Air,2021-05-07 23:47:00.566925
+24," 3,206","Chandigarh to Jaipur , 26 May",14:10,23:10,1 stop via New Delhi,IndiGo,2021-05-07 23:47:00.566925
+25," 3,206","Chandigarh to Jaipur , 26 May",20:00,07:35,1 stop via Mumbai,Go Air,2021-05-07 23:47:00.566925
+26," 4,401","Chandigarh to Jaipur , 26 May",07:05,12:55,1 stop via New Delhi,Air India,2021-05-07 23:47:00.566925
+27," 5,374","Chandigarh to Jaipur , 26 May",10:40,20:35,1 stop via New Delhi,Air India,2021-05-07 23:47:00.566925
+28," 5,374","Chandigarh to Jaipur , 26 May",21:15,08:55,1 stop via New Delhi,Air India,2021-05-07 23:47:00.566925
+29," 5,764","Chandigarh to Jaipur , 26 May",07:35,12:55,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:47:00.566925
+30," 5,764","Chandigarh to Jaipur , 26 May",14:10,20:35,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:47:00.566925
+31," 5,765","Chandigarh to Jaipur , 26 May",15:25,20:35,1 stop via New Delhi,"Vistara, Air India",2021-05-07 23:47:00.566925
+32," 4,598","Chandigarh to Patna , 26 May",07:35,14:20,1 stop via New Delhi,IndiGo,2021-05-07 23:47:44.879192
+33," 5,325","Chandigarh to Patna , 26 May",07:05,12:10,1 stop via New Delhi,Air India,2021-05-07 23:47:44.879192
+34," 6,634","Chandigarh to Patna , 26 May",10:40,15:20,1 stop via New Delhi,Air India,2021-05-07 23:47:44.879192
+35," 7,023","Chandigarh to Patna , 26 May",14:10,19:30,1 stop via New Delhi,"IndiGo, Go Air",2021-05-07 23:47:44.879192
+36," 7,024","Chandigarh to Patna , 26 May",07:35,12:10,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:47:44.879192
+37," 7,025","Chandigarh to Patna , 26 May",15:25,20:50,1 stop via New Delhi,"Vistara, Spicejet",2021-05-07 23:47:44.879192
+38," 8,157","Chandigarh to Patna , 26 May",10:55,18:25,"2 stop via Dharamshala,New Delhi",Air India,2021-05-07 23:47:44.879192
+39," 10,939","Chandigarh to Patna , 26 May",21:15,20:40,"2 stop via New Delhi,Kolkata",Air India,2021-05-07 23:47:44.879192
+40," 5,008","Chandigarh to Bhubaneswar , 26 May",07:35,18:10,1 stop via New Delhi,IndiGo,2021-05-07 23:48:30.483615
+41," 5,008","Chandigarh to Bhubaneswar , 26 May",15:25,09:05,1 stop via New Delhi,Vistara,2021-05-07 23:48:30.483615
+42," 7,057","Chandigarh to Bhubaneswar , 26 May",07:05,20:55,1 stop via New Delhi,Air India,2021-05-07 23:48:30.483615
+43," 7,264","Chandigarh to Bhubaneswar , 26 May",10:40,20:55,1 stop via New Delhi,Air India,2021-05-07 23:48:30.483615
+44," 7,654","Chandigarh to Bhubaneswar , 26 May",14:10,20:55,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:48:30.483615
+45," 7,655","Chandigarh to Bhubaneswar , 26 May",15:25,20:55,1 stop via New Delhi,"Vistara, Air India",2021-05-07 23:48:30.483615
+46," 8,254","Chandigarh to Bhubaneswar , 26 May",10:40,18:10,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:48:30.483615
+47," 8,652","Chandigarh to Bhubaneswar , 26 May",10:55,07:30,"3 stop via Dharamshala,New Delhi,Kolkata","Air India, IndiGo",2021-05-07 23:48:30.483615
+48," 8,787","Chandigarh to Bhubaneswar , 26 May",10:55,20:55,"2 stop via Dharamshala,New Delhi",Air India,2021-05-07 23:48:30.483615
+49," 10,207","Chandigarh to Bhubaneswar , 26 May",07:05,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:48:30.483615
+50," 11,569","Chandigarh to Bhubaneswar , 26 May",21:15,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:48:30.483615
+51," 11,569","Chandigarh to Bhubaneswar , 26 May",21:15,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:48:30.483615
+52," 7,273","Chandigarh to Kozhikode , 26 May",07:05,19:45,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:48:53.058961
+53," 7,572","Chandigarh to Kozhikode , 26 May",10:40,19:45,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:48:53.058961
+54," 7,850","Chandigarh to Kozhikode , 26 May",14:10,19:45,1 stop via New Delhi,IndiGo,2021-05-07 23:48:53.058961
+55," 8,271","Chandigarh to Kozhikode , 26 May",10:55,19:45,"2 stop via Dharamshala,New Delhi","Air India, IndiGo",2021-05-07 23:48:53.058961
+56," 9,679","Chandigarh to Kozhikode , 26 May",07:05,12:15,1 stop via New Delhi,Air India,2021-05-07 23:48:53.058961
+57," 6,662","Chandigarh to Bagdogra , 26 May",07:35,16:05,1 stop via New Delhi,IndiGo,2021-05-07 23:49:34.173212
+58," 6,944","Chandigarh to Bagdogra , 26 May",07:05,13:15,1 stop via New Delhi,Air India,2021-05-07 23:49:34.173212
+59," 7,231","Chandigarh to Bagdogra , 26 May",14:10,10:20,"2 stop via New Delhi,Kolkata","IndiGo, AirAsia",2021-05-07 23:49:34.173212
+60," 7,231","Chandigarh to Bagdogra , 26 May",14:10,10:20,"2 stop via New Delhi,Kolkata","IndiGo, AirAsia",2021-05-07 23:49:34.173212
+61," 7,231","Chandigarh to Bagdogra , 26 May",10:40,10:20,"2 stop via New Delhi,Kolkata","Air India, AirAsia",2021-05-07 23:49:34.173212
+62," 7,231","Chandigarh to Bagdogra , 26 May",10:40,10:20,"2 stop via New Delhi,Kolkata","Air India, AirAsia",2021-05-07 23:49:34.173212
+63," 7,231","Chandigarh to Bagdogra , 26 May",07:35,10:20,"2 stop via New Delhi,Kolkata","IndiGo, AirAsia",2021-05-07 23:49:34.173212
+64," 7,231","Chandigarh to Bagdogra , 26 May",07:05,10:20,"2 stop via New Delhi,Kolkata","Air India, AirAsia",2021-05-07 23:49:34.173212
+65," 7,232","Chandigarh to Bagdogra , 26 May",15:25,10:20,"2 stop via New Delhi,Kolkata","Vistara, AirAsia",2021-05-07 23:49:34.173212
+66," 7,447","Chandigarh to Bagdogra , 26 May",07:35,13:15,1 stop via New Delhi,"IndiGo, Go Air",2021-05-07 23:49:34.173212
+67," 7,449","Chandigarh to Bagdogra , 26 May",07:05,12:10,1 stop via New Delhi,"Air India, AirAsia",2021-05-07 23:49:34.173212
+68," 7,449","Chandigarh to Bagdogra , 26 May",10:40,16:05,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:49:34.173212
+69," 7,449","Chandigarh to Bagdogra , 26 May",07:35,13:15,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:49:34.173212
+70," 7,449","Chandigarh to Bagdogra , 26 May",07:35,15:00,1 stop via New Delhi,"IndiGo, Spicejet",2021-05-07 23:49:34.173212
+71," 5,845","Chandigarh to Nagpur , 26 May",07:35,15:45,1 stop via New Delhi,IndiGo,2021-05-07 23:50:19.327525
+72," 6,634","Chandigarh to Nagpur , 26 May",21:15,08:30,"2 stop via New Delhi,Raipur",Air India,2021-05-07 23:50:19.327525
+73," 7,024","Chandigarh to Nagpur , 26 May",10:40,15:45,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:50:19.327525
+74," 7,624","Chandigarh to Nagpur , 26 May",07:05,15:45,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:50:19.327525
+75," 8,857","Chandigarh to Nagpur , 26 May",20:00,07:25,1 stop via Mumbai,Go Air,2021-05-07 23:50:19.327525
+76," 9,577","Chandigarh to Nagpur , 26 May",07:05,20:35,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:50:19.327525
+77," 9,577","Chandigarh to Nagpur , 26 May",07:05,20:35,"3 stop via New Delhi,Indore,Mumbai",Air India,2021-05-07 23:50:19.327525
+78," 9,577","Chandigarh to Nagpur , 26 May",07:05,20:35,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:50:19.327525
+79," 9,577","Chandigarh to Nagpur , 26 May",07:05,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:50:19.327525
+80," 9,577","Chandigarh to Nagpur , 26 May",07:05,07:20,"3 stop via New Delhi,Indore,Mumbai",Air India,2021-05-07 23:50:19.327525
+81," 9,577","Chandigarh to Nagpur , 26 May",07:05,07:20,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-07 23:50:19.327525
+82," 10,939","Chandigarh to Nagpur , 26 May",10:40,20:35,"3 stop via New Delhi,Indore,Mumbai",Air India,2021-05-07 23:50:19.327525
+83," 11,329","Chandigarh to Nagpur , 26 May",07:35,20:35,"3 stop via New Delhi,Indore,Mumbai","IndiGo, Air India",2021-05-07 23:50:19.327525
+84," 11,329","Chandigarh to Nagpur , 26 May",07:35,20:35,"2 stop via New Delhi,Mumbai","IndiGo, Air India",2021-05-07 23:50:19.327525
+85," 11,329","Chandigarh to Nagpur , 26 May",07:35,07:20,"2 stop via New Delhi,Mumbai","IndiGo, Air India",2021-05-07 23:50:19.327525
+86," 6,634","Chandigarh to Varanasi , 26 May",07:35,11:25,1 stop via New Delhi,IndiGo,2021-05-07 23:50:36.229704
+87," 6,634","Chandigarh to Varanasi , 26 May",07:05,11:35,1 stop via New Delhi,Air India,2021-05-07 23:50:36.229704
+88," 6,634","Chandigarh to Varanasi , 26 May",14:10,21:25,1 stop via New Delhi,IndiGo,2021-05-07 23:50:36.229704
+89," 6,634","Chandigarh to Varanasi , 26 May",21:15,11:35,1 stop via New Delhi,Air India,2021-05-07 23:50:36.229704
+90," 6,867","Chandigarh to Varanasi , 26 May",10:40,09:15,"2 stop via New Delhi,Bengaluru","Air India, Go Air",2021-05-07 23:50:36.229704
+91," 6,868","Chandigarh to Varanasi , 26 May",15:25,09:15,"2 stop via New Delhi,Bengaluru","Vistara, Go Air",2021-05-07 23:50:36.229704
+92," 7,023","Chandigarh to Varanasi , 26 May",10:40,21:40,1 stop via New Delhi,"Air India, Go Air",2021-05-07 23:50:36.229704
+93," 7,024","Chandigarh to Varanasi , 26 May",07:05,11:25,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:50:36.229704
+94," 7,025","Chandigarh to Varanasi , 26 May",15:25,21:25,1 stop via New Delhi,"Vistara, IndiGo",2021-05-07 23:50:36.229704
+95," 9,487","Chandigarh to Varanasi , 26 May",20:00,08:00,1 stop via Mumbai,Go Air,2021-05-07 23:50:36.229704
+96," 5,325","Chandigarh to Indore , 26 May",07:35,15:15,1 stop via New Delhi,IndiGo,2021-05-07 23:50:59.364368
+97," 5,325","Chandigarh to Indore , 26 May",07:05,16:30,1 stop via New Delhi,Air India,2021-05-07 23:50:59.364368
+98," 6,634","Chandigarh to Indore , 26 May",10:40,16:30,1 stop via New Delhi,Air India,2021-05-07 23:50:59.364368
+99," 7,024","Chandigarh to Indore , 26 May",10:40,15:15,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:50:59.364368
+100," 7,024","Chandigarh to Indore , 26 May",07:05,15:15,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:50:59.364368
+101," 7,024","Chandigarh to Indore , 26 May",07:35,16:30,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:50:59.364368
+102," 7,025","Chandigarh to Indore , 26 May",14:10,20:05,1 stop via New Delhi,"IndiGo, AirAsia",2021-05-07 23:50:59.364368
+103," 7,025","Chandigarh to Indore , 26 May",10:40,20:05,1 stop via New Delhi,"Air India, AirAsia",2021-05-07 23:50:59.364368
+104," 7,025","Chandigarh to Indore , 26 May",07:35,20:05,1 stop via New Delhi,"IndiGo, AirAsia",2021-05-07 23:50:59.364368
+105," 7,025","Chandigarh to Indore , 26 May",07:05,20:05,1 stop via New Delhi,"Air India, AirAsia",2021-05-07 23:50:59.364368
+106," 7,626","Chandigarh to Indore , 26 May",15:25,20:05,1 stop via New Delhi,"Vistara, AirAsia",2021-05-07 23:50:59.364368
+107," 8,023","Chandigarh to Indore , 26 May",10:55,20:05,"2 stop via Dharamshala,New Delhi","Air India, AirAsia",2021-05-07 23:50:59.364368
+108," 8,947","Chandigarh to Indore , 26 May",07:05,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:50:59.364368
+109," 8,947","Chandigarh to Indore , 26 May",07:05,08:25,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-07 23:50:59.364368
+110," 10,309","Chandigarh to Indore , 26 May",10:40,08:25,"3 stop via New Delhi,Aurangabad,Mumbai",Air India,2021-05-07 23:50:59.364368
+111," 10,700","Chandigarh to Indore , 26 May",15:25,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-07 23:50:59.364368
+112," 11,307","Chandigarh to Indore , 26 May",10:55,08:25,"3 stop via Dharamshala,New Delhi,Mumbai",Air India,2021-05-07 23:50:59.364368
+113," 11,307","Chandigarh to Indore , 26 May",10:55,08:25,"3 stop via Dharamshala,New Delhi,Mumbai",Air India,2021-05-07 23:50:59.364368
+114," 11,307","Chandigarh to Indore , 26 May",10:55,08:25,"4 stop via Dharamshala,New Delhi,Aurangabad,Mumbai",Air India,2021-05-07 23:50:59.364368
+115," 8,857","Chandigarh to Coimbatore , 26 May",14:10,21:00,1 stop via New Delhi,IndiGo,2021-05-07 23:51:22.064641
+116," 8,857","Chandigarh to Coimbatore , 26 May",11:30,18:45,1 stop via Mumbai,Go Air,2021-05-07 23:51:22.064641
+117," 9,367","Chandigarh to Coimbatore , 26 May",07:05,14:25,"2 stop via New Delhi,Chennai",Air India,2021-05-07 23:51:22.064641
+118," 10,939","Chandigarh to Coimbatore , 26 May",21:15,13:30,"3 stop via New Delhi,Mumbai,Mangalore",Air India,2021-05-07 23:51:22.064641
+119," 10,939","Chandigarh to Coimbatore , 26 May",21:15,14:25,"2 stop via New Delhi,Chennai",Air India,2021-05-07 23:51:22.064641
+120," 10,939","Chandigarh to Coimbatore , 26 May",21:15,14:25,"2 stop via New Delhi,Chennai",Air India,2021-05-07 23:51:22.064641
+121," 4,060","Chandigarh to Srinagar , 26 May",12:20,13:20,Non stop,Go Air,2021-05-07 23:51:44.964296
+122," 4,060","Chandigarh to Srinagar , 26 May",17:30,18:30,Non stop,Go Air,2021-05-07 23:51:44.964296
+123," 4,060","Chandigarh to Srinagar , 26 May",07:35,14:05,1 stop via New Delhi,IndiGo,2021-05-07 23:51:44.964296
+124," 4,060","Chandigarh to Srinagar , 26 May",07:35,15:00,"2 stop via New Delhi,Jammu",IndiGo,2021-05-07 23:51:44.964296
+125," 4,060","Chandigarh to Srinagar , 26 May",07:35,16:30,1 stop via New Delhi,IndiGo,2021-05-07 23:51:44.964296
+126," 4,061","Chandigarh to Srinagar , 26 May",15:30,16:40,Non stop,IndiGo,2021-05-07 23:51:44.964296
+127," 5,448","Chandigarh to Srinagar , 26 May",07:05,11:45,1 stop via New Delhi,Air India,2021-05-07 23:51:44.964296
+128," 5,448","Chandigarh to Srinagar , 26 May",07:05,13:40,"2 stop via New Delhi,Jammu",Air India,2021-05-07 23:51:44.964296
+129," 6,004","Chandigarh to Srinagar , 26 May",21:15,08:50,1 stop via New Delhi,Air India,2021-05-07 23:51:44.964296
+130," 6,844","Chandigarh to Srinagar , 26 May",21:15,11:45,1 stop via New Delhi,Air India,2021-05-07 23:51:44.964296
+131," 8,483","Chandigarh to Srinagar , 26 May",21:15,13:40,"2 stop via New Delhi,Jammu",Air India,2021-05-07 23:51:44.964296
+132," 7,057","Chandigarh to Visakhapatnam , 26 May",12:25,18:25,1 stop via Bengaluru,IndiGo,2021-05-07 23:52:00.376595
+133," 7,057","Chandigarh to Visakhapatnam , 26 May",14:10,21:40,1 stop via New Delhi,IndiGo,2021-05-07 23:52:00.376595
+134," 7,057","Chandigarh to Visakhapatnam , 26 May",07:05,17:15,1 stop via New Delhi,Air India,2021-05-07 23:52:00.376595
+135," 7,264","Chandigarh to Visakhapatnam , 26 May",10:40,17:15,1 stop via New Delhi,Air India,2021-05-07 23:52:00.376595
+136," 7,654","Chandigarh to Visakhapatnam , 26 May",07:35,17:15,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:52:00.376595
+137," 7,655","Chandigarh to Visakhapatnam , 26 May",15:25,21:40,1 stop via New Delhi,"Vistara, IndiGo",2021-05-07 23:52:00.376595
+138," 8,652","Chandigarh to Visakhapatnam , 26 May",10:55,21:40,"2 stop via Dharamshala,New Delhi","Air India, IndiGo",2021-05-07 23:52:00.376595
+139," 10,269","Chandigarh to Visakhapatnam , 26 May",21:15,13:35,"2 stop via New Delhi,Raipur",Air India,2021-05-07 23:52:00.376595
+140," 5,007","Chandigarh to Ranchi , 26 May",14:10,20:05,1 stop via New Delhi,IndiGo,2021-05-07 23:52:23.106661
+141," 5,007","Chandigarh to Ranchi , 26 May",07:35,17:40,1 stop via New Delhi,IndiGo,2021-05-07 23:52:23.106661
+142," 6,634","Chandigarh to Ranchi , 26 May",07:05,12:45,1 stop via New Delhi,Air India,2021-05-07 23:52:23.106661
+143," 6,868","Chandigarh to Ranchi , 26 May",15:25,07:45,"2 stop via New Delhi,Mumbai","Vistara, AirAsia",2021-05-07 23:52:23.106661
+144," 6,868","Chandigarh to Ranchi , 26 May",10:40,07:40,"2 stop via New Delhi,Bengaluru","Air India, Go Air",2021-05-07 23:52:23.106661
+145," 7,024","Chandigarh to Ranchi , 26 May",15:25,20:25,1 stop via New Delhi,"Vistara, Go Air",2021-05-07 23:52:23.106661
+146," 7,024","Chandigarh to Ranchi , 26 May",07:35,12:45,1 stop via New Delhi,"IndiGo, Air India",2021-05-07 23:52:23.106661
+147," 7,025","Chandigarh to Ranchi , 26 May",14:10,19:40,1 stop via New Delhi,"IndiGo, Vistara",2021-05-07 23:52:23.106661
+148," 7,025","Chandigarh to Ranchi , 26 May",10:40,16:20,1 stop via New Delhi,"Air India, AirAsia",2021-05-07 23:52:23.106661
+149," 9,487","Chandigarh to Ranchi , 26 May",11:30,18:15,1 stop via Mumbai,Go Air,2021-05-07 23:52:23.106661
+150," 6,004","Chandigarh to Amritsar , 26 May",07:35,12:10,1 stop via New Delhi,IndiGo,2021-05-07 23:52:45.720130
+151," 4,598","Chandigarh to Raipur , 26 May",07:35,15:50,1 stop via New Delhi,IndiGo,2021-05-07 23:53:25.524437
+152," 5,902","Chandigarh to Raipur , 26 May",07:05,18:10,1 stop via New Delhi,Air India,2021-05-07 23:53:25.524437
+153," 6,634","Chandigarh to Raipur , 26 May",10:40,18:10,1 stop via New Delhi,Air India,2021-05-07 23:53:25.524437
+154," 6,634","Chandigarh to Raipur , 26 May",21:15,07:05,1 stop via New Delhi,Air India,2021-05-07 23:53:25.524437
+155," 7,024","Chandigarh to Raipur , 26 May",10:40,15:50,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:53:25.524437
+156," 7,024","Chandigarh to Raipur , 26 May",07:05,15:50,1 stop via New Delhi,"Air India, IndiGo",2021-05-07 23:53:25.524437
+157," 7,632","Chandigarh to Raipur , 26 May",10:55,18:10,"2 stop via Dharamshala,New Delhi",Air India,2021-05-07 23:53:25.524437
+158," 10,888","Chandigarh to Raipur , 26 May",14:10,13:55,"3 stop via New Delhi,Hyderabad,Jagdalpur","IndiGo, Air India",2021-05-07 23:53:25.524437
+159," 10,889","Chandigarh to Raipur , 26 May",15:25,13:55,"3 stop via New Delhi,Hyderabad,Jagdalpur","Vistara, Air India",2021-05-07 23:53:25.524437
+160," 11,329","Chandigarh to Raipur , 26 May",14:10,11:50,"2 stop via New Delhi,Mumbai","IndiGo, Air India",2021-05-07 23:53:25.524437
+161," 10,524","Chandigarh to Port Blair , 26 May",10:40,08:25,"2 stop via New Delhi,Kolkata","Air India, IndiGo",2021-05-07 23:54:06.505878
+162," 10,727","Chandigarh to Port Blair , 26 May",19:00,08:25,1 stop via Kolkata,IndiGo,2021-05-07 23:54:06.505878
+163," 10,826","Chandigarh to Port Blair , 26 May",15:25,08:25,"2 stop via New Delhi,Kolkata","Vistara, IndiGo",2021-05-07 23:54:06.505878
+164," 11,223","Chandigarh to Port Blair , 26 May",10:55,08:25,"3 stop via Dharamshala,New Delhi,Kolkata","Air India, IndiGo",2021-05-07 23:54:06.505878
+165," 11,849","Chandigarh to Port Blair , 26 May",07:35,10:00,"2 stop via New Delhi,Kolkata","IndiGo, Go Air",2021-05-07 23:54:06.505878
+166," 11,849","Chandigarh to Port Blair , 26 May",07:05,10:00,"2 stop via New Delhi,Kolkata","Air India, Go Air",2021-05-07 23:54:06.505878
+167," 12,071","Chandigarh to Port Blair , 26 May",14:10,10:00,"2 stop via New Delhi,Kolkata","IndiGo, Go Air",2021-05-07 23:54:06.505878
+168," 12,589","Chandigarh to Port Blair , 26 May",14:10,07:20,"2 stop via New Delhi,Chennai","IndiGo, Air India",2021-05-07 23:54:06.505878
+169," 12,589","Chandigarh to Port Blair , 26 May",10:40,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-07 23:54:06.505878
+170," 12,590","Chandigarh to Port Blair , 26 May",15:25,07:20,"2 stop via New Delhi,Chennai","Vistara, Air India",2021-05-07 23:54:06.505878
+171," 7,126","Raipur to Guwahati , 26 May",20:45,07:15,1 stop via Kolkata,IndiGo,2021-05-07 23:54:55.723991
+172," 8,829","Raipur to Guwahati , 26 May",18:55,11:05,"2 stop via New Delhi,Kolkata",Air India,2021-05-07 23:54:55.723991
+173," 8,829","Raipur to Guwahati , 26 May",18:55,11:25,"2 stop via New Delhi,Kolkata",Air India,2021-05-07 23:54:55.723991
+174," 10,959","Raipur to Guwahati , 26 May",12:30,11:05,"3 stop via Visakhapatnam,Mumbai,Kolkata",Air India,2021-05-07 23:54:55.723991
+175," 11,926","Raipur to Guwahati , 26 May",12:30,07:35,"3 stop via Visakhapatnam,Mumbai,Kolkata",Air India,2021-05-07 23:54:55.723991
+176," 14,825","Raipur to Guwahati , 26 May",13:45,12:10,"3 stop via Jharsuguda,Kolkata,New Delhi",Air India,2021-05-07 23:54:55.723991
+177," 5,290","Raipur to Lucknow , 26 May",08:55,14:50,1 stop via New Delhi,Vistara,2021-05-07 23:55:18.546112
+178," 5,969","Raipur to Lucknow , 26 May",09:10,16:15,1 stop via Bengaluru,IndiGo,2021-05-07 23:55:18.546112
+179," 7,546","Raipur to Lucknow , 26 May",18:55,08:15,1 stop via New Delhi,Air India,2021-05-07 23:55:18.546112
+180," 7,709","Raipur to Lucknow , 26 May",08:55,07:15,"2 stop via New Delhi,Ahmedabad","Vistara, Go Air",2021-05-07 23:55:18.546112
+181," 7,709","Raipur to Lucknow , 26 May",08:55,13:00,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-07 23:55:18.546112
+182," 7,776","Raipur to Lucknow , 26 May",16:20,13:00,"2 stop via New Delhi,Mumbai","IndiGo, Go Air",2021-05-07 23:55:18.546112
+183," 7,935","Raipur to Lucknow , 26 May",16:20,22:15,1 stop via New Delhi,"IndiGo, Go Air",2021-05-07 23:55:18.546112
+184," 7,936","Raipur to Lucknow , 26 May",08:55,17:55,1 stop via New Delhi,"Vistara, Go Air",2021-05-07 23:55:18.546112
+185," 7,936","Raipur to Lucknow , 26 May",08:55,22:15,1 stop via New Delhi,"Vistara, Go Air",2021-05-07 23:55:18.546112
+186," 7,937","Raipur to Lucknow , 26 May",08:55,17:35,1 stop via New Delhi,"Vistara, IndiGo",2021-05-07 23:55:18.546112
+187," 7,937","Raipur to Lucknow , 26 May",08:55,19:40,1 stop via New Delhi,"Vistara, Air India",2021-05-07 23:55:18.546112
+188," 7,937","Raipur to Lucknow , 26 May",08:55,19:45,1 stop via New Delhi,"Vistara, IndiGo",2021-05-07 23:55:18.546112
+189," 9,229","Raipur to Lucknow , 26 May",12:30,08:15,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-07 23:55:18.546112
+190," 9,859","Raipur to Lucknow , 26 May",13:45,08:15,"3 stop via Jharsuguda,Kolkata,New Delhi",Air India,2021-05-07 23:55:18.546112
+191," 10,384","Raipur to Lucknow , 26 May",12:30,08:15,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-07 23:55:18.546112
+192," 10,384","Raipur to Lucknow , 26 May",12:30,08:15,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-07 23:55:18.546112
+193," 13,502","Raipur to Lucknow , 26 May",08:55,10:30,"3 stop via New Delhi,Aurangabad,Mumbai","Vistara, Air India",2021-05-07 23:55:18.546112
+194," 13,502","Raipur to Lucknow , 26 May",08:55,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-07 23:55:18.546112
+195," 13,502","Raipur to Lucknow , 26 May",08:55,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-07 23:55:18.546112
+196," 5,607","Raipur to Jaipur , 26 May",16:20,23:10,1 stop via New Delhi,IndiGo,2021-05-07 23:55:41.185516
+197," 5,607","Raipur to Jaipur , 26 May",09:10,17:25,1 stop via Bengaluru,IndiGo,2021-05-07 23:55:41.185516
+198," 6,916","Raipur to Jaipur , 26 May",18:55,08:55,1 stop via New Delhi,Air India,2021-05-07 23:55:41.185516
+199," 7,307","Raipur to Jaipur , 26 May",08:55,14:00,1 stop via New Delhi,"Vistara, Air India",2021-05-07 23:55:41.185516
+200," 7,307","Raipur to Jaipur , 26 May",08:55,20:35,1 stop via New Delhi,"Vistara, Air India",2021-05-07 23:55:41.185516
+201," 7,307","Raipur to Jaipur , 26 May",08:55,23:10,1 stop via New Delhi,"Vistara, IndiGo",2021-05-07 23:55:41.185516
+202," 9,859","Raipur to Jaipur , 26 May",18:55,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:55:41.185516
+203," 9,859","Raipur to Jaipur , 26 May",18:55,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:55:41.185516
+204," 10,591","Raipur to Jaipur , 26 May",12:30,08:55,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-07 23:55:41.185516
+205," 10,591","Raipur to Jaipur , 26 May",12:30,08:55,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-07 23:55:41.185516
+206," 11,221","Raipur to Jaipur , 26 May",13:45,08:55,"3 stop via Jharsuguda,Kolkata,New Delhi",Air India,2021-05-07 23:55:41.185516
+207," 14,371","Raipur to Jaipur , 26 May",13:45,09:20,"3 stop via Jharsuguda,Kolkata,Bengaluru",Air India,2021-05-07 23:55:41.185516
+208," 16,021","Raipur to Jaipur , 26 May",16:20,09:20,"2 stop via New Delhi,Bengaluru","IndiGo, Air India",2021-05-07 23:55:41.185516
+209," 6,329","Raipur to Patna , 26 May",20:45,08:05,1 stop via Kolkata,IndiGo,2021-05-07 23:56:03.823017
+210," 6,329","Raipur to Patna , 26 May",09:10,20:45,1 stop via Bengaluru,IndiGo,2021-05-07 23:56:03.823017
+211," 9,859","Raipur to Patna , 26 May",18:55,20:40,"2 stop via New Delhi,Kolkata",Air India,2021-05-07 23:56:03.823017
+212," 12,904","Raipur to Patna , 26 May",18:55,21:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-07 23:56:03.823017
+213," 8,071","Raipur to Thiruvananthapuram , 26 May",09:10,18:15,1 stop via Bengaluru,IndiGo,2021-05-07 23:56:19.034457
+214," 8,176","Raipur to Thiruvananthapuram , 26 May",12:30,19:40,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-07 23:56:19.034457
+215," 6,109","Raipur to Bhubaneswar , 26 May",20:45,07:30,1 stop via Kolkata,IndiGo,2021-05-07 23:56:41.659649
+216," 10,489","Raipur to Bhubaneswar , 26 May",18:55,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:56:41.659649
+217," 10,489","Raipur to Bhubaneswar , 26 May",18:55,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:56:41.659649
+218," 11,851","Raipur to Bhubaneswar , 26 May",12:30,10:30,"4 stop via Visakhapatnam,Mumbai,Kolkata,Jharsuguda",Air India,2021-05-07 23:56:41.659649
+219," 7,546","Raipur to Nagpur , 26 May",12:30,20:35,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-07 23:57:48.141772
+220," 9,859","Raipur to Nagpur , 26 May",18:55,20:35,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:57:48.141772
+221," 9,859","Raipur to Nagpur , 26 May",18:55,20:35,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:57:48.141772
+222," 3,871","Raipur to Nagpur , 27 May",07:45,08:30,Non stop,Air India,2021-05-07 23:57:48.141772
+223," 10,591","Raipur to Nagpur , 26 May",14:25,07:20,"3 stop via Jagdalpur,Hyderabad,Mumbai",Air India,2021-05-07 23:57:48.141772
+224," 5,699","Raipur to Varanasi , 26 May",16:20,21:25,1 stop via New Delhi,IndiGo,2021-05-07 23:58:11.078202
+225," 5,699","Raipur to Varanasi , 26 May",08:55,14:45,1 stop via New Delhi,Vistara,2021-05-07 23:58:11.078202
+226," 8,344","Raipur to Varanasi , 26 May",08:55,09:15,"2 stop via New Delhi,Bengaluru","Vistara, Go Air",2021-05-07 23:58:11.078202
+227," 8,344","Raipur to Varanasi , 26 May",08:55,12:35,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-07 23:58:11.078202
+228," 8,409","Raipur to Varanasi , 26 May",16:20,12:35,"2 stop via New Delhi,Mumbai","IndiGo, Go Air",2021-05-07 23:58:11.078202
+229," 8,565","Raipur to Varanasi , 26 May",16:20,21:40,1 stop via New Delhi,"IndiGo, Go Air",2021-05-07 23:58:11.078202
+230," 8,566","Raipur to Varanasi , 26 May",08:55,21:40,1 stop via New Delhi,"Vistara, Go Air",2021-05-07 23:58:11.078202
+231," 8,567","Raipur to Varanasi , 26 May",08:55,21:25,1 stop via New Delhi,"Vistara, IndiGo",2021-05-07 23:58:11.078202
+232," 9,583","Raipur to Varanasi , 26 May",14:25,12:40,"3 stop via Jagdalpur,Hyderabad,Mumbai",Air India,2021-05-07 23:58:11.078202
+233," 9,859","Raipur to Varanasi , 26 May",13:45,11:35,"3 stop via Jharsuguda,Kolkata,New Delhi",Air India,2021-05-07 23:58:11.078202
+234," 10,489","Raipur to Varanasi , 26 May",18:55,12:40,"2 stop via New Delhi,Mumbai",Air India,2021-05-07 23:58:11.078202
+235," 13,362","Raipur to Varanasi , 26 May",16:20,08:00,"2 stop via New Delhi,Mumbai","IndiGo, Go Air",2021-05-07 23:58:11.078202
+236," 13,363","Raipur to Varanasi , 26 May",08:55,08:00,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-07 23:58:11.078202
+237," 13,363","Raipur to Varanasi , 26 May",08:55,08:00,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-07 23:58:11.078202
+238," 13,502","Raipur to Varanasi , 26 May",08:55,15:35,"2 stop via New Delhi,Mumbai",Vistara,2021-05-07 23:58:11.078202
+239," 9,961","Raipur to Indore , 26 May",14:25,08:25,"3 stop via Jagdalpur,Hyderabad,Mumbai",Air India,2021-05-07 23:58:32.596737
+240," 8,124","Raipur to Coimbatore , 26 May",09:10,15:50,1 stop via Bengaluru,IndiGo,2021-05-07 23:58:55.553474
+241," 9,754","Raipur to Coimbatore , 26 May",18:55,14:25,"2 stop via New Delhi,Chennai",Air India,2021-05-07 23:58:55.553474
+242," 9,859","Raipur to Coimbatore , 26 May",18:55,13:30,"3 stop via New Delhi,Mumbai,Mangalore",Air India,2021-05-07 23:58:55.553474
+243," 10,591","Raipur to Coimbatore , 26 May",14:25,13:30,"4 stop via Jagdalpur,Hyderabad,Mumbai,Mangalore",Air India,2021-05-07 23:58:55.553474
+244," 13,397","Raipur to Coimbatore , 26 May",08:55,13:30,"4 stop via New Delhi,Hyderabad,Mumbai,Mangalore","Vistara, Air India",2021-05-07 23:58:55.553474
+245," 16,786","Raipur to Coimbatore , 26 May",13:45,14:25,"4 stop via Jharsuguda,Kolkata,New Delhi,Chennai",Air India,2021-05-07 23:58:55.553474
+246," 7,266","Raipur to Srinagar , 26 May",18:55,08:50,1 stop via New Delhi,Air India,2021-05-07 23:59:18.133438
+247," 7,707","Raipur to Srinagar , 26 May",16:20,07:45,"3 stop via New Delhi,Mumbai,Leh","IndiGo, Go Air",2021-05-07 23:59:18.133438
+248," 7,708","Raipur to Srinagar , 26 May",08:55,07:45,"3 stop via New Delhi,Mumbai,Leh","Vistara, Go Air",2021-05-07 23:59:18.133438
+249," 7,708","Raipur to Srinagar , 26 May",08:55,07:45,"3 stop via New Delhi,Mumbai,Leh","Vistara, Go Air",2021-05-07 23:59:18.133438
+250," 7,936","Raipur to Srinagar , 26 May",08:55,15:05,1 stop via New Delhi,"Vistara, Go Air",2021-05-07 23:59:18.133438
+251," 11,221","Raipur to Srinagar , 26 May",12:30,08:50,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-07 23:59:18.133438
+252," 11,221","Raipur to Srinagar , 26 May",12:30,08:50,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-07 23:59:18.133438
+253," 11,221","Raipur to Srinagar , 26 May",12:30,08:50,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-07 23:59:18.133438
+254," 11,851","Raipur to Srinagar , 26 May",13:45,08:50,"3 stop via Jharsuguda,Kolkata,New Delhi",Air India,2021-05-07 23:59:18.133438
+255," 3,871","Raipur to Visakhapatnam , 26 May",12:30,13:35,Non stop,Air India,2021-05-07 23:59:40.798882
+256," 3,871","Raipur to Visakhapatnam , 26 May",09:10,14:10,1 stop via Bengaluru,IndiGo,2021-05-07 23:59:40.798882
+257," 3,871","Raipur to Visakhapatnam , 26 May",16:20,21:40,1 stop via New Delhi,IndiGo,2021-05-07 23:59:40.798882
+258," 3,871","Raipur to Visakhapatnam , 26 May",09:10,18:25,1 stop via Bengaluru,IndiGo,2021-05-07 23:59:40.798882
+259," 6,109","Raipur to Ranchi , 26 May",08:55,19:40,1 stop via New Delhi,Vistara,2021-05-07 23:59:58.660038
+260," 6,109","Raipur to Ranchi , 26 May",20:35,08:10,1 stop via Hyderabad,IndiGo,2021-05-07 23:59:58.660038
+261," 8,343","Raipur to Ranchi , 26 May",16:20,07:45,"2 stop via New Delhi,Mumbai","IndiGo, AirAsia",2021-05-07 23:59:58.660038
+262," 8,344","Raipur to Ranchi , 26 May",08:55,07:40,"2 stop via New Delhi,Bengaluru","Vistara, Go Air",2021-05-07 23:59:58.660038
+263," 8,344","Raipur to Ranchi , 26 May",08:55,07:45,"2 stop via New Delhi,Mumbai","Vistara, AirAsia",2021-05-07 23:59:58.660038
+264," 8,344","Raipur to Ranchi , 26 May",08:55,07:45,"2 stop via New Delhi,Mumbai","Vistara, AirAsia",2021-05-07 23:59:58.660038
+265," 8,566","Raipur to Ranchi , 26 May",08:55,17:10,1 stop via New Delhi,"Vistara, Go Air",2021-05-07 23:59:58.660038
+266," 8,566","Raipur to Ranchi , 26 May",08:55,20:25,1 stop via New Delhi,"Vistara, Go Air",2021-05-07 23:59:58.660038
+267," 8,568","Raipur to Ranchi , 26 May",08:55,16:20,1 stop via New Delhi,"Vistara, AirAsia",2021-05-07 23:59:58.660038
+268," 5,290","Raipur to Amritsar , 26 May",08:55,14:50,1 stop via New Delhi,Vistara,2021-05-08 00:00:21.506915
+269," 7,936","Raipur to Amritsar , 26 May",16:20,22:20,1 stop via New Delhi,"IndiGo, Air India",2021-05-08 00:00:21.506915
+270," 7,937","Raipur to Amritsar , 26 May",08:55,18:45,1 stop via New Delhi,"Vistara, Spicejet",2021-05-08 00:00:21.506915
+271," 7,937","Raipur to Amritsar , 26 May",08:55,22:20,1 stop via New Delhi,"Vistara, Air India",2021-05-08 00:00:21.506915
+272," 4,880","Raipur to Chandigarh , 26 May",08:55,14:45,1 stop via New Delhi,Vistara,2021-05-08 00:00:41.140171
+273," 6,184","Raipur to Chandigarh , 26 May",18:55,06:35,1 stop via New Delhi,Air India,2021-05-08 00:00:41.140171
+274," 6,916","Raipur to Chandigarh , 26 May",18:55,07:40,1 stop via New Delhi,Air India,2021-05-08 00:00:41.140171
+275," 7,083","Raipur to Chandigarh , 26 May",16:20,11:00,"2 stop via New Delhi,Mumbai","IndiGo, Go Air",2021-05-08 00:00:41.140171
+276," 7,084","Raipur to Chandigarh , 26 May",08:55,11:00,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-08 00:00:41.140171
+277," 7,084","Raipur to Chandigarh , 26 May",08:55,11:00,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-08 00:00:41.140171
+278," 7,307","Raipur to Chandigarh , 26 May",08:55,16:45,1 stop via New Delhi,"Vistara, IndiGo",2021-05-08 00:00:41.140171
+279," 7,307","Raipur to Chandigarh , 26 May",08:55,19:45,1 stop via New Delhi,"Vistara, IndiGo",2021-05-08 00:00:41.140171
+280," 7,307","Raipur to Chandigarh , 26 May",08:55,20:45,1 stop via New Delhi,"Vistara, Air India",2021-05-08 00:00:41.140171
+281," 8,439","Raipur to Chandigarh , 26 May",18:55,10:35,"2 stop via New Delhi,Dharamshala",Air India,2021-05-08 00:00:41.140171
+282," 8,986","Raipur to Chandigarh , 26 May",08:55,16:50,"2 stop via New Delhi,Srinagar","Vistara, Go Air",2021-05-08 00:00:41.140171
+283," 9,229","Raipur to Chandigarh , 26 May",12:30,06:35,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-08 00:00:41.140171
+284," 9,229","Raipur to Chandigarh , 26 May",12:30,06:35,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-08 00:00:41.140171
+285," 10,384","Raipur to Chandigarh , 26 May",12:30,06:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:00:41.140171
+286," 7,494","Raipur to Mangalore , 26 May",09:10,13:55,1 stop via Bengaluru,IndiGo,2021-05-08 00:01:08.302196
+287," 9,859","Raipur to Mangalore , 26 May",18:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 00:01:08.302196
+288," 10,161","Raipur to Mangalore , 26 May",08:55,19:25,"2 stop via New Delhi,Mumbai","Vistara, Go Air",2021-05-08 00:01:08.302196
+289," 10,591","Raipur to Mangalore , 26 May",14:25,12:00,"3 stop via Jagdalpur,Hyderabad,Mumbai",Air India,2021-05-08 00:01:08.302196
+290," 8,647","Raipur to Port Blair , 26 May",20:45,08:25,1 stop via Kolkata,IndiGo,2021-05-08 00:01:26.286735
+291," 11,641","Raipur to Port Blair , 26 May",14:25,07:20,"3 stop via Jagdalpur,Hyderabad,Chennai",Air India,2021-05-08 00:01:26.286735
+292," 12,481","Raipur to Port Blair , 26 May",18:55,09:00,1 stop via New Delhi,Air India,2021-05-08 00:01:26.286735
+293," 12,817","Raipur to Port Blair , 26 May",12:30,09:00,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-08 00:01:26.286735
+294," 12,817","Raipur to Port Blair , 26 May",12:30,09:00,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-08 00:01:26.286735
+295," 16,156","Raipur to Port Blair , 26 May",12:30,09:00,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:01:26.286735
+296," 17,710","Raipur to Port Blair , 26 May",13:45,09:00,"3 stop via Jharsuguda,Kolkata,New Delhi",Air India,2021-05-08 00:01:26.286735
+297," 7,546","Raipur to Tiruchirappalli , 26 May",09:10,18:05,1 stop via Bengaluru,IndiGo,2021-05-08 00:01:45.030221
+298," 9,117","Mangalore to Guwahati , 26 May",18:40,07:15,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:02:25.110975
+299," 9,117","Mangalore to Guwahati , 26 May",18:40,10:20,"2 stop via Bengaluru,Mumbai","Spicejet, IndiGo",2021-05-08 00:02:25.110975
+300," 9,406","Mangalore to Guwahati , 26 May",18:40,06:40,"2 stop via Bengaluru,Kolkata","Spicejet, AirAsia",2021-05-08 00:02:25.110975
+301," 9,406","Mangalore to Guwahati , 26 May",18:40,06:40,"2 stop via Bengaluru,Kolkata","Spicejet, AirAsia",2021-05-08 00:02:25.110975
+302," 9,406","Mangalore to Guwahati , 26 May",14:30,06:40,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:02:25.110975
+303," 9,406","Mangalore to Guwahati , 26 May",14:30,06:40,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:02:25.110975
+304," 9,556","Mangalore to Guwahati , 26 May",08:25,17:35,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:02:25.110975
+305," 9,745","Mangalore to Guwahati , 26 May",08:25,18:25,1 stop via Bengaluru,"Spicejet, AirAsia",2021-05-08 00:02:25.110975
+306," 9,745","Mangalore to Guwahati , 26 May",08:25,19:50,1 stop via Bengaluru,"Spicejet, AirAsia",2021-05-08 00:02:25.110975
+307," 11,210","Mangalore to Guwahati , 26 May",12:35,11:05,"3 stop via Coimbatore,Mumbai,Kolkata",Air India,2021-05-08 00:02:25.110975
+308," 12,177","Mangalore to Guwahati , 26 May",12:35,07:35,"3 stop via Coimbatore,Mumbai,Kolkata",Air India,2021-05-08 00:02:25.110975
+309," 8,297","Mangalore to Lucknow , 26 May",11:40,18:20,1 stop via Mumbai,IndiGo,2021-05-08 00:02:47.834436
+310," 8,297","Mangalore to Lucknow , 26 May",11:40,22:00,1 stop via Mumbai,IndiGo,2021-05-08 00:02:47.834436
+311," 8,751","Mangalore to Lucknow , 26 May",08:25,22:15,"3 stop via Bengaluru,Goa,New Delhi","Spicejet, Go Air",2021-05-08 00:02:47.834436
+312," 8,909","Mangalore to Lucknow , 26 May",08:25,17:10,1 stop via Bengaluru,"Spicejet, Go Air",2021-05-08 00:02:47.834436
+313," 8,909","Mangalore to Lucknow , 26 May",08:25,19:45,"2 stop via Bengaluru,New Delhi","Spicejet, IndiGo",2021-05-08 00:02:47.834436
+314," 8,909","Mangalore to Lucknow , 26 May",08:25,22:00,"2 stop via Bengaluru,Mumbai","Spicejet, IndiGo",2021-05-08 00:02:47.834436
+315," 8,910","Mangalore to Lucknow , 26 May",08:25,16:15,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-08 00:02:47.834436
+316," 10,665","Mangalore to Lucknow , 26 May",12:35,08:15,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:02:47.834436
+317," 10,665","Mangalore to Lucknow , 26 May",12:35,08:15,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:02:47.834436
+318," 11,715","Mangalore to Lucknow , 26 May",12:35,08:15,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-08 00:02:47.834436
+319," 7,442","Mangalore to Jaipur , 26 May",11:40,17:15,1 stop via Mumbai,IndiGo,2021-05-08 00:03:10.535303
+320," 7,688","Mangalore to Jaipur , 26 May",20:00,07:35,1 stop via Mumbai,Go Air,2021-05-08 00:03:10.535303
+321," 8,682","Mangalore to Jaipur , 26 May",08:25,20:55,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:03:10.535303
+322," 8,682","Mangalore to Jaipur , 26 May",08:25,23:10,"2 stop via Bengaluru,New Delhi","Spicejet, IndiGo",2021-05-08 00:03:10.535303
+323," 8,905","Mangalore to Jaipur , 26 May",08:25,07:35,"2 stop via Bengaluru,Mumbai","Spicejet, Go Air",2021-05-08 00:03:10.535303
+324," 8,910","Mangalore to Jaipur , 26 May",08:25,17:25,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-08 00:03:10.535303
+325," 8,911","Mangalore to Jaipur , 26 May",08:25,16:45,"2 stop via Bengaluru,Pune","Spicejet, AirAsia",2021-05-08 00:03:10.535303
+326," 8,911","Mangalore to Jaipur , 26 May",08:25,20:30,"2 stop via Bengaluru,Hyderabad","Spicejet, AirAsia",2021-05-08 00:03:10.535303
+327," 8,911","Mangalore to Jaipur , 26 May",08:25,20:30,"2 stop via Bengaluru,Hyderabad","Spicejet, AirAsia",2021-05-08 00:03:10.535303
+328," 10,560","Mangalore to Jaipur , 26 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:03:10.535303
+329," 7,723","Mangalore to Patna , 26 May",20:40,10:10,1 stop via Hyderabad,Spicejet,2021-05-08 00:03:49.295738
+330," 8,126","Mangalore to Patna , 26 May",14:30,20:45,1 stop via Bengaluru,IndiGo,2021-05-08 00:03:49.295738
+331," 8,352","Mangalore to Patna , 26 May",08:25,16:40,1 stop via Bengaluru,Spicejet,2021-05-08 00:03:49.295738
+332," 8,352","Mangalore to Patna , 26 May",18:40,16:40,1 stop via Bengaluru,Spicejet,2021-05-08 00:03:49.295738
+333," 9,811","Mangalore to Patna , 26 May",14:30,07:25,"3 stop via Bengaluru,Mumbai,New Delhi","IndiGo, Go Air",2021-05-08 00:03:49.295738
+334," 9,811","Mangalore to Patna , 26 May",14:30,12:30,"3 stop via Bengaluru,Mumbai,New Delhi","IndiGo, Go Air",2021-05-08 00:03:49.295738
+335," 9,812","Mangalore to Patna , 26 May",12:35,07:25,"3 stop via Coimbatore,Mumbai,New Delhi","Air India, Go Air",2021-05-08 00:03:49.295738
+336," 9,812","Mangalore to Patna , 26 May",11:40,07:25,"2 stop via Mumbai,New Delhi","IndiGo, Go Air",2021-05-08 00:03:49.295738
+337," 9,812","Mangalore to Patna , 26 May",12:35,12:30,"3 stop via Coimbatore,Mumbai,New Delhi","Air India, Go Air",2021-05-08 00:03:49.295738
+338," 9,812","Mangalore to Patna , 26 May",11:40,12:30,"2 stop via Mumbai,New Delhi","IndiGo, Go Air",2021-05-08 00:03:49.295738
+339," 10,094","Mangalore to Patna , 26 May",12:35,21:40,"2 stop via Coimbatore,Mumbai","Air India, Spicejet",2021-05-08 00:03:49.295738
+340," 5,832","Mangalore to Thiruvananthapuram , 26 May",14:30,18:15,1 stop via Bengaluru,IndiGo,2021-05-08 00:04:11.919558
+341," 8,457","Mangalore to Thiruvananthapuram , 26 May",12:35,19:40,"2 stop via Coimbatore,Mumbai",Air India,2021-05-08 00:04:11.919558
+342," 7,145","Mangalore to Bhubaneswar , 26 May",11:40,18:05,1 stop via Mumbai,IndiGo,2021-05-08 00:04:34.717741
+343," 7,650","Mangalore to Bhubaneswar , 26 May",08:25,16:35,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:04:34.717741
+344," 7,650","Mangalore to Bhubaneswar , 26 May",08:25,20:50,"2 stop via Bengaluru,Hyderabad","Spicejet, IndiGo",2021-05-08 00:04:34.717741
+345," 7,650","Mangalore to Bhubaneswar , 26 May",18:40,07:30,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:04:34.717741
+346," 7,651","Mangalore to Bhubaneswar , 26 May",08:25,14:00,1 stop via Bengaluru,"Spicejet, Air India",2021-05-08 00:04:34.717741
+347," 7,651","Mangalore to Bhubaneswar , 26 May",08:25,19:20,1 stop via Bengaluru,"Spicejet, AirAsia",2021-05-08 00:04:34.717741
+348," 7,651","Mangalore to Bhubaneswar , 26 May",18:40,08:45,"2 stop via Bengaluru,Kolkata","Spicejet, AirAsia",2021-05-08 00:04:34.717741
+349," 7,651","Mangalore to Bhubaneswar , 26 May",18:40,08:45,"2 stop via Bengaluru,Kolkata","Spicejet, AirAsia",2021-05-08 00:04:34.717741
+350," 7,651","Mangalore to Bhubaneswar , 26 May",14:30,08:45,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:04:34.717741
+351," 7,651","Mangalore to Bhubaneswar , 26 May",14:30,08:45,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:04:34.717741
+352," 9,857","Mangalore to Bhubaneswar , 26 May",14:30,09:05,"2 stop via Bengaluru,New Delhi","IndiGo, Vistara",2021-05-08 00:04:34.717741
+353," 9,857","Mangalore to Bhubaneswar , 26 May",08:25,09:05,"2 stop via Bengaluru,New Delhi","Spicejet, Vistara",2021-05-08 00:04:34.717741
+354," 8,274","Mangalore to Bagdogra , 26 May",21:10,12:30,1 stop via Hyderabad,IndiGo,2021-05-08 00:05:19.952829
+355," 8,627","Mangalore to Bagdogra , 26 May",18:40,08:50,1 stop via Bengaluru,Spicejet,2021-05-08 00:05:19.952829
+356," 8,627","Mangalore to Bagdogra , 26 May",08:25,08:50,1 stop via Bengaluru,Spicejet,2021-05-08 00:05:19.952829
+357," 9,235","Mangalore to Bagdogra , 26 May",18:40,10:20,"2 stop via Bengaluru,Kolkata","Spicejet, AirAsia",2021-05-08 00:05:19.952829
+358," 9,235","Mangalore to Bagdogra , 26 May",18:40,10:20,"2 stop via Bengaluru,Kolkata","Spicejet, AirAsia",2021-05-08 00:05:19.952829
+359," 9,235","Mangalore to Bagdogra , 26 May",14:30,10:20,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:05:19.952829
+360," 9,235","Mangalore to Bagdogra , 26 May",14:30,10:20,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:05:19.952829
+361," 9,235","Mangalore to Bagdogra , 26 May",14:30,10:20,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:05:19.952829
+362," 9,235","Mangalore to Bagdogra , 26 May",14:30,12:10,"2 stop via Bengaluru,New Delhi","IndiGo, AirAsia",2021-05-08 00:05:19.952829
+363," 9,235","Mangalore to Bagdogra , 26 May",08:25,10:20,"2 stop via Bengaluru,Kolkata","Spicejet, AirAsia",2021-05-08 00:05:19.952829
+364," 9,235","Mangalore to Bagdogra , 26 May",08:25,12:10,"2 stop via Bengaluru,New Delhi","Spicejet, AirAsia",2021-05-08 00:05:19.952829
+365," 9,546","Mangalore to Bagdogra , 26 May",14:30,08:25,"2 stop via Bengaluru,Kolkata","IndiGo, Spicejet",2021-05-08 00:05:19.952829
+366," 9,546","Mangalore to Bagdogra , 26 May",14:30,12:50,"2 stop via Bengaluru,Kolkata","IndiGo, Spicejet",2021-05-08 00:05:19.952829
+367," 9,546","Mangalore to Bagdogra , 26 May",08:25,08:25,"2 stop via Bengaluru,Kolkata",Spicejet,2021-05-08 00:05:19.952829
+368," 9,546","Mangalore to Bagdogra , 26 May",14:30,15:15,"2 stop via Bengaluru,Mumbai","IndiGo, Spicejet",2021-05-08 00:05:19.952829
+369," 9,546","Mangalore to Bagdogra , 26 May",08:25,12:50,"2 stop via Bengaluru,Kolkata",Spicejet,2021-05-08 00:05:19.952829
+370," 7,688","Mangalore to Nagpur , 26 May",20:00,07:25,1 stop via Mumbai,Go Air,2021-05-08 00:05:42.676338
+371," 7,827","Mangalore to Nagpur , 26 May",12:35,20:35,"2 stop via Coimbatore,Mumbai",Air India,2021-05-08 00:05:42.676338
+372," 8,805","Mangalore to Nagpur , 26 May",11:40,20:35,1 stop via Mumbai,"IndiGo, Air India",2021-05-08 00:05:42.676338
+373," 11,820","Mangalore to Nagpur , 26 May",12:35,08:30,"4 stop via Coimbatore,Mumbai,New Delhi,Raipur",Air India,2021-05-08 00:05:42.676338
+374," 11,820","Mangalore to Nagpur , 26 May",12:35,08:30,"4 stop via Coimbatore,Mumbai,New Delhi,Raipur",Air India,2021-05-08 00:05:42.676338
+375," 12,510","Mangalore to Nagpur , 26 May",11:40,08:30,"3 stop via Mumbai,New Delhi,Raipur","IndiGo, Air India",2021-05-08 00:05:42.676338
+376," 12,510","Mangalore to Nagpur , 26 May",11:40,08:30,"3 stop via Mumbai,New Delhi,Raipur","IndiGo, Air India",2021-05-08 00:05:42.676338
+377," 12,510","Mangalore to Nagpur , 26 May",11:40,08:30,"4 stop via Mumbai,Aurangabad,New Delhi,Raipur","IndiGo, Air India",2021-05-08 00:05:42.676338
+378," 12,510","Mangalore to Nagpur , 26 May",11:40,08:30,"3 stop via Mumbai,New Delhi,Raipur","IndiGo, Air India",2021-05-08 00:05:42.676338
+379," 14,547","Mangalore to Nagpur , 26 May",12:35,08:30,"4 stop via Coimbatore,Chennai,New Delhi,Raipur",Air India,2021-05-08 00:05:42.676338
+380," 9,033","Mangalore to Varanasi , 26 May",11:40,19:00,1 stop via Mumbai,IndiGo,2021-05-08 00:06:05.204621
+381," 2,892","Mangalore to Coimbatore , 26 May",12:35,13:30,Non stop,Air India,2021-05-08 00:06:41.126088
+382," 6,390","Mangalore to Coimbatore , 26 May",08:25,15:50,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-08 00:06:41.126088
+383," 11,190","Mangalore to Srinagar , 26 May",12:35,08:50,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:07:03.988142
+384," 11,190","Mangalore to Srinagar , 26 May",12:35,08:50,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:07:03.988142
+385," 11,838","Mangalore to Srinagar , 26 May",12:35,08:50,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-08 00:07:03.988142
+386," 6,462","Mangalore to Visakhapatnam , 26 May",14:30,18:25,1 stop via Bengaluru,IndiGo,2021-05-08 00:07:26.991531
+387," 6,462","Mangalore to Visakhapatnam , 26 May",20:40,08:30,1 stop via Hyderabad,Spicejet,2021-05-08 00:07:26.991531
+388," 7,020","Mangalore to Visakhapatnam , 26 May",08:25,14:10,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-08 00:07:26.991531
+389," 7,020","Mangalore to Visakhapatnam , 26 May",08:25,16:10,"2 stop via Bengaluru,Hyderabad","Spicejet, IndiGo",2021-05-08 00:07:26.991531
+390," 7,020","Mangalore to Visakhapatnam , 26 May",08:25,18:25,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-08 00:07:26.991531
+391," 7,020","Mangalore to Visakhapatnam , 26 May",08:25,19:55,"2 stop via Bengaluru,Hyderabad","Spicejet, IndiGo",2021-05-08 00:07:26.991531
+392," 7,021","Mangalore to Visakhapatnam , 26 May",14:30,22:55,1 stop via Bengaluru,"IndiGo, AirAsia",2021-05-08 00:07:26.991531
+393," 7,021","Mangalore to Visakhapatnam , 26 May",08:25,22:55,1 stop via Bengaluru,"Spicejet, AirAsia",2021-05-08 00:07:26.991531
+394," 4,376","Mangalore to Ranchi , 26 May",21:10,08:10,1 stop via Hyderabad,IndiGo,2021-05-08 00:07:49.691193
+395," 8,910","Mangalore to Amritsar , 26 May",08:25,11:25,"2 stop via Bengaluru,Patna",Spicejet,2021-05-08 00:08:12.289636
+396," 8,910","Mangalore to Amritsar , 26 May",08:25,18:35,"2 stop via Bengaluru,Ahmedabad",Spicejet,2021-05-08 00:08:12.289636
+397," 8,910","Mangalore to Amritsar , 26 May",08:25,18:45,"2 stop via Bengaluru,New Delhi",Spicejet,2021-05-08 00:08:12.289636
+398," 8,948","Mangalore to Amritsar , 26 May",14:30,18:45,"2 stop via Bengaluru,New Delhi","IndiGo, Spicejet",2021-05-08 00:08:12.289636
+399," 9,038","Mangalore to Amritsar , 26 May",14:30,09:20,"2 stop via Bengaluru,New Delhi","IndiGo, Vistara",2021-05-08 00:08:12.289636
+400," 9,038","Mangalore to Amritsar , 26 May",08:25,09:20,"2 stop via Bengaluru,New Delhi","Spicejet, Vistara",2021-05-08 00:08:12.289636
+401," 11,014","Mangalore to Amritsar , 26 May",08:25,22:20,"2 stop via Bengaluru,New Delhi","Spicejet, Air India",2021-05-08 00:08:12.289636
+402," 11,713","Mangalore to Amritsar , 26 May",08:25,19:45,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:08:12.289636
+403," 11,912","Mangalore to Amritsar , 26 May",12:35,22:20,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-08 00:08:12.289636
+404," 8,318","Mangalore to Chandigarh , 26 May",20:00,11:00,1 stop via Mumbai,Go Air,2021-05-08 00:08:35.041555
+405," 9,434","Mangalore to Chandigarh , 26 May",11:40,19:30,1 stop via Mumbai,"IndiGo, Go Air",2021-05-08 00:08:35.041555
+406," 9,510","Mangalore to Chandigarh , 26 May",12:35,06:35,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:08:35.041555
+407," 9,510","Mangalore to Chandigarh , 26 May",12:35,06:35,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:08:35.041555
+408," 9,888","Mangalore to Chandigarh , 26 May",11:40,06:35,"3 stop via Mumbai,Aurangabad,New Delhi","IndiGo, Air India",2021-05-08 00:08:35.041555
+409," 9,888","Mangalore to Chandigarh , 26 May",11:40,06:35,"2 stop via Mumbai,New Delhi","IndiGo, Air India",2021-05-08 00:08:35.041555
+410," 9,888","Mangalore to Chandigarh , 26 May",11:40,06:35,"2 stop via Mumbai,New Delhi","IndiGo, Air India",2021-05-08 00:08:35.041555
+411," 9,888","Mangalore to Chandigarh , 26 May",11:40,06:35,"2 stop via Mumbai,New Delhi","IndiGo, Air India",2021-05-08 00:08:35.041555
+412," 10,560","Mangalore to Chandigarh , 26 May",12:35,07:40,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:08:35.041555
+413," 10,560","Mangalore to Chandigarh , 26 May",12:35,07:40,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:08:35.041555
+414," 10,823","Mangalore to Chandigarh , 26 May",12:35,10:35,"4 stop via Coimbatore,Mumbai,New Delhi,Dharamshala",Air India,2021-05-08 00:08:35.041555
+415," 10,823","Mangalore to Chandigarh , 26 May",12:35,10:35,"4 stop via Coimbatore,Mumbai,New Delhi,Dharamshala",Air India,2021-05-08 00:08:35.041555
+416," 11,250","Mangalore to Chandigarh , 26 May",11:40,07:40,"2 stop via Mumbai,New Delhi","IndiGo, Air India",2021-05-08 00:08:35.041555
+417," 11,715","Mangalore to Chandigarh , 26 May",12:35,06:35,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-08 00:08:35.041555
+418," 7,703","Mangalore to Raipur , 26 May",08:25,20:00,"2 stop via Bengaluru,Hyderabad","Spicejet, IndiGo",2021-05-08 00:08:57.647806
+419," 7,703","Mangalore to Raipur , 26 May",08:25,20:15,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:08:57.647806
+420," 9,510","Mangalore to Raipur , 26 May",12:35,07:05,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:08:57.647806
+421," 9,510","Mangalore to Raipur , 26 May",12:35,07:05,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:08:57.647806
+422," 11,715","Mangalore to Raipur , 26 May",12:35,07:05,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-08 00:08:57.647806
+423," 7,019","Mangalore to Port Blair , 26 May",18:40,08:25,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:09:28.477992
+424," 7,619","Mangalore to Port Blair , 26 May",14:30,09:20,"2 stop via Bengaluru,Chennai","IndiGo, Spicejet",2021-05-08 00:09:28.477992
+425," 7,619","Mangalore to Port Blair , 26 May",08:25,08:25,"2 stop via Bengaluru,Kolkata","Spicejet, IndiGo",2021-05-08 00:09:28.477992
+426," 13,098","Mangalore to Port Blair , 26 May",12:35,09:00,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:09:28.477992
+427," 13,098","Mangalore to Port Blair , 26 May",12:35,09:00,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-08 00:09:28.477992
+428," 16,891","Mangalore to Port Blair , 26 May",14:30,09:00,"2 stop via Bengaluru,New Delhi","IndiGo, Air India",2021-05-08 00:09:28.477992
+429," 16,891","Mangalore to Port Blair , 26 May",14:30,11:20,"3 stop via Bengaluru,New Delhi,Kolkata","IndiGo, Vistara",2021-05-08 00:09:28.477992
+430," 16,891","Mangalore to Port Blair , 26 May",08:25,09:00,"2 stop via Bengaluru,New Delhi","Spicejet, Air India",2021-05-08 00:09:28.477992
+431," 16,891","Mangalore to Port Blair , 26 May",08:25,11:20,"3 stop via Bengaluru,New Delhi,Kolkata","Spicejet, Vistara",2021-05-08 00:09:28.477992
+432," 18,852","Mangalore to Port Blair , 26 May",12:35,09:00,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-08 00:09:28.477992
+433," 5,255","Mangalore to Tiruchirappalli , 26 May",14:30,18:05,1 stop via Bengaluru,IndiGo,2021-05-08 00:09:51.039178
+434," 5,760","Mangalore to Tiruchirappalli , 26 May",08:25,18:05,1 stop via Bengaluru,"Spicejet, IndiGo",2021-05-08 00:09:51.039178
+435," 7,051","Port Blair to Guwahati , 26 May",08:55,17:35,1 stop via Kolkata,IndiGo,2021-05-08 00:10:22.745848
+436," 7,384","Port Blair to Guwahati , 26 May",08:35,18:10,1 stop via Kolkata,Air India,2021-05-08 00:10:22.745848
+437," 8,298","Port Blair to Guwahati , 26 May",08:55,16:55,"2 stop via Kolkata,Bagdogra","IndiGo, Go Air",2021-05-08 00:10:22.745848
+438," 8,298","Port Blair to Guwahati , 26 May",08:35,16:55,"2 stop via Kolkata,Bagdogra","Air India, Go Air",2021-05-08 00:10:22.745848
+439," 8,512","Port Blair to Guwahati , 26 May",10:30,17:35,1 stop via Kolkata,"Go Air, IndiGo",2021-05-08 00:10:22.745848
+440," 8,513","Port Blair to Guwahati , 26 May",08:45,17:35,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-08 00:10:22.745848
+441," 10,884","Port Blair to Guwahati , 26 May",08:00,18:10,"2 stop via Chennai,Kolkata",Air India,2021-05-08 00:10:22.745848
+442," 12,188","Port Blair to Guwahati , 26 May",08:00,17:35,"2 stop via Chennai,Kolkata","Air India, IndiGo",2021-05-08 00:10:22.745848
+443," 13,284","Port Blair to Guwahati , 26 May",09:45,18:45,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:10:22.745848
+444," 15,012","Port Blair to Guwahati , 26 May",07:30,12:10,"3 stop via Chennai,Kolkata,New Delhi","IndiGo, Air India",2021-05-08 00:10:22.745848
+445," 7,979","Port Blair to Lucknow , 26 May",08:55,15:45,1 stop via Kolkata,IndiGo,2021-05-08 00:10:45.432147
+446," 8,312","Port Blair to Lucknow , 26 May",08:55,17:35,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:10:45.432147
+447," 8,312","Port Blair to Lucknow , 26 May",08:55,19:45,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:10:45.432147
+448," 9,288","Port Blair to Lucknow , 26 May",08:45,15:45,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-08 00:10:45.432147
+449," 9,288","Port Blair to Lucknow , 26 May",08:35,15:45,1 stop via Kolkata,"Air India, IndiGo",2021-05-08 00:10:45.432147
+450," 10,047","Port Blair to Lucknow , 26 May",09:45,08:15,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:10:45.432147
+451," 10,394","Port Blair to Lucknow , 26 May",10:30,22:00,"2 stop via Kolkata,Mumbai","Go Air, IndiGo",2021-05-08 00:10:45.432147
+452," 11,202","Port Blair to Lucknow , 26 May",08:00,08:15,"2 stop via Chennai,New Delhi",Air India,2021-05-08 00:10:45.432147
+453," 11,409","Port Blair to Lucknow , 26 May",09:45,19:40,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:10:45.432147
+454," 8,608","Port Blair to Jaipur , 26 May",08:55,20:55,1 stop via Kolkata,IndiGo,2021-05-08 00:11:06.647879
+455," 9,689","Port Blair to Jaipur , 26 May",10:30,23:10,"2 stop via Kolkata,New Delhi","Go Air, IndiGo",2021-05-08 00:11:06.647879
+456," 9,689","Port Blair to Jaipur , 26 May",10:30,23:10,"2 stop via Kolkata,New Delhi","Go Air, IndiGo",2021-05-08 00:11:06.647879
+457," 9,689","Port Blair to Jaipur , 26 May",10:30,07:35,"2 stop via Kolkata,Mumbai",Go Air,2021-05-08 00:11:06.647879
+458," 9,689","Port Blair to Jaipur , 26 May",07:30,07:35,"3 stop via Chennai,Kolkata,Mumbai","IndiGo, Go Air",2021-05-08 00:11:06.647879
+459," 9,690","Port Blair to Jaipur , 26 May",08:45,23:10,"2 stop via Kolkata,New Delhi","Spicejet, IndiGo",2021-05-08 00:11:06.647879
+460," 9,690","Port Blair to Jaipur , 26 May",08:35,23:10,"2 stop via Kolkata,New Delhi","Air India, IndiGo",2021-05-08 00:11:06.647879
+461," 9,917","Port Blair to Jaipur , 26 May",10:30,20:55,1 stop via Kolkata,"Go Air, IndiGo",2021-05-08 00:11:06.647879
+462," 9,918","Port Blair to Jaipur , 26 May",08:45,20:55,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-08 00:11:06.647879
+463," 9,918","Port Blair to Jaipur , 26 May",08:35,20:55,1 stop via Kolkata,"Air India, IndiGo",2021-05-08 00:11:06.647879
+464," 10,779","Port Blair to Jaipur , 26 May",09:45,20:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:11:06.647879
+465," 11,409","Port Blair to Jaipur , 26 May",09:45,08:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:11:06.647879
+466," 11,409","Port Blair to Jaipur , 26 May",08:35,08:55,"2 stop via Kolkata,New Delhi",Air India,2021-05-08 00:11:06.647879
+467," 14,559","Port Blair to Jaipur , 26 May",08:35,09:20,"2 stop via Kolkata,Bengaluru",Air India,2021-05-08 00:11:06.647879
+468," 7,628","Port Blair to Patna , 26 May",08:55,17:45,1 stop via Kolkata,IndiGo,2021-05-08 00:11:29.488919
+469," 7,682","Port Blair to Patna , 26 May",08:55,17:20,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:11:29.488919
+470," 8,657","Port Blair to Patna , 26 May",10:30,17:45,1 stop via Kolkata,"Go Air, IndiGo",2021-05-08 00:11:29.488919
+471," 8,658","Port Blair to Patna , 26 May",08:45,17:45,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-08 00:11:29.488919
+472," 8,658","Port Blair to Patna , 26 May",08:35,17:45,1 stop via Kolkata,"Air India, IndiGo",2021-05-08 00:11:29.488919
+473," 12,039","Port Blair to Patna , 26 May",09:45,18:25,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:11:29.488919
+474," 12,333","Port Blair to Patna , 26 May",08:00,17:45,"2 stop via Chennai,Kolkata","Air India, IndiGo",2021-05-08 00:11:29.488919
+475," 12,669","Port Blair to Patna , 26 May",08:35,12:10,"2 stop via Kolkata,New Delhi",Air India,2021-05-08 00:11:29.488919
+476," 14,895","Port Blair to Patna , 26 May",09:45,10:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-08 00:11:29.488919
+477," 14,895","Port Blair to Patna , 26 May",09:45,10:20,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-08 00:11:29.488919
+478," 7,575","Port Blair to Thiruvananthapuram , 26 May",07:30,13:20,1 stop via Chennai,IndiGo,2021-05-08 00:11:52.119482
+479," 13,299","Port Blair to Thiruvananthapuram , 26 May",09:45,19:40,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-08 00:11:52.119482
+480," 16,344","Port Blair to Thiruvananthapuram , 26 May",09:45,20:30,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:11:52.119482
+481," 6,998","Port Blair to Bhubaneswar , 26 May",08:55,16:35,1 stop via Kolkata,IndiGo,2021-05-08 00:12:14.730369
+482," 7,052","Port Blair to Bhubaneswar , 26 May",08:55,18:10,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:12:14.730369
+483," 7,104","Port Blair to Bhubaneswar , 26 May",08:35,17:40,"2 stop via Kolkata,Surat",Air India,2021-05-08 00:12:14.730369
+484," 8,027","Port Blair to Bhubaneswar , 26 May",10:30,16:35,1 stop via Kolkata,"Go Air, IndiGo",2021-05-08 00:12:14.730369
+485," 8,028","Port Blair to Bhubaneswar , 26 May",08:45,16:35,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-08 00:12:14.730369
+486," 8,028","Port Blair to Bhubaneswar , 26 May",08:35,16:35,1 stop via Kolkata,"Air India, IndiGo",2021-05-08 00:12:14.730369
+487," 12,669","Port Blair to Bhubaneswar , 26 May",09:45,20:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:12:14.730369
+488," 15,084","Port Blair to Bhubaneswar , 26 May",09:45,10:30,"4 stop via Visakhapatnam,New Delhi,Kolkata,Jharsuguda",Air India,2021-05-08 00:12:14.730369
+489," 10,944","Port Blair to Kozhikode , 26 May",08:55,19:45,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:12:37.081882
+490," 4,591","Port Blair to Bagdogra , 26 May",08:55,13:40,1 stop via Kolkata,IndiGo,2021-05-08 00:12:59.958318
+491," 4,591","Port Blair to Bagdogra , 26 May",08:55,11:45,1 stop via Kolkata,IndiGo,2021-05-08 00:12:59.958318
+492," 7,234","Port Blair to Bagdogra , 26 May",08:45,08:25,1 stop via Kolkata,Spicejet,2021-05-08 00:12:59.958318
+493," 7,384","Port Blair to Bagdogra , 26 May",08:35,14:55,1 stop via Kolkata,Air India,2021-05-08 00:12:59.958318
+494," 8,511","Port Blair to Bagdogra , 26 May",08:55,14:10,1 stop via Kolkata,"IndiGo, Go Air",2021-05-08 00:12:59.958318
+495," 8,511","Port Blair to Bagdogra , 26 May",08:35,14:10,1 stop via Kolkata,"Air India, Go Air",2021-05-08 00:12:59.958318
+496," 8,513","Port Blair to Bagdogra , 26 May",08:55,14:55,1 stop via Kolkata,"IndiGo, Air India",2021-05-08 00:12:59.958318
+497," 8,513","Port Blair to Bagdogra , 26 May",08:45,14:55,1 stop via Kolkata,"Spicejet, Air India",2021-05-08 00:12:59.958318
+498," 8,258","Port Blair to Nagpur , 26 May",08:55,19:20,1 stop via Kolkata,IndiGo,2021-05-08 00:13:22.702902
+499," 10,047","Port Blair to Nagpur , 26 May",09:45,08:30,"3 stop via Visakhapatnam,New Delhi,Raipur",Air India,2021-05-08 00:13:22.702902
+500," 12,669","Port Blair to Nagpur , 26 May",09:45,20:35,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-08 00:13:22.702902
+501," 12,669","Port Blair to Nagpur , 26 May",08:00,20:35,"2 stop via Chennai,Mumbai",Air India,2021-05-08 00:13:22.702902
+502," 13,005","Port Blair to Nagpur , 26 May",09:45,07:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-08 00:13:22.702902
+503," 13,005","Port Blair to Nagpur , 26 May",09:45,07:20,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-08 00:13:22.702902
+504," 13,005","Port Blair to Nagpur , 26 May",09:45,07:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-08 00:13:22.702902
+505," 13,929","Port Blair to Nagpur , 26 May",08:35,07:20,"2 stop via Kolkata,Mumbai",Air India,2021-05-08 00:13:22.702902
+506," 8,431","Port Blair to Varanasi , 26 May",08:55,21:40,"2 stop via Kolkata,New Delhi","IndiGo, Go Air",2021-05-08 00:13:45.557647
+507," 8,431","Port Blair to Varanasi , 26 May",08:45,21:40,"2 stop via Kolkata,New Delhi","Spicejet, Go Air",2021-05-08 00:13:45.557647
+508," 8,431","Port Blair to Varanasi , 26 May",08:35,21:40,"2 stop via Kolkata,New Delhi","Air India, Go Air",2021-05-08 00:13:45.557647
+509," 10,047","Port Blair to Varanasi , 26 May",08:35,11:35,"2 stop via Kolkata,New Delhi",Air India,2021-05-08 00:13:45.557647
+510," 10,252","Port Blair to Varanasi , 26 May",08:55,21:25,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:13:45.557647
+511," 10,971","Port Blair to Varanasi , 26 May",08:55,11:35,"2 stop via Kolkata,New Delhi","IndiGo, Air India",2021-05-08 00:13:45.557647
+512," 10,971","Port Blair to Varanasi , 26 May",08:45,11:35,"2 stop via Kolkata,New Delhi","Spicejet, Air India",2021-05-08 00:13:45.557647
+513," 11,570","Port Blair to Varanasi , 26 May",10:30,11:35,"2 stop via Kolkata,New Delhi","Go Air, Air India",2021-05-08 00:13:45.557647
+514," 11,570","Port Blair to Varanasi , 26 May",07:30,11:35,"3 stop via Chennai,Kolkata,New Delhi","IndiGo, Air India",2021-05-08 00:13:45.557647
+515," 14,646","Port Blair to Varanasi , 26 May",08:00,11:35,"3 stop via Chennai,Kolkata,New Delhi",Air India,2021-05-08 00:13:45.557647
+516," 15,343","Port Blair to Varanasi , 26 May",10:30,08:00,"2 stop via Kolkata,Mumbai",Go Air,2021-05-08 00:13:45.557647
+517," 15,343","Port Blair to Varanasi , 26 May",07:30,08:00,"3 stop via Chennai,Kolkata,Mumbai","IndiGo, Go Air",2021-05-08 00:13:45.557647
+518," 15,344","Port Blair to Varanasi , 26 May",08:55,08:00,"2 stop via Kolkata,Mumbai","IndiGo, Go Air",2021-05-08 00:13:45.557647
+519," 15,344","Port Blair to Varanasi , 26 May",08:45,08:00,"2 stop via Kolkata,Mumbai","Spicejet, Go Air",2021-05-08 00:13:45.557647
+520," 12,375","Port Blair to Indore , 26 May",09:45,08:25,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-08 00:14:04.959028
+521," 12,375","Port Blair to Indore , 26 May",09:45,08:25,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-08 00:14:04.959028
+522," 12,375","Port Blair to Indore , 26 May",09:45,08:25,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-08 00:14:04.959028
+523," 13,299","Port Blair to Indore , 26 May",08:35,08:25,"2 stop via Kolkata,Mumbai",Air India,2021-05-08 00:14:04.959028
+524," 9,341","Port Blair to Srinagar , 26 May",08:55,16:30,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:14:50.250344
+525," 9,849","Port Blair to Srinagar , 26 May",08:55,16:40,"2 stop via Kolkata,Chandigarh",IndiGo,2021-05-08 00:14:50.250344
+526," 4,689","Port Blair to Visakhapatnam , 26 May",07:30,17:30,1 stop via Chennai,IndiGo,2021-05-08 00:15:11.980699
+527," 4,689","Port Blair to Visakhapatnam , 26 May",08:55,21:40,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-08 00:15:11.980699
+528," 7,209","Port Blair to Visakhapatnam , 26 May",09:45,11:55,Non stop,Air India,2021-05-08 00:15:11.980699
+529," 8,950","Port Blair to Amritsar , 26 May",08:55,19:45,1 stop via Kolkata,IndiGo,2021-05-08 00:15:53.622754
+530," 11,409","Port Blair to Amritsar , 26 May",09:45,22:20,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:15:53.622754
+531," 13,299","Port Blair to Amritsar , 26 May",08:00,22:20,"2 stop via Chennai,New Delhi",Air India,2021-05-08 00:15:53.622754
+532," 8,258","Port Blair to Raipur , 26 May",08:55,20:15,1 stop via Kolkata,IndiGo,2021-05-08 00:16:16.137274
+533," 11,202","Port Blair to Raipur , 26 May",08:00,07:05,"2 stop via Chennai,New Delhi",Air India,2021-05-08 00:16:16.137274
+534," 12,039","Port Blair to Raipur , 26 May",09:45,18:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:16:16.137274
+535," 12,042","Port Blair to Raipur , 26 May",08:35,07:05,"2 stop via Kolkata,New Delhi",Air India,2021-05-08 00:16:16.137274
+536," 12,567","Port Blair to Raipur , 26 May",09:45,07:05,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-08 00:16:16.137274
+537," 13,005","Port Blair to Raipur , 26 May",09:45,11:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-08 00:16:16.137274
+538," 15,714","Port Blair to Raipur , 26 May",09:45,13:55,"4 stop via Visakhapatnam,New Delhi,Hyderabad,Jagdalpur",Air India,2021-05-08 00:16:16.137274
+539," 8,050","Port Blair to Mangalore , 26 May",10:50,20:20,1 stop via Chennai,"Go Air, IndiGo",2021-05-08 00:16:34.911399
+540," 8,051","Port Blair to Mangalore , 26 May",09:50,20:20,1 stop via Chennai,"Spicejet, IndiGo",2021-05-08 00:16:34.911399
+541," 8,051","Port Blair to Mangalore , 26 May",08:00,20:20,1 stop via Chennai,"Air India, IndiGo",2021-05-08 00:16:34.911399
+542," 7,421","Port Blair to Tiruchirappalli , 26 May",08:00,14:20,1 stop via Chennai,"Air India, IndiGo",2021-05-08 00:16:57.186097
+543," 9,873","Tiruchirappalli to Guwahati , 26 May",18:25,06:40,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+544," 9,873","Tiruchirappalli to Guwahati , 26 May",18:25,06:40,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+545," 9,926","Tiruchirappalli to Guwahati , 26 May",14:40,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+546," 9,926","Tiruchirappalli to Guwahati , 26 May",14:40,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+547," 9,926","Tiruchirappalli to Guwahati , 26 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+548," 9,926","Tiruchirappalli to Guwahati , 26 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+549," 9,926","Tiruchirappalli to Guwahati , 26 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+550," 9,926","Tiruchirappalli to Guwahati , 26 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-08 00:17:13.980943
+551," 9,241","Tiruchirappalli to Jaipur , 26 May",14:40,08:05,"2 stop via Chennai,Mumbai","IndiGo, Spicejet",2021-05-08 00:17:38.451724
+552," 9,241","Tiruchirappalli to Jaipur , 26 May",11:30,08:05,"2 stop via Chennai,Mumbai","IndiGo, Spicejet",2021-05-08 00:17:38.451724
+553," 9,241","Tiruchirappalli to Varanasi , 26 May",14:40,07:45,"2 stop via Chennai,New Delhi","IndiGo, Spicejet",2021-05-08 00:19:44.622076
+554," 9,241","Tiruchirappalli to Varanasi , 26 May",11:30,07:45,"2 stop via Chennai,New Delhi","IndiGo, Spicejet",2021-05-08 00:19:44.622076
+555," 5,444","Tiruchirappalli to Coimbatore , 26 May",11:30,15:30,1 stop via Chennai,IndiGo,2021-05-08 00:20:25.918664
+556," 5,444","Tiruchirappalli to Coimbatore , 26 May",14:40,19:25,1 stop via Chennai,IndiGo,2021-05-08 00:20:25.918664
+557," 5,444","Tiruchirappalli to Coimbatore , 26 May",11:30,19:25,1 stop via Chennai,IndiGo,2021-05-08 00:20:25.918664
+558," 6,299","Tiruchirappalli to Visakhapatnam , 26 May",11:30,17:30,1 stop via Chennai,IndiGo,2021-05-08 00:21:06.530426
+559," 7,541","Tiruchirappalli to Visakhapatnam , 26 May",14:40,22:55,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-08 00:21:06.530426
+560," 7,541","Tiruchirappalli to Visakhapatnam , 26 May",11:30,22:55,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-08 00:21:06.530426
+561," 7,541","Tiruchirappalli to Visakhapatnam , 26 May",11:30,22:55,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-08 00:21:06.530426
+562," 11,790","Tiruchirappalli to Ranchi , 26 May",11:30,07:40,"3 stop via Chennai,Mumbai,Bengaluru","IndiGo, Go Air",2021-05-08 00:21:25.318797
+563," 8,872","Tiruchirappalli to Amritsar , 26 May",18:25,12:50,1 stop via Bengaluru,IndiGo,2021-05-08 00:21:38.442506
+564," 10,027","Tiruchirappalli to Chandigarh , 26 May",18:25,11:55,1 stop via Bengaluru,IndiGo,2021-05-08 00:21:57.789165
+565," 6,071","Tiruchirappalli to Mangalore , 26 May",14:40,20:20,1 stop via Chennai,IndiGo,2021-05-08 00:22:31.357426
+566," 6,071","Tiruchirappalli to Mangalore , 26 May",11:30,20:20,1 stop via Chennai,IndiGo,2021-05-08 00:22:31.357426

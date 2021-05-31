@@ -1,0 +1,69 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 36,024","Visakhapatnam to Raipur , 22 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:43:07.032003
+" 61,896","Visakhapatnam to Raipur , 22 May",17:55,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:43:07.032003
+" 61,896","Visakhapatnam to Raipur , 22 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:43:07.032003
+" 61,380","Visakhapatnam to Mangalore , 22 May",17:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:43:51.188371
+" 64,326","Visakhapatnam to Port Blair , 22 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:44:13.606028
+" 64,740","Visakhapatnam to Port Blair , 22 May",17:55,09:05,1 stop via New Delhi,Air India,2021-05-08 09:44:13.606028
+" 82,582","Visakhapatnam to Port Blair , 22 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:44:13.606028
+" 82,582","Visakhapatnam to Port Blair , 22 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:44:13.606028
+" 36,024","Visakhapatnam to Raipur , 23 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:45:21.783549
+" 61,896","Visakhapatnam to Raipur , 23 May",17:55,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:45:21.783549
+" 61,896","Visakhapatnam to Raipur , 23 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:45:21.783549
+" 61,380","Visakhapatnam to Mangalore , 23 May",17:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:45:44.682363
+" 64,326","Visakhapatnam to Port Blair , 23 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:46:07.541528
+" 64,740","Visakhapatnam to Port Blair , 23 May",17:55,09:00,1 stop via New Delhi,Air India,2021-05-08 09:46:07.541528
+" 82,582","Visakhapatnam to Port Blair , 23 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:46:07.541528
+" 82,582","Visakhapatnam to Port Blair , 23 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:46:07.541528
+" 36,024","Visakhapatnam to Raipur , 24 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:47:12.553838
+" 61,896","Visakhapatnam to Raipur , 24 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:47:12.553838
+" 64,326","Visakhapatnam to Port Blair , 24 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:47:57.964568
+" 82,582","Visakhapatnam to Port Blair , 24 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:47:57.964568
+" 82,582","Visakhapatnam to Port Blair , 24 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:47:57.964568
+" 36,024","Visakhapatnam to Raipur , 25 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:49:05.496644
+" 61,896","Visakhapatnam to Raipur , 25 May",17:55,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:49:05.496644
+" 61,896","Visakhapatnam to Raipur , 25 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:49:05.496644
+" 61,380","Visakhapatnam to Mangalore , 25 May",17:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:49:28.306930
+" 64,326","Visakhapatnam to Port Blair , 25 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:49:51.009305
+" 64,740","Visakhapatnam to Port Blair , 25 May",17:55,09:05,1 stop via New Delhi,Air India,2021-05-08 09:49:51.009305
+" 82,582","Visakhapatnam to Port Blair , 25 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:49:51.009305
+" 97,411","Visakhapatnam to Port Blair , 25 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:49:51.009305
+" 36,024","Visakhapatnam to Raipur , 26 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:50:58.116564
+" 61,896","Visakhapatnam to Raipur , 26 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:50:58.116564
+" 64,326","Visakhapatnam to Port Blair , 26 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:51:40.879180
+" 82,582","Visakhapatnam to Port Blair , 26 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:51:40.879180
+" 82,582","Visakhapatnam to Port Blair , 26 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:51:40.879180
+" 36,024","Visakhapatnam to Raipur , 27 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:52:30.411889
+" 61,896","Visakhapatnam to Raipur , 27 May",17:55,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:52:30.411889
+" 61,896","Visakhapatnam to Raipur , 27 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:52:30.411889
+" 61,380","Visakhapatnam to Mangalore , 27 May",17:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:52:53.719960
+" 64,326","Visakhapatnam to Port Blair , 27 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:53:16.442864
+" 64,740","Visakhapatnam to Port Blair , 27 May",17:55,09:05,1 stop via New Delhi,Air India,2021-05-08 09:53:16.442864
+" 82,582","Visakhapatnam to Port Blair , 27 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:53:16.442864
+" 82,582","Visakhapatnam to Port Blair , 27 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:53:16.442864
+" 36,024","Visakhapatnam to Raipur , 28 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:54:01.846349
+" 53,865","Visakhapatnam to Raipur , 28 May",14:15,07:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:54:01.846349
+" 61,896","Visakhapatnam to Raipur , 28 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:54:01.846349
+" 82,582","Visakhapatnam to Port Blair , 28 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:54:48.625004
+" 36,024","Visakhapatnam to Raipur , 29 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:55:56.330491
+" 61,896","Visakhapatnam to Raipur , 29 May",17:55,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:55:56.330491
+" 61,896","Visakhapatnam to Raipur , 29 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:55:56.330491
+" 61,380","Visakhapatnam to Mangalore , 29 May",17:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:56:19.067275
+" 64,326","Visakhapatnam to Port Blair , 29 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:56:42.015713
+" 64,740","Visakhapatnam to Port Blair , 29 May",17:55,09:05,1 stop via New Delhi,Air India,2021-05-08 09:56:42.015713
+" 82,582","Visakhapatnam to Port Blair , 29 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:56:42.015713
+" 82,582","Visakhapatnam to Port Blair , 29 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:56:42.015713
+" 36,024","Visakhapatnam to Raipur , 30 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:57:20.991490
+" 61,896","Visakhapatnam to Raipur , 30 May",17:55,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:57:20.991490
+" 61,896","Visakhapatnam to Raipur , 30 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:57:20.991490
+" 61,380","Visakhapatnam to Mangalore , 30 May",17:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:57:43.630520
+" 64,326","Visakhapatnam to Port Blair , 30 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:57:48.430655
+" 64,740","Visakhapatnam to Port Blair , 30 May",17:55,09:00,1 stop via New Delhi,Air India,2021-05-08 09:57:48.430655
+" 82,582","Visakhapatnam to Port Blair , 30 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:57:48.430655
+" 82,582","Visakhapatnam to Port Blair , 30 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:57:48.430655
+" 36,024","Visakhapatnam to Raipur , 31 May",12:30,18:10,1 stop via New Delhi,Air India,2021-05-08 09:58:22.789905
+" 57,976","Visakhapatnam to Raipur , 31 May",12:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-08 09:58:22.789905
+" 68,358","Visakhapatnam to Port Blair , 31 May",12:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:59:08.214710
+" 68,358","Visakhapatnam to Port Blair , 31 May",12:30,11:25,"2 stop via New Delhi,Chennai",Air India,2021-05-08 09:59:08.214710
+" 79,670","Visakhapatnam to Port Blair , 31 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:59:08.214710
+" 79,670","Visakhapatnam to Port Blair , 31 May",14:15,09:05,"2 stop via Mumbai,New Delhi",Air India,2021-05-08 09:59:08.214710

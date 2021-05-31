@@ -1,0 +1,4 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 7,038","Ranchi to Amritsar , 12 May",20:15,09:20,1 stop via New Delhi,Vistara,2021-05-11 12:38:52.026368
+" 8,095","Ranchi to Amritsar , 12 May",19:25,18:45,1 stop via New Delhi,Spicejet,2021-05-11 12:38:52.026368
+" 14,160","Ranchi to Port Blair , 12 May",20:15,11:20,"2 stop via New Delhi,Kolkata",Vistara,2021-05-11 12:41:53.914906

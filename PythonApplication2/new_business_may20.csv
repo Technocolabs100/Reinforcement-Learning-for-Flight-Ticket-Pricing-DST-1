@@ -1,0 +1,416 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 15,314","Ranchi to New Delhi , 20 May",20:15,22:15,Non stop,Vistara,2021-05-06 19:54:02.025907
+" 15,650","Ranchi to New Delhi , 20 May",13:30,15:30,Non stop,Air India,2021-05-06 19:54:02.025907
+" 33,491","Ranchi to Mumbai , 20 May",13:30,21:15,1 stop via New Delhi,Air India,2021-05-06 19:54:19.268700
+" 33,491","Ranchi to Mumbai , 20 May",13:30,22:10,1 stop via New Delhi,Air India,2021-05-06 19:54:19.268700
+" 46,965","Ranchi to Mumbai , 20 May",13:30,09:40,"2 stop via New Delhi,Hyderabad",Air India,2021-05-06 19:54:19.268700
+" 48,824","Ranchi to Mumbai , 20 May",20:15,13:00,"2 stop via New Delhi,Kolkata",Vistara,2021-05-06 19:54:19.268700
+" 48,824","Ranchi to Mumbai , 20 May",20:15,20:20,"2 stop via New Delhi,Kolkata",Vistara,2021-05-06 19:54:19.268700
+" 53,494","Ranchi to Mumbai , 20 May",13:30,08:35,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 19:54:19.268700
+" 53,494","Ranchi to Mumbai , 20 May",13:30,10:35,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 19:54:19.268700
+" 60,803","Ranchi to Mumbai , 20 May",13:30,23:25,"2 stop via New Delhi,Patna",Air India,2021-05-06 19:54:19.268700
+" 34,085","Ranchi to Bengaluru , 20 May",13:30,23:55,1 stop via New Delhi,Air India,2021-05-06 19:54:25.341936
+" 47,906","Ranchi to Bengaluru , 20 May",13:30,11:20,"3 stop via New Delhi,Chennai,Hyderabad",Air India,2021-05-06 19:54:25.341936
+" 49,026","Ranchi to Bengaluru , 20 May",13:30,11:20,"2 stop via New Delhi,Hyderabad",Air India,2021-05-06 19:54:25.341936
+" 52,901","Ranchi to Bengaluru , 20 May",13:30,07:55,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:54:25.341936
+" 52,901","Ranchi to Bengaluru , 20 May",13:30,07:55,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:54:25.341936
+" 52,901","Ranchi to Bengaluru , 20 May",13:30,11:10,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:54:25.341936
+" 60,803","Ranchi to Bengaluru , 20 May",13:30,00:45,"2 stop via New Delhi,Patna",Air India,2021-05-06 19:54:25.341936
+" 32,035","Ranchi to Hyderabad , 20 May",13:30,23:35,1 stop via New Delhi,Air India,2021-05-06 19:54:41.980700
+" 48,421","Ranchi to Hyderabad , 20 May",13:30,07:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:54:41.980700
+" 48,421","Ranchi to Hyderabad , 20 May",13:30,07:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:54:41.980700
+" 51,075","Ranchi to Hyderabad , 20 May",13:30,09:45,"3 stop via New Delhi,Bengaluru,Chennai",Air India,2021-05-06 19:54:41.980700
+" 51,266","Ranchi to Hyderabad , 20 May",13:30,09:45,"2 stop via New Delhi,Chennai",Air India,2021-05-06 19:54:41.980700
+" 34,275","Ranchi to Chennai , 20 May",13:30,23:35,1 stop via New Delhi,Air India,2021-05-06 19:54:47.936372
+" 47,715","Ranchi to Chennai , 20 May",13:30,08:05,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 19:54:47.936372
+" 48,566","Ranchi to Chennai , 20 May",13:30,10:55,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:54:47.936372
+" 48,566","Ranchi to Chennai , 20 May",13:30,10:55,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:54:47.936372
+" 30,389","Ranchi to Kolkata , 20 May",20:15,09:35,1 stop via New Delhi,Vistara,2021-05-06 19:55:04.486651
+" 30,725","Ranchi to Kolkata , 20 May",13:30,22:20,1 stop via New Delhi,Air India,2021-05-06 19:55:04.486651
+" 56,675","Ranchi to Kolkata , 20 May",13:30,13:30,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 19:55:04.486651
+" 56,866","Ranchi to Kolkata , 20 May",13:30,13:50,"2 stop via New Delhi,Chennai",Air India,2021-05-06 19:55:04.486651
+" 45,397","Ranchi to Goa , 20 May",13:30,06:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:55:25.553486
+" 45,397","Ranchi to Goa , 20 May",13:30,06:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:55:25.553486
+" 29,794","Ranchi to Guwahati , 20 May",20:15,12:05,1 stop via New Delhi,Vistara,2021-05-06 19:55:48.440874
+" 26,660","Ranchi to Lucknow , 20 May",20:15,14:50,1 stop via New Delhi,Vistara,2021-05-06 19:56:03.479297
+" 27,096","Ranchi to Lucknow , 20 May",13:30,19:40,1 stop via New Delhi,Air India,2021-05-06 19:56:03.479297
+" 62,802","Ranchi to Lucknow , 20 May",13:30,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:56:03.479297
+" 62,802","Ranchi to Lucknow , 20 May",13:30,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:56:03.479297
+" 63,395","Ranchi to Jaipur , 20 May",13:30,09:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 19:56:11.078232
+" 31,251","Ranchi to Patna , 20 May",13:30,18:25,1 stop via New Delhi,Air India,2021-05-06 19:56:18.757800
+" 62,802","Ranchi to Patna , 20 May",13:30,10:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:56:18.757800
+" 62,802","Ranchi to Patna , 20 May",13:30,10:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:56:18.757800
+" 35,731","Ranchi to Thiruvananthapuram , 20 May",20:15,12:15,1 stop via New Delhi,Vistara,2021-05-06 19:56:33.771042
+" 36,090","Ranchi to Thiruvananthapuram , 20 May",13:30,20:30,1 stop via New Delhi,Air India,2021-05-06 19:56:33.771042
+" 33,043","Ranchi to Bhubaneswar , 20 May",20:15,09:05,1 stop via New Delhi,Vistara,2021-05-06 19:56:41.398417
+" 33,379","Ranchi to Bhubaneswar , 20 May",13:30,20:55,1 stop via New Delhi,Air India,2021-05-06 19:56:41.398417
+" 56,675","Ranchi to Bhubaneswar , 20 May",13:30,14:00,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 19:56:41.398417
+" 25,944","Ranchi to Bagdogra , 20 May",20:15,09:45,1 stop via New Delhi,Vistara,2021-05-06 19:57:02.590477
+" 53,842","Ranchi to Nagpur , 20 May",13:30,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:57:17.951693
+" 53,842","Ranchi to Nagpur , 20 May",13:30,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:57:17.951693
+" 28,104","Ranchi to Indore , 20 May",20:15,09:45,1 stop via New Delhi,Vistara,2021-05-06 19:57:40.410095
+" 50,482","Ranchi to Indore , 20 May",13:30,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:57:40.410095
+" 50,482","Ranchi to Indore , 20 May",13:30,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:57:40.410095
+" 56,082","Ranchi to Visakhapatnam , 20 May",13:30,13:35,"3 stop via New Delhi,Mumbai,Raipur",Air India,2021-05-06 19:58:19.771462
+" 25,584","Ranchi to Amritsar , 20 May",13:30,22:20,1 stop via New Delhi,Air India,2021-05-06 19:58:24.405269
+" 28,485","Ranchi to Raipur , 20 May",13:30,18:10,1 stop via New Delhi,Air India,2021-05-06 19:58:46.965863
+" 54,747","Ranchi to Raipur , 20 May",13:30,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:58:46.965863
+" 56,787","Ranchi to Port Blair , 20 May",13:30,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-06 19:59:09.552713
+" 10,760","Amritsar to New Delhi , 20 May",22:50,23:40,Non stop,Air India,2021-05-06 19:59:32.113984
+" 10,760","Amritsar to New Delhi , 20 May",14:20,15:45,Non stop,Air India,2021-05-06 19:59:32.113984
+" 10,828","Amritsar to New Delhi , 20 May",09:55,11:10,Non stop,Vistara,2021-05-06 19:59:32.113984
+" 10,828","Amritsar to New Delhi , 20 May",15:25,16:40,Non stop,Vistara,2021-05-06 19:59:32.113984
+" 39,259","Amritsar to New Delhi , 20 May",14:55,20:55,1 stop via Patna,Air India,2021-05-06 19:59:32.113984
+" 70,809","Amritsar to New Delhi , 20 May",14:55,09:10,"2 stop via Patna,Mumbai",Air India,2021-05-06 19:59:32.113984
+" 70,809","Amritsar to New Delhi , 20 May",14:55,10:15,"2 stop via Patna,Mumbai",Air India,2021-05-06 19:59:32.113984
+" 70,809","Amritsar to New Delhi , 20 May",14:55,11:10,"3 stop via Patna,Mumbai,Indore",Air India,2021-05-06 19:59:32.113984
+" 70,809","Amritsar to New Delhi , 20 May",14:55,12:15,"2 stop via Patna,Mumbai",Air India,2021-05-06 19:59:32.113984
+" 71,403","Amritsar to New Delhi , 20 May",14:55,08:55,"2 stop via Patna,Bengaluru",Air India,2021-05-06 19:59:32.113984
+" 71,403","Amritsar to New Delhi , 20 May",14:55,13:10,"2 stop via Patna,Bengaluru",Air India,2021-05-06 19:59:32.113984
+" 24,413","Amritsar to Mumbai , 20 May",09:55,15:00,1 stop via New Delhi,Vistara,2021-05-06 19:59:50.424841
+" 24,413","Amritsar to Mumbai , 20 May",09:55,17:40,1 stop via New Delhi,Vistara,2021-05-06 19:59:50.424841
+" 28,602","Amritsar to Mumbai , 20 May",14:20,21:15,1 stop via New Delhi,Air India,2021-05-06 19:59:50.424841
+" 28,602","Amritsar to Mumbai , 20 May",14:20,22:10,1 stop via New Delhi,Air India,2021-05-06 19:59:50.424841
+" 28,602","Amritsar to Mumbai , 20 May",22:50,09:05,1 stop via New Delhi,Air India,2021-05-06 19:59:50.424841
+" 28,602","Amritsar to Mumbai , 20 May",22:50,10:10,1 stop via New Delhi,Air India,2021-05-06 19:59:50.424841
+" 28,602","Amritsar to Mumbai , 20 May",22:50,11:15,1 stop via New Delhi,Air India,2021-05-06 19:59:50.424841
+" 28,602","Amritsar to Mumbai , 20 May",22:50,12:50,1 stop via New Delhi,Air India,2021-05-06 19:59:50.424841
+" 29,060","Amritsar to Mumbai , 20 May",15:25,21:15,1 stop via New Delhi,"Vistara, Air India",2021-05-06 19:59:50.424841
+" 29,060","Amritsar to Mumbai , 20 May",15:25,22:10,1 stop via New Delhi,"Vistara, Air India",2021-05-06 19:59:50.424841
+" 29,060","Amritsar to Mumbai , 20 May",09:55,18:15,"2 stop via New Delhi,Indore","Vistara, Air India",2021-05-06 19:59:50.424841
+" 29,060","Amritsar to Mumbai , 20 May",09:55,21:15,1 stop via New Delhi,"Vistara, Air India",2021-05-06 19:59:50.424841
+" 29,060","Amritsar to Mumbai , 20 May",09:55,22:10,1 stop via New Delhi,"Vistara, Air India",2021-05-06 19:59:50.424841
+" 34,503","Amritsar to Mumbai , 20 May",09:55,17:50,"2 stop via New Delhi,Udaipur","Vistara, Air India",2021-05-06 19:59:50.424841
+" 37,282","Amritsar to Mumbai , 20 May",22:50,15:40,"2 stop via New Delhi,Varanasi",Air India,2021-05-06 19:59:50.424841
+" 37,988","Amritsar to Mumbai , 20 May",09:55,18:20,"2 stop via New Delhi,Varanasi",Vistara,2021-05-06 19:59:50.424841
+" 39,612","Amritsar to Mumbai , 20 May",14:55,23:25,"3 stop via Patna,Kolkata,Patna",Air India,2021-05-06 19:59:50.424841
+" 52,968","Amritsar to Mumbai , 20 May",14:55,23:25,1 stop via Patna,Air India,2021-05-06 19:59:50.424841
+" 55,913","Amritsar to Mumbai , 20 May",14:20,23:25,"2 stop via New Delhi,Patna",Air India,2021-05-06 19:59:50.424841
+" 29,196","Amritsar to Bengaluru , 20 May",14:20,23:55,1 stop via New Delhi,Air India,2021-05-06 19:59:54.681784
+" 29,196","Amritsar to Bengaluru , 20 May",22:50,08:55,1 stop via New Delhi,Air India,2021-05-06 19:59:54.681784
+" 29,196","Amritsar to Bengaluru , 20 May",22:50,12:30,1 stop via New Delhi,Air India,2021-05-06 19:59:54.681784
+" 29,263","Amritsar to Bengaluru , 20 May",09:55,17:05,1 stop via New Delhi,Vistara,2021-05-06 19:59:54.681784
+" 48,012","Amritsar to Bengaluru , 20 May",14:20,07:55,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:59:54.681784
+" 48,012","Amritsar to Bengaluru , 20 May",14:20,07:55,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:59:54.681784
+" 48,012","Amritsar to Bengaluru , 20 May",22:50,18:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 19:59:54.681784
+" 48,426","Amritsar to Bengaluru , 20 May",22:50,16:45,"2 stop via New Delhi,Kolkata",Air India,2021-05-06 19:59:54.681784
+" 52,968","Amritsar to Bengaluru , 20 May",14:55,00:45,1 stop via Patna,Air India,2021-05-06 19:59:54.681784
+" 55,913","Amritsar to Bengaluru , 20 May",14:20,00:45,"2 stop via New Delhi,Patna",Air India,2021-05-06 19:59:54.681784
+" 27,146","Amritsar to Hyderabad , 20 May",14:20,23:35,1 stop via New Delhi,Air India,2021-05-06 20:00:12.974896
+" 27,146","Amritsar to Hyderabad , 20 May",22:50,10:10,1 stop via New Delhi,Air India,2021-05-06 20:00:12.974896
+" 27,604","Amritsar to Hyderabad , 20 May",15:25,23:35,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:00:12.974896
+" 27,604","Amritsar to Hyderabad , 20 May",09:55,23:35,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:00:12.974896
+" 27,730","Amritsar to Hyderabad , 20 May",09:55,17:00,1 stop via New Delhi,Vistara,2021-05-06 20:00:12.974896
+" 55,645","Amritsar to Hyderabad , 20 May",14:55,10:10,"2 stop via Patna,New Delhi",Air India,2021-05-06 20:00:12.974896
+" 67,897","Amritsar to Hyderabad , 20 May",14:55,07:15,"2 stop via Patna,Mumbai",Air India,2021-05-06 20:00:12.974896
+" 29,386","Amritsar to Chennai , 20 May",14:20,23:35,1 stop via New Delhi,Air India,2021-05-06 20:00:17.296284
+" 29,386","Amritsar to Chennai , 20 May",22:50,08:55,1 stop via New Delhi,Air India,2021-05-06 20:00:17.296284
+" 29,844","Amritsar to Chennai , 20 May",15:25,23:35,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:00:17.296284
+" 29,844","Amritsar to Chennai , 20 May",09:55,23:35,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:00:17.296284
+" 29,968","Amritsar to Chennai , 20 May",09:55,16:20,1 stop via New Delhi,Vistara,2021-05-06 20:00:17.296284
+" 57,885","Amritsar to Chennai , 20 May",14:55,08:55,"2 stop via Patna,New Delhi",Air India,2021-05-06 20:00:17.296284
+" 66,598","Amritsar to Chennai , 20 May",14:55,08:05,"2 stop via Patna,Bengaluru",Air India,2021-05-06 20:00:17.296284
+" 21,176","Amritsar to Kolkata , 20 May",14:55,18:35,1 stop via Patna,Air India,2021-05-06 20:00:28.208935
+" 25,836","Amritsar to Kolkata , 20 May",14:20,22:20,1 stop via New Delhi,Air India,2021-05-06 20:00:28.208935
+" 25,836","Amritsar to Kolkata , 20 May",22:50,09:00,1 stop via New Delhi,Air India,2021-05-06 20:00:28.208935
+" 25,904","Amritsar to Kolkata , 20 May",15:25,09:35,1 stop via New Delhi,Vistara,2021-05-06 20:00:28.208935
+" 51,786","Amritsar to Kolkata , 20 May",22:50,13:30,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:00:28.208935
+" 32,287","Amritsar to Kochi , 20 May",09:55,18:50,1 stop via New Delhi,Vistara,2021-05-06 20:00:36.322794
+" 32,677","Amritsar to Kochi , 20 May",09:55,17:20,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:00:36.322794
+" 51,192","Amritsar to Kochi , 20 May",22:50,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:00:36.322794
+" 51,192","Amritsar to Kochi , 20 May",22:50,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:00:36.322794
+" 51,192","Amritsar to Kochi , 20 May",22:50,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:00:36.322794
+" 51,192","Amritsar to Kochi , 20 May",22:50,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:00:36.322794
+" 37,299","Amritsar to Goa , 20 May",09:55,12:45,"2 stop via New Delhi,Mumbai",Vistara,2021-05-06 20:00:50.877535
+" 40,508","Amritsar to Goa , 20 May",14:20,06:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:00:50.877535
+" 40,897","Amritsar to Goa , 20 May",14:20,06:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:00:50.877535
+" 40,965","Amritsar to Goa , 20 May",15:25,06:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:00:50.877535
+" 40,965","Amritsar to Goa , 20 May",15:25,06:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:00:50.877535
+" 40,965","Amritsar to Goa , 20 May",09:55,06:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:00:50.877535
+" 40,965","Amritsar to Goa , 20 May",09:55,06:50,"3 stop via New Delhi,Indore,Mumbai","Vistara, Air India",2021-05-06 20:00:50.877535
+" 40,965","Amritsar to Goa , 20 May",09:55,06:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:00:50.877535
+" 64,873","Amritsar to Goa , 20 May",14:55,06:50,"2 stop via Patna,Mumbai",Air India,2021-05-06 20:00:50.877535
+" 27,482","Amritsar to Pune , 20 May",22:50,08:40,1 stop via New Delhi,Air India,2021-05-06 20:00:59.015589
+" 27,482","Amritsar to Pune , 20 May",22:50,12:05,"2 stop via New Delhi,Bhopal",Air India,2021-05-06 20:00:59.015589
+" 27,730","Amritsar to Pune , 20 May",15:25,12:35,1 stop via New Delhi,Vistara,2021-05-06 20:00:59.015589
+" 27,940","Amritsar to Pune , 20 May",09:55,18:10,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:00:59.015589
+" 55,981","Amritsar to Pune , 20 May",14:55,08:40,"2 stop via Patna,New Delhi",Air India,2021-05-06 20:00:59.015589
+" 55,981","Amritsar to Pune , 20 May",14:55,12:05,"3 stop via Patna,New Delhi,Bhopal",Air India,2021-05-06 20:00:59.015589
+" 22,173","Amritsar to Lucknow , 20 May",09:55,14:50,1 stop via New Delhi,Vistara,2021-05-06 20:01:17.331057
+" 22,207","Amritsar to Lucknow , 20 May",14:20,19:40,1 stop via New Delhi,Air India,2021-05-06 20:01:17.331057
+" 22,207","Amritsar to Lucknow , 20 May",22:50,08:15,1 stop via New Delhi,Air India,2021-05-06 20:01:17.331057
+" 23,264","Amritsar to Lucknow , 20 May",09:55,19:40,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:01:17.331057
+" 50,705","Amritsar to Lucknow , 20 May",14:55,08:15,"2 stop via Patna,New Delhi",Air India,2021-05-06 20:01:17.331057
+" 58,302","Amritsar to Lucknow , 20 May",14:20,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:01:17.331057
+" 58,302","Amritsar to Lucknow , 20 May",14:20,10:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:01:17.331057
+" 58,370","Amritsar to Lucknow , 20 May",15:25,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:01:17.331057
+" 58,370","Amritsar to Lucknow , 20 May",15:25,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:01:17.331057
+" 58,370","Amritsar to Lucknow , 20 May",09:55,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:01:17.331057
+" 58,370","Amritsar to Lucknow , 20 May",09:55,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:01:17.331057
+" 58,506","Amritsar to Lucknow , 20 May",22:50,16:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:01:17.331057
+" 58,506","Amritsar to Lucknow , 20 May",22:50,16:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:01:17.331057
+" 48,952","Amritsar to Jaipur , 20 May",22:50,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:01:36.028998
+" 48,952","Amritsar to Jaipur , 20 May",22:50,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:01:36.028998
+" 58,506","Amritsar to Jaipur , 20 May",14:20,09:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:01:36.028998
+" 82,278","Amritsar to Jaipur , 20 May",14:55,09:20,"2 stop via Patna,Bengaluru",Air India,2021-05-06 20:01:36.028998
+" 23,416","Amritsar to Patna , 20 May",14:55,17:00,Non stop,Air India,2021-05-06 20:01:39.776298
+" 26,362","Amritsar to Patna , 20 May",14:20,18:25,1 stop via New Delhi,Air India,2021-05-06 20:01:39.776298
+" 26,429","Amritsar to Patna , 20 May",15:25,19:55,1 stop via New Delhi,Vistara,2021-05-06 20:01:39.776298
+" 26,429","Amritsar to Patna , 20 May",09:55,19:55,1 stop via New Delhi,Vistara,2021-05-06 20:01:39.776298
+" 46,186","Amritsar to Patna , 20 May",22:50,20:40,"2 stop via New Delhi,Kolkata",Air India,2021-05-06 20:01:39.776298
+" 57,912","Amritsar to Patna , 20 May",14:20,10:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:01:39.776298
+" 57,912","Amritsar to Patna , 20 May",14:20,10:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:01:39.776298
+" 58,506","Amritsar to Patna , 20 May",22:50,21:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:01:39.776298
+" 58,506","Amritsar to Patna , 20 May",22:50,21:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:01:39.776298
+" 31,200","Amritsar to Thiruvananthapuram , 20 May",14:20,20:30,1 stop via New Delhi,Air India,2021-05-06 20:01:58.566240
+" 31,658","Amritsar to Thiruvananthapuram , 20 May",09:55,20:30,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:01:58.566240
+" 28,490","Amritsar to Bhubaneswar , 20 May",14:20,20:55,1 stop via New Delhi,Air India,2021-05-06 20:02:02.911507
+" 28,558","Amritsar to Bhubaneswar , 20 May",15:25,09:05,1 stop via New Delhi,Vistara,2021-05-06 20:02:02.911507
+" 28,558","Amritsar to Bhubaneswar , 20 May",09:55,09:05,1 stop via New Delhi,Vistara,2021-05-06 20:02:02.911507
+" 29,548","Amritsar to Bhubaneswar , 20 May",15:25,20:55,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:02:02.911507
+" 29,548","Amritsar to Bhubaneswar , 20 May",09:55,20:55,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:02:02.911507
+" 51,192","Amritsar to Bhubaneswar , 20 May",22:50,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:02:02.911507
+" 51,192","Amritsar to Bhubaneswar , 20 May",22:50,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:02:02.911507
+" 51,192","Amritsar to Bhubaneswar , 20 May",22:50,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:02:02.911507
+" 51,786","Amritsar to Bhubaneswar , 20 May",22:50,14:00,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:02:02.911507
+" 51,786","Amritsar to Bhubaneswar , 20 May",14:20,14:00,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:02:02.911507
+" 52,244","Amritsar to Bhubaneswar , 20 May",15:25,14:00,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-06 20:02:02.911507
+" 52,244","Amritsar to Bhubaneswar , 20 May",09:55,14:00,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-06 20:02:02.911507
+" 44,551","Amritsar to Kozhikode , 20 May",22:50,13:30,"2 stop via New Delhi,Kannur",Air India,2021-05-06 20:02:21.235424
+" 23,106","Amritsar to Bagdogra , 20 May",22:50,13:15,1 stop via New Delhi,Air India,2021-05-06 20:02:25.463272
+" 48,952","Amritsar to Nagpur , 20 May",14:20,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:02:44.115837
+" 48,952","Amritsar to Nagpur , 20 May",14:20,07:20,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:02:44.115837
+" 49,410","Amritsar to Nagpur , 20 May",09:55,20:35,"3 stop via New Delhi,Indore,Mumbai","Vistara, Air India",2021-05-06 20:02:44.115837
+" 49,410","Amritsar to Nagpur , 20 May",15:25,07:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:02:44.115837
+" 49,410","Amritsar to Nagpur , 20 May",15:25,07:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:02:44.115837
+" 49,410","Amritsar to Nagpur , 20 May",09:55,07:20,"3 stop via New Delhi,Indore,Mumbai","Vistara, Air India",2021-05-06 20:02:44.115837
+" 49,410","Amritsar to Nagpur , 20 May",09:55,07:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:02:44.115837
+" 49,410","Amritsar to Nagpur , 20 May",09:55,07:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:02:44.115837
+" 73,318","Amritsar to Nagpur , 20 May",14:55,07:20,"2 stop via Patna,Mumbai",Air India,2021-05-06 20:02:44.115837
+" 22,207","Amritsar to Varanasi , 20 May",22:50,11:35,1 stop via New Delhi,Air India,2021-05-06 20:02:48.037508
+" 22,958","Amritsar to Varanasi , 20 May",09:55,14:45,1 stop via New Delhi,Vistara,2021-05-06 20:02:48.037508
+" 39,835","Amritsar to Varanasi , 20 May",09:55,15:35,"2 stop via New Delhi,Mumbai",Vistara,2021-05-06 20:02:48.037508
+" 43,677","Amritsar to Varanasi , 20 May",22:50,12:40,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:02:48.037508
+" 68,043","Amritsar to Varanasi , 20 May",14:55,12:40,"2 stop via Patna,Mumbai",Air India,2021-05-06 20:02:48.037508
+" 24,653","Amritsar to Indore , 20 May",09:55,16:30,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:03:04.981268
+" 45,592","Amritsar to Indore , 20 May",14:20,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:03:04.981268
+" 45,592","Amritsar to Indore , 20 May",14:20,08:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:03:04.981268
+" 46,050","Amritsar to Indore , 20 May",15:25,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:03:04.981268
+" 46,050","Amritsar to Indore , 20 May",15:25,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:03:04.981268
+" 46,050","Amritsar to Indore , 20 May",09:55,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:03:04.981268
+" 46,050","Amritsar to Indore , 20 May",09:55,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:03:04.981268
+" 69,958","Amritsar to Indore , 20 May",14:55,08:25,"2 stop via Patna,Mumbai",Air India,2021-05-06 20:03:04.981268
+" 20,426","Amritsar to Srinagar , 20 May",22:50,11:45,1 stop via New Delhi,Air India,2021-05-06 20:03:27.569891
+" 20,426","Amritsar to Srinagar , 20 May",22:50,13:40,"2 stop via New Delhi,Jammu",Air India,2021-05-06 20:03:27.569891
+" 34,408","Amritsar to Visakhapatnam , 20 May",09:55,17:15,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:03:30.118399
+" 51,192","Amritsar to Visakhapatnam , 20 May",22:50,13:35,"3 stop via New Delhi,Mumbai,Raipur",Air India,2021-05-06 20:03:30.118399
+" 51,192","Amritsar to Visakhapatnam , 20 May",14:20,13:35,"3 stop via New Delhi,Mumbai,Raipur",Air India,2021-05-06 20:03:30.118399
+" 51,650","Amritsar to Visakhapatnam , 20 May",15:25,13:35,"3 stop via New Delhi,Mumbai,Raipur","Vistara, Air India",2021-05-06 20:03:30.118399
+" 51,650","Amritsar to Visakhapatnam , 20 May",09:55,13:35,"3 stop via New Delhi,Mumbai,Raipur","Vistara, Air India",2021-05-06 20:03:30.118399
+" 75,558","Amritsar to Visakhapatnam , 20 May",14:55,13:35,"3 stop via Patna,Mumbai,Raipur",Air India,2021-05-06 20:03:30.118399
+" 25,757","Amritsar to Ranchi , 20 May",15:25,19:40,1 stop via New Delhi,Vistara,2021-05-06 20:03:50.267064
+" 25,757","Amritsar to Ranchi , 20 May",09:55,19:40,1 stop via New Delhi,Vistara,2021-05-06 20:03:50.267064
+" 26,026","Amritsar to Ranchi , 20 May",22:50,12:45,1 stop via New Delhi,Air India,2021-05-06 20:03:50.267064
+" 26,080","Amritsar to Ranchi , 20 May",14:20,19:40,1 stop via New Delhi,"Air India, Vistara",2021-05-06 20:03:50.267064
+" 21,725","Amritsar to Chandigarh , 20 May",09:55,14:45,1 stop via New Delhi,Vistara,2021-05-06 20:03:52.709490
+" 42,870","Amritsar to Chandigarh , 20 May",09:55,12:20,"2 stop via New Delhi,Mumbai",Vistara,2021-05-06 20:03:52.709490
+" 24,653","Amritsar to Raipur , 20 May",09:55,18:10,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:04:12.916154
+" 49,468","Amritsar to Raipur , 20 May",22:50,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:04:12.916154
+" 49,468","Amritsar to Raipur , 20 May",14:20,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:04:12.916154
+" 49,925","Amritsar to Raipur , 20 May",15:25,11:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:04:12.916154
+" 49,925","Amritsar to Raipur , 20 May",09:55,11:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:04:12.916154
+" 73,833","Amritsar to Raipur , 20 May",14:55,11:50,"2 stop via Patna,Mumbai",Air India,2021-05-06 20:04:12.916154
+" 48,952","Amritsar to Mangalore , 20 May",22:50,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:04:15.395047
+" 73,318","Amritsar to Mangalore , 20 May",14:55,12:00,"2 stop via Patna,Mumbai",Air India,2021-05-06 20:04:15.395047
+" 51,898","Amritsar to Port Blair , 20 May",14:20,07:20,"2 stop via New Delhi,Chennai",Air India,2021-05-06 20:04:35.608970
+" 52,312","Amritsar to Port Blair , 20 May",22:50,09:05,1 stop via New Delhi,Air India,2021-05-06 20:04:35.608970
+" 80,811","Amritsar to Port Blair , 20 May",14:55,09:05,"2 stop via Patna,New Delhi",Air India,2021-05-06 20:04:35.608970
+" 11,442","Chandigarh to New Delhi , 20 May",15:25,16:30,Non stop,Vistara,2021-05-06 20:04:58.425537
+" 28,818","Chandigarh to Hyderabad , 20 May",15:25,23:35,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:05:23.559723
+" 44,603","Chandigarh to Hyderabad , 20 May",15:25,07:15,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:05:23.559723
+" 44,603","Chandigarh to Hyderabad , 20 May",15:25,07:15,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:05:23.559723
+" 47,258","Chandigarh to Hyderabad , 20 May",15:25,09:45,"3 stop via New Delhi,Bengaluru,Chennai","Vistara, Air India",2021-05-06 20:05:23.559723
+" 47,448","Chandigarh to Hyderabad , 20 May",15:25,09:45,"2 stop via New Delhi,Chennai","Vistara, Air India",2021-05-06 20:05:23.559723
+" 31,058","Chandigarh to Chennai , 20 May",15:25,23:35,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:05:43.679516
+" 43,898","Chandigarh to Chennai , 20 May",15:25,08:05,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-06 20:05:43.679516
+" 44,749","Chandigarh to Chennai , 20 May",15:25,10:55,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:05:43.679516
+" 44,749","Chandigarh to Chennai , 20 May",15:25,10:55,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:05:43.679516
+" 27,507","Chandigarh to Kolkata , 20 May",15:25,22:20,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:05:46.353440
+" 50,808","Chandigarh to Kolkata , 20 May",15:25,08:05,"2 stop via New Delhi,Hyderabad","Vistara, Air India",2021-05-06 20:05:46.353440
+" 52,858","Chandigarh to Kolkata , 20 May",15:25,13:30,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-06 20:05:46.353440
+" 53,048","Chandigarh to Kolkata , 20 May",15:25,13:50,"2 stop via New Delhi,Chennai","Vistara, Air India",2021-05-06 20:05:46.353440
+" 28,344","Chandigarh to Pune , 20 May",15:25,12:35,1 stop via New Delhi,Vistara,2021-05-06 20:06:23.571150
+" 26,354","Chandigarh to Guwahati , 20 May",15:25,12:05,1 stop via New Delhi,Vistara,2021-05-06 20:06:29.060024
+" 23,878","Chandigarh to Lucknow , 20 May",15:25,19:40,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:06:46.292953
+" 58,984","Chandigarh to Lucknow , 20 May",15:25,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:06:46.292953
+" 58,984","Chandigarh to Lucknow , 20 May",15:25,10:30,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:06:46.292953
+" 59,578","Chandigarh to Jaipur , 20 May",15:25,09:20,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-06 20:06:51.814797
+" 27,043","Chandigarh to Patna , 20 May",15:25,19:55,1 stop via New Delhi,Vistara,2021-05-06 20:07:09.144375
+" 58,984","Chandigarh to Patna , 20 May",15:25,10:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:07:09.144375
+" 58,984","Chandigarh to Patna , 20 May",15:25,10:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:07:09.144375
+" 29,172","Chandigarh to Bhubaneswar , 20 May",15:25,09:05,1 stop via New Delhi,Vistara,2021-05-06 20:07:31.856760
+" 30,162","Chandigarh to Bhubaneswar , 20 May",15:25,20:55,1 stop via New Delhi,"Vistara, Air India",2021-05-06 20:07:31.856760
+" 52,858","Chandigarh to Bhubaneswar , 20 May",15:25,14:00,"2 stop via New Delhi,Bengaluru","Vistara, Air India",2021-05-06 20:07:31.856760
+" 50,024","Chandigarh to Nagpur , 20 May",15:25,07:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:07:55.571038
+" 50,024","Chandigarh to Nagpur , 20 May",15:25,07:20,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:07:55.571038
+" 46,664","Chandigarh to Indore , 20 May",15:25,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:08:18.242475
+" 46,664","Chandigarh to Indore , 20 May",15:25,08:25,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:08:18.242475
+" 52,264","Chandigarh to Visakhapatnam , 20 May",15:25,13:35,"3 stop via New Delhi,Mumbai,Raipur","Vistara, Air India",2021-05-06 20:09:00.277580
+" 50,539","Chandigarh to Raipur , 20 May",15:25,11:50,"2 stop via New Delhi,Mumbai","Vistara, Air India",2021-05-06 20:09:25.359835
+" 13,661","Raipur to New Delhi , 20 May",18:55,20:25,Non stop,Air India,2021-05-06 20:10:07.799053
+" 39,533","Raipur to New Delhi , 20 May",12:30,20:30,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:10:07.799053
+" 39,533","Raipur to New Delhi , 20 May",12:30,21:15,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:10:07.799053
+" 40,407","Raipur to New Delhi , 20 May",12:30,20:25,1 stop via Visakhapatnam,Air India,2021-05-06 20:10:07.799053
+" 21,692","Raipur to Mumbai , 20 May",12:30,16:25,1 stop via Visakhapatnam,Air India,2021-05-06 20:10:18.866615
+" 31,503","Raipur to Mumbai , 20 May",18:55,09:05,1 stop via New Delhi,Air India,2021-05-06 20:10:18.866615
+" 31,503","Raipur to Mumbai , 20 May",18:55,10:10,1 stop via New Delhi,Air India,2021-05-06 20:10:18.866615
+" 44,976","Raipur to Mumbai , 20 May",18:55,09:40,"2 stop via New Delhi,Hyderabad",Air India,2021-05-06 20:10:18.866615
+" 32,096","Raipur to Bengaluru , 20 May",18:55,08:55,1 stop via New Delhi,Air India,2021-05-06 20:10:30.539423
+" 50,912","Raipur to Bengaluru , 20 May",18:55,18:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:10:30.539423
+" 50,912","Raipur to Bengaluru , 20 May",18:55,18:30,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:10:30.539423
+" 30,047","Raipur to Hyderabad , 20 May",18:55,23:35,1 stop via New Delhi,Air India,2021-05-06 20:10:41.493156
+" 30,047","Raipur to Hyderabad , 20 May",18:55,10:10,1 stop via New Delhi,Air India,2021-05-06 20:10:41.493156
+" 36,621","Raipur to Hyderabad , 20 May",12:30,20:45,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:10:41.493156
+" 56,792","Raipur to Hyderabad , 20 May",12:30,23:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:10:41.493156
+" 32,287","Raipur to Chennai , 20 May",18:55,08:55,1 stop via New Delhi,Air India,2021-05-06 20:10:53.075404
+" 47,037","Raipur to Chennai , 20 May",18:55,22:35,"2 stop via New Delhi,Hyderabad",Air India,2021-05-06 20:10:53.075404
+" 51,327","Raipur to Chennai , 20 May",18:55,17:05,"2 stop via New Delhi,Kolkata",Air India,2021-05-06 20:10:53.075404
+" 59,032","Raipur to Chennai , 20 May",12:30,08:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:10:53.075404
+" 28,736","Raipur to Kolkata , 20 May",18:55,09:00,1 stop via New Delhi,Air India,2021-05-06 20:11:04.325060
+" 54,687","Raipur to Kolkata , 20 May",18:55,13:30,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:11:04.325060
+" 54,877","Raipur to Kolkata , 20 May",18:55,13:50,"2 stop via New Delhi,Chennai",Air India,2021-05-06 20:11:04.325060
+" 56,672","Raipur to Kolkata , 20 May",18:55,12:25,"2 stop via New Delhi,Agartala",Air India,2021-05-06 20:11:04.325060
+" 54,093","Raipur to Kochi , 20 May",18:55,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:11:15.837915
+" 54,093","Raipur to Kochi , 20 May",18:55,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:11:15.837915
+" 30,383","Raipur to Pune , 20 May",18:55,08:40,1 stop via New Delhi,Air India,2021-05-06 20:11:38.865783
+" 56,255","Raipur to Pune , 20 May",12:30,08:40,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-06 20:11:38.865783
+" 56,255","Raipur to Pune , 20 May",12:30,08:40,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-06 20:11:38.865783
+" 57,128","Raipur to Pune , 20 May",12:30,08:40,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:11:38.865783
+" 25,108","Raipur to Lucknow , 20 May",18:55,08:15,1 stop via New Delhi,Air India,2021-05-06 20:11:58.274243
+" 50,980","Raipur to Lucknow , 20 May",12:30,08:15,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-06 20:11:58.274243
+" 50,980","Raipur to Lucknow , 20 May",12:30,08:15,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-06 20:11:58.274243
+" 51,853","Raipur to Lucknow , 20 May",12:30,08:15,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:11:58.274243
+" 51,853","Raipur to Jaipur , 20 May",18:55,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:12:12.001860
+" 51,853","Raipur to Jaipur , 20 May",18:55,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:12:12.001860
+" 49,087","Raipur to Patna , 20 May",18:55,20:40,"2 stop via New Delhi,Kolkata",Air India,2021-05-06 20:12:20.842439
+" 61,407","Raipur to Patna , 20 May",18:55,21:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:12:20.842439
+" 54,093","Raipur to Bhubaneswar , 20 May",18:55,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:12:43.452631
+" 54,093","Raipur to Bhubaneswar , 20 May",18:55,14:25,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:12:43.452631
+" 54,687","Raipur to Bhubaneswar , 20 May",18:55,14:00,"2 stop via New Delhi,Bengaluru",Air India,2021-05-06 20:12:43.452631
+" 42,042","Raipur to Nagpur , 20 May",12:30,20:35,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:13:19.961804
+" 46,578","Raipur to Varanasi , 20 May",18:55,12:40,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:13:28.563505
+" 45,917","Raipur to Coimbatore , 20 May",18:55,14:25,"2 stop via New Delhi,Chennai",Air India,2021-05-06 20:13:51.241976
+" 51,853","Raipur to Coimbatore , 20 May",18:55,13:30,"3 stop via New Delhi,Mumbai,Mangalore",Air India,2021-05-06 20:13:51.241976
+" 17,816","Raipur to Visakhapatnam , 20 May",12:30,13:35,Non stop,Air India,2021-05-06 20:14:13.992459
+" 51,853","Raipur to Mangalore , 20 May",18:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-06 20:14:55.951552
+" 55,213","Raipur to Port Blair , 20 May",18:55,09:05,1 stop via New Delhi,Air India,2021-05-06 20:15:13.166562
+" 81,085","Raipur to Port Blair , 20 May",12:30,09:05,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-06 20:15:13.166562
+" 81,085","Raipur to Port Blair , 20 May",12:30,09:05,"3 stop via Visakhapatnam,Mumbai,New Delhi",Air India,2021-05-06 20:15:13.166562
+" 81,959","Raipur to Port Blair , 20 May",12:30,09:05,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:15:13.166562
+" 35,391","Mangalore to New Delhi , 20 May",12:35,21:55,"2 stop via Coimbatore,Mumbai","Air India, Vistara",2021-05-06 20:15:29.710235
+" 38,669","Mangalore to New Delhi , 20 May",12:35,20:30,"2 stop via Coimbatore,Mumbai",Air India,2021-05-06 20:15:29.710235
+" 38,669","Mangalore to New Delhi , 20 May",12:35,21:15,"2 stop via Coimbatore,Mumbai",Air India,2021-05-06 20:15:29.710235
+" 52,520","Mangalore to New Delhi , 20 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,Hyderabad",Air India,2021-05-06 20:15:29.710235
+" 55,738","Mangalore to New Delhi , 20 May",12:35,19:50,"2 stop via Coimbatore,Chennai",Air India,2021-05-06 20:15:29.710235
+" 20,827","Mangalore to Mumbai , 20 May",12:35,15:55,1 stop via Coimbatore,Air India,2021-05-06 20:15:39.691854
+" 73,579","Mangalore to Mumbai , 20 May",12:35,09:05,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:15:39.691854
+" 40,237","Mangalore to Bengaluru , 20 May",12:35,18:30,"2 stop via Coimbatore,Mumbai",Air India,2021-05-06 20:15:46.566949
+" 57,104","Mangalore to Bengaluru , 20 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:15:46.566949
+" 57,104","Mangalore to Bengaluru , 20 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:15:46.566949
+" 74,173","Mangalore to Bengaluru , 20 May",12:35,23:55,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:15:46.566949
+" 74,173","Mangalore to Bengaluru , 20 May",12:35,08:55,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:15:46.566949
+" 35,757","Mangalore to Hyderabad , 20 May",12:35,20:45,"2 stop via Coimbatore,Mumbai",Air India,2021-05-06 20:16:02.418932
+" 55,055","Mangalore to Hyderabad , 20 May",12:35,10:10,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:02.418932
+" 55,055","Mangalore to Hyderabad , 20 May",12:35,10:10,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:02.418932
+" 72,123","Mangalore to Hyderabad , 20 May",12:35,23:35,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:16:02.418932
+" 27,738","Mangalore to Chennai , 20 May",12:35,16:15,1 stop via Coimbatore,Air India,2021-05-06 20:16:09.022151
+" 57,295","Mangalore to Chennai , 20 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:09.022151
+" 57,295","Mangalore to Chennai , 20 May",12:35,08:55,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:09.022151
+" 53,744","Mangalore to Kolkata , 20 May",12:35,09:00,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:25.199785
+" 53,744","Mangalore to Kolkata , 20 May",12:35,09:00,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:25.199785
+" 58,347","Mangalore to Kolkata , 20 May",12:35,08:05,"3 stop via Coimbatore,Mumbai,Hyderabad",Air India,2021-05-06 20:16:25.199785
+" 70,813","Mangalore to Kolkata , 20 May",12:35,09:00,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:16:25.199785
+" 55,391","Mangalore to Pune , 20 May",12:35,08:40,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:54.207733
+" 55,391","Mangalore to Pune , 20 May",12:35,08:40,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:16:54.207733
+" 55,391","Mangalore to Pune , 20 May",12:35,12:05,"4 stop via Coimbatore,Mumbai,New Delhi,Bhopal",Air India,2021-05-06 20:16:54.207733
+" 72,459","Mangalore to Pune , 20 May",12:35,08:40,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:16:54.207733
+" 50,115","Mangalore to Lucknow , 20 May",12:35,08:15,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:17:16.828891
+" 50,115","Mangalore to Lucknow , 20 May",12:35,08:15,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:17:16.828891
+" 67,184","Mangalore to Lucknow , 20 May",12:35,08:15,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:17:16.828891
+" 41,178","Mangalore to Nagpur , 20 May",12:35,20:35,"2 stop via Coimbatore,Mumbai",Air India,2021-05-06 20:18:33.828781
+" 14,107","Mangalore to Coimbatore , 20 May",12:35,13:30,Non stop,Air India,2021-05-06 20:19:02.302872
+" 65,672","Mangalore to Amritsar , 20 May",12:35,22:20,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:19:47.542786
+" 80,221","Mangalore to Port Blair , 20 May",12:35,09:05,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:20:23.880523
+" 80,221","Mangalore to Port Blair , 20 May",12:35,09:05,"3 stop via Coimbatore,Mumbai,New Delhi",Air India,2021-05-06 20:20:23.880523
+" 97,290","Mangalore to Port Blair , 20 May",12:35,09:05,"3 stop via Coimbatore,Chennai,New Delhi",Air India,2021-05-06 20:20:23.880523
+" 40,122","Port Blair to New Delhi , 20 May",11:55,17:45,1 stop via Kolkata,Vistara,2021-05-06 20:20:46.651064
+" 41,522","Port Blair to New Delhi , 20 May",08:00,19:50,1 stop via Chennai,Air India,2021-05-06 20:20:46.651064
+" 41,936","Port Blair to New Delhi , 20 May",09:35,14:45,1 stop via Visakhapatnam,Air India,2021-05-06 20:20:46.651064
+" 45,486","Port Blair to New Delhi , 20 May",09:35,20:25,1 stop via Visakhapatnam,Air India,2021-05-06 20:20:46.651064
+" 55,813","Port Blair to New Delhi , 20 May",08:00,20:30,"2 stop via Chennai,Mumbai",Air India,2021-05-06 20:20:46.651064
+" 55,813","Port Blair to New Delhi , 20 May",08:00,21:15,"2 stop via Chennai,Mumbai",Air India,2021-05-06 20:20:46.651064
+" 63,328","Port Blair to New Delhi , 20 May",09:35,20:30,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:20:46.651064
+" 63,328","Port Blair to New Delhi , 20 May",09:35,21:15,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:20:46.651064
+" 37,971","Port Blair to Mumbai , 20 May",08:00,17:05,1 stop via Chennai,Air India,2021-05-06 20:20:53.548582
+" 45,486","Port Blair to Mumbai , 20 May",09:35,16:25,1 stop via Visakhapatnam,Air India,2021-05-06 20:20:53.548582
+" 59,778","Port Blair to Mumbai , 20 May",09:35,21:15,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:20:53.548582
+" 59,778","Port Blair to Mumbai , 20 May",09:35,22:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:20:53.548582
+" 63,328","Port Blair to Mumbai , 20 May",09:35,09:05,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:20:53.548582
+" 63,328","Port Blair to Mumbai , 20 May",09:35,10:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:20:53.548582
+" 73,251","Port Blair to Mumbai , 20 May",09:35,09:40,"3 stop via Visakhapatnam,New Delhi,Hyderabad",Air India,2021-05-06 20:20:53.548582
+" 60,371","Port Blair to Bengaluru , 20 May",09:35,23:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:06.069062
+" 63,922","Port Blair to Bengaluru , 20 May",09:35,08:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:06.069062
+" 79,187","Port Blair to Bengaluru , 20 May",09:35,07:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:06.069062
+" 79,187","Port Blair to Bengaluru , 20 May",09:35,07:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:06.069062
+" 79,187","Port Blair to Bengaluru , 20 May",09:35,11:10,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:06.069062
+" 52,901","Port Blair to Hyderabad , 20 May",08:00,20:45,"2 stop via Chennai,Mumbai",Air India,2021-05-06 20:21:09.485477
+" 58,225","Port Blair to Hyderabad , 20 May",08:00,23:35,"2 stop via Chennai,New Delhi",Air India,2021-05-06 20:21:09.485477
+" 58,322","Port Blair to Hyderabad , 20 May",09:35,23:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:09.485477
+" 60,416","Port Blair to Hyderabad , 20 May",09:35,20:45,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:21:09.485477
+" 61,872","Port Blair to Hyderabad , 20 May",09:35,23:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:09.485477
+" 61,872","Port Blair to Hyderabad , 20 May",09:35,10:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:09.485477
+" 74,707","Port Blair to Hyderabad , 20 May",09:35,07:15,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:09.485477
+" 74,707","Port Blair to Hyderabad , 20 May",09:35,07:15,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:09.485477
+" 77,552","Port Blair to Hyderabad , 20 May",09:35,09:45,"3 stop via Visakhapatnam,New Delhi,Chennai",Air India,2021-05-06 20:21:09.485477
+" 22,896","Port Blair to Chennai , 20 May",08:00,10:10,Non stop,Air India,2021-05-06 20:21:24.864748
+" 60,562","Port Blair to Chennai , 20 May",09:35,23:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:24.864748
+" 64,112","Port Blair to Chennai , 20 May",09:35,08:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:24.864748
+" 74,002","Port Blair to Chennai , 20 May",09:35,08:05,"3 stop via Visakhapatnam,New Delhi,Bengaluru",Air India,2021-05-06 20:21:24.864748
+" 74,853","Port Blair to Chennai , 20 May",09:35,10:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:24.864748
+" 74,853","Port Blair to Chennai , 20 May",09:35,10:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:24.864748
+" 22,874","Port Blair to Kolkata , 20 May",11:55,14:20,Non stop,Vistara,2021-05-06 20:21:28.853425
+" 56,597","Port Blair to Kolkata , 20 May",08:00,09:00,"2 stop via Chennai,New Delhi",Air India,2021-05-06 20:21:28.853425
+" 57,011","Port Blair to Kolkata , 20 May",09:35,22:20,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:28.853425
+" 60,562","Port Blair to Kolkata , 20 May",09:35,09:00,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:21:28.853425
+" 82,962","Port Blair to Kolkata , 20 May",09:35,13:30,"3 stop via Visakhapatnam,New Delhi,Bengaluru",Air India,2021-05-06 20:21:28.853425
+" 71,683","Port Blair to Goa , 20 May",09:35,06:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:51.434281
+" 71,683","Port Blair to Goa , 20 May",09:35,06:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:21:51.434281
+" 58,243","Port Blair to Pune , 20 May",08:00,08:40,"2 stop via Chennai,New Delhi",Air India,2021-05-06 20:22:06.922787
+" 58,658","Port Blair to Pune , 20 May",09:35,18:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:22:06.922787
+" 62,208","Port Blair to Pune , 20 May",09:35,08:40,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:22:06.922787
+" 54,164","Port Blair to Guwahati , 20 May",09:35,18:45,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:22:13.984011
+" 52,968","Port Blair to Lucknow , 20 May",08:00,08:15,"2 stop via Chennai,New Delhi",Air India,2021-05-06 20:22:29.634905
+" 53,382","Port Blair to Lucknow , 20 May",09:35,19:40,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:22:29.634905
+" 56,933","Port Blair to Lucknow , 20 May",09:35,08:15,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:22:29.634905
+" 89,088","Port Blair to Lucknow , 20 May",09:35,10:30,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:22:29.634905
+" 89,088","Port Blair to Lucknow , 20 May",09:35,10:30,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:22:29.634905
+" 89,682","Port Blair to Jaipur , 20 May",09:35,09:20,"3 stop via Visakhapatnam,New Delhi,Bengaluru",Air India,2021-05-06 20:22:36.599428
+" 44,148","Port Blair to Patna , 20 May",11:55,20:40,1 stop via Kolkata,"Vistara, Air India",2021-05-06 20:22:52.378851
+" 57,538","Port Blair to Patna , 20 May",09:35,18:25,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:22:52.378851
+" 89,088","Port Blair to Patna , 20 May",09:35,10:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:22:52.378851
+" 89,088","Port Blair to Patna , 20 May",09:35,10:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:22:52.378851
+" 62,376","Port Blair to Thiruvananthapuram , 20 May",09:35,20:30,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:22:59.099686
+" 59,666","Port Blair to Bhubaneswar , 20 May",09:35,20:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:23:15.025419
+" 82,962","Port Blair to Bhubaneswar , 20 May",09:35,14:00,"3 stop via Visakhapatnam,New Delhi,Bengaluru",Air India,2021-05-06 20:23:15.025419
+" 58,322","Port Blair to Nagpur , 20 May",08:00,20:35,"2 stop via Chennai,Mumbai",Air India,2021-05-06 20:24:00.280418
+" 65,837","Port Blair to Nagpur , 20 May",09:35,20:35,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-06 20:24:00.280418
+" 80,128","Port Blair to Nagpur , 20 May",09:35,07:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:24:00.280418
+" 80,128","Port Blair to Nagpur , 20 May",09:35,07:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:24:00.280418
+" 57,308","Port Blair to Varanasi , 20 May",11:55,12:40,"3 stop via Kolkata,Patna,Mumbai","Vistara, Air India",2021-05-06 20:24:17.221450
+" 76,768","Port Blair to Indore , 20 May",09:35,08:25,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:24:22.797664
+" 76,768","Port Blair to Indore , 20 May",09:35,08:25,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-06 20:24:22.797664
+" 36,526","Port Blair to Coimbatore , 20 May",08:00,14:25,1 stop via Chennai,Air India,2021-05-06 20:24:39.992741
+" 22,896","Port Blair to Visakhapatnam , 20 May",09:35,11:55,Non stop,Air India,2021-05-06 20:25:02.570636
+" 51,456","Port Blair to Amritsar , 20 May",08:00,22:20,"2 stop via Chennai,New Delhi",Air India,2021-05-06 20:25:18.009336
+" 51,870","Port Blair to Amritsar , 20 May",09:35,22:20,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:25:18.009336
+" 54,771","Port Blair to Raipur , 20 May",09:35,18:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-06 20:25:40.630966

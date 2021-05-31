@@ -1,0 +1,184 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 5,046","Jaipur to Mumbai , 26 May",09:00,06:35,1 stop via Ahmedabad,Spicejet,2021-05-16 20:19:44.053809
+" 5,276","Jaipur to Mumbai , 26 May",08:40,10:35,Non stop,Spicejet,2021-05-16 20:19:44.053809
+" 7,238","Jaipur to Bengaluru , 26 May",08:40,23:30,1 stop via Mumbai,Spicejet,2021-05-16 20:20:22.141346
+" 7,238","Jaipur to Bengaluru , 26 May",09:00,08:05,1 stop via Ahmedabad,Spicejet,2021-05-16 20:20:22.141346
+" 7,165","Jaipur to Chennai , 26 May",16:35,22:35,1 stop via Guwahati,Spicejet,2021-05-16 20:21:28.735990
+" 7,240","Jaipur to Chennai , 26 May",08:40,21:45,1 stop via Mumbai,Spicejet,2021-05-16 20:21:28.735990
+" 7,240","Jaipur to Chennai , 26 May",09:00,22:10,1 stop via Ahmedabad,Spicejet,2021-05-16 20:21:28.735990
+" 5,979","Jaipur to Goa , 26 May",08:40,17:05,1 stop via Mumbai,Spicejet,2021-05-16 20:22:35.068269
+" 5,979","Jaipur to Goa , 26 May",09:00,17:30,1 stop via Ahmedabad,Spicejet,2021-05-16 20:22:35.068269
+" 5,577","Jaipur to Pune , 26 May",09:00,18:35,1 stop via Ahmedabad,Spicejet,2021-05-16 20:22:57.661859
+" 6,600","Jaipur to Guwahati , 26 May",16:35,19:25,Non stop,Spicejet,2021-05-16 20:23:20.572486
+" 7,662","Jaipur to Patna , 26 May",09:00,16:15,1 stop via Ahmedabad,Spicejet,2021-05-16 20:24:06.414466
+" 4,784","Jaipur to Amritsar , 26 May",05:55,07:30,Non stop,Spicejet,2021-05-16 20:30:01.812950
+" 5,049","Patna to New Delhi , 26 May",09:30,11:20,Non stop,Spicejet,2021-05-16 20:32:18.665865
+" 5,049","Patna to New Delhi , 26 May",17:35,19:25,Non stop,Spicejet,2021-05-16 20:32:18.665865
+" 5,049","Patna to New Delhi , 26 May",21:20,23:10,Non stop,Spicejet,2021-05-16 20:32:18.665865
+" 6,713","Patna to Bengaluru , 26 May",15:05,19:10,1 stop via Jharsuguda,Spicejet,2021-05-16 20:32:46.026982
+" 6,713","Patna to Bengaluru , 26 May",21:20,08:50,1 stop via New Delhi,Spicejet,2021-05-16 20:32:46.026982
+" 6,713","Patna to Bengaluru , 26 May",09:30,22:55,1 stop via New Delhi,Spicejet,2021-05-16 20:32:46.026982
+" 6,713","Patna to Bengaluru , 26 May",17:35,08:50,1 stop via New Delhi,Spicejet,2021-05-16 20:32:46.026982
+" 6,939","Patna to Bengaluru , 26 May",10:45,13:20,Non stop,Spicejet,2021-05-16 20:32:46.026982
+" 5,453","Patna to Hyderabad , 26 May",15:05,20:40,1 stop via Jharsuguda,Spicejet,2021-05-16 20:33:09.803259
+" 5,453","Patna to Hyderabad , 26 May",09:30,22:30,1 stop via New Delhi,Spicejet,2021-05-16 20:33:09.803259
+" 5,453","Patna to Hyderabad , 26 May",21:20,22:30,1 stop via New Delhi,Spicejet,2021-05-16 20:33:09.803259
+" 5,679","Patna to Hyderabad , 26 May",17:30,19:35,Non stop,Spicejet,2021-05-16 20:33:09.803259
+" 6,616","Patna to Chennai , 26 May",10:45,20:55,1 stop via Bengaluru,Spicejet,2021-05-16 20:33:32.513881
+" 6,616","Patna to Chennai , 26 May",21:20,09:10,1 stop via New Delhi,Spicejet,2021-05-16 20:33:32.513881
+" 6,616","Patna to Chennai , 26 May",09:30,21:35,1 stop via New Delhi,Spicejet,2021-05-16 20:33:32.513881
+" 6,616","Patna to Chennai , 26 May",17:30,06:55,1 stop via Hyderabad,Spicejet,2021-05-16 20:33:32.513881
+" 6,616","Patna to Chennai , 26 May",17:35,09:10,1 stop via New Delhi,Spicejet,2021-05-16 20:33:32.513881
+" 6,840","Patna to Chennai , 26 May",17:30,22:05,1 stop via Hyderabad,Spicejet,2021-05-16 20:33:32.513881
+" 6,840","Patna to Chennai , 26 May",17:15,22:10,1 stop via Ahmedabad,Spicejet,2021-05-16 20:33:32.513881
+" 8,528","Patna to Kochi , 26 May",22:10,20:05,1 stop via Mumbai,Spicejet,2021-05-16 20:34:08.509707
+" 6,512","Patna to Goa , 26 May",21:20,09:25,1 stop via New Delhi,Spicejet,2021-05-16 20:34:31.310646
+" 6,512","Patna to Goa , 26 May",22:10,13:00,1 stop via Mumbai,Spicejet,2021-05-16 20:34:31.310646
+" 6,512","Patna to Goa , 26 May",17:35,09:25,1 stop via New Delhi,Spicejet,2021-05-16 20:34:31.310646
+" 6,512","Patna to Goa , 26 May",17:30,14:50,1 stop via Hyderabad,Spicejet,2021-05-16 20:34:31.310646
+" 6,512","Patna to Goa , 26 May",09:30,09:25,1 stop via New Delhi,Spicejet,2021-05-16 20:34:31.310646
+" 6,512","Patna to Goa , 26 May",17:15,17:30,1 stop via Ahmedabad,Spicejet,2021-05-16 20:34:31.310646
+" 6,512","Patna to Goa , 26 May",10:45,11:05,1 stop via Bengaluru,Spicejet,2021-05-16 20:34:31.310646
+" 6,712","Patna to Pune , 26 May",09:30,18:55,1 stop via New Delhi,Spicejet,2021-05-16 20:34:52.841531
+" 6,712","Patna to Pune , 26 May",21:20,10:45,1 stop via New Delhi,Spicejet,2021-05-16 20:34:52.841531
+" 6,712","Patna to Pune , 26 May",17:30,08:05,1 stop via Hyderabad,Spicejet,2021-05-16 20:34:52.841531
+" 6,712","Patna to Pune , 26 May",17:35,10:45,1 stop via New Delhi,Spicejet,2021-05-16 20:34:52.841531
+" 6,712","Patna to Pune , 26 May",21:20,18:55,1 stop via New Delhi,Spicejet,2021-05-16 20:34:52.841531
+" 6,712","Patna to Pune , 26 May",09:30,10:45,1 stop via New Delhi,Spicejet,2021-05-16 20:34:52.841531
+" 6,712","Patna to Pune , 26 May",17:15,18:35,1 stop via Ahmedabad,Spicejet,2021-05-16 20:34:52.841531
+" 6,712","Patna to Pune , 26 May",17:35,18:55,1 stop via New Delhi,Spicejet,2021-05-16 20:34:52.841531
+" 6,840","Patna to Pune , 26 May",14:10,16:25,Non stop,Spicejet,2021-05-16 20:34:52.841531
+" 5,176","Patna to Guwahati , 26 May",18:30,20:25,Non stop,Spicejet,2021-05-16 20:35:35.527511
+" 6,533","Patna to Srinagar , 26 May",09:30,16:10,1 stop via New Delhi,Spicejet,2021-05-16 20:42:09.253305
+" 6,533","Patna to Srinagar , 26 May",21:20,08:10,1 stop via New Delhi,Spicejet,2021-05-16 20:42:09.253305
+" 6,533","Patna to Srinagar , 26 May",17:35,08:10,1 stop via New Delhi,Spicejet,2021-05-16 20:42:09.253305
+" 6,202","Patna to Amritsar , 26 May",08:55,11:25,Non stop,Spicejet,2021-05-16 20:43:17.461526
+" 8,642","Patna to Mangalore , 26 May",10:45,18:10,1 stop via Bengaluru,Spicejet,2021-05-16 20:44:11.634844
+" 5,637","Bhubaneswar to New Delhi , 26 May",09:40,11:55,Non stop,Vistara,2021-05-16 20:56:22.170181
+" 8,308","Bhubaneswar to Mumbai , 26 May",09:40,15:00,1 stop via New Delhi,Vistara,2021-05-16 20:56:46.442206
+" 9,220","Bhubaneswar to Bengaluru , 26 May",09:40,17:05,1 stop via New Delhi,Vistara,2021-05-16 20:57:08.972325
+" 8,308","Bhubaneswar to Hyderabad , 26 May",09:40,17:00,1 stop via New Delhi,Vistara,2021-05-16 20:57:33.205387
+" 11,908","Bhubaneswar to Chennai , 26 May",09:40,16:20,1 stop via New Delhi,Vistara,2021-05-16 20:57:44.489824
+" 7,363","Bhubaneswar to Lucknow , 26 May",09:40,14:50,1 stop via New Delhi,Vistara,2021-05-16 21:00:05.086210
+" 8,308","Bhubaneswar to Ranchi , 26 May",09:40,19:40,1 stop via New Delhi,Vistara,2021-05-16 21:06:33.765522
+" 6,391","Bagdogra to Mumbai , 26 May",15:35,22:05,1 stop via New Delhi,Spicejet,2021-05-16 21:17:39.458965
+" 6,391","Bagdogra to Mumbai , 26 May",13:25,22:15,1 stop via Kolkata,Spicejet,2021-05-16 21:17:39.458965
+" 6,391","Bagdogra to Mumbai , 26 May",12:05,21:05,1 stop via New Delhi,Spicejet,2021-05-16 21:17:39.458965
+" 6,883","Bagdogra to Mumbai , 26 May",15:45,19:10,Non stop,Spicejet,2021-05-16 21:17:39.458965
+" 7,150","Bagdogra to Bengaluru , 26 May",15:35,22:55,1 stop via New Delhi,Spicejet,2021-05-16 21:17:59.093510
+" 7,150","Bagdogra to Bengaluru , 26 May",15:45,23:30,1 stop via Mumbai,Spicejet,2021-05-16 21:17:59.093510
+" 7,150","Bagdogra to Bengaluru , 26 May",12:05,22:55,1 stop via New Delhi,Spicejet,2021-05-16 21:17:59.093510
+" 7,150","Bagdogra to Bengaluru , 26 May",13:25,00:20,1 stop via Kolkata,Spicejet,2021-05-16 21:17:59.093510
+" 7,150","Bagdogra to Bengaluru , 26 May",16:30,09:05,1 stop via Chennai,Spicejet,2021-05-16 21:17:59.093510
+" 7,150","Bagdogra to Bengaluru , 26 May",08:50,09:05,1 stop via Chennai,Spicejet,2021-05-16 21:17:59.093510
+" 7,983","Bagdogra to Bengaluru , 26 May",09:20,12:00,Non stop,Spicejet,2021-05-16 21:17:59.093510
+" 6,631","Bagdogra to Hyderabad , 26 May",15:35,22:30,1 stop via New Delhi,Spicejet,2021-05-16 21:18:17.160210
+" 6,631","Bagdogra to Hyderabad , 26 May",12:05,22:30,1 stop via New Delhi,Spicejet,2021-05-16 21:18:17.160210
+" 6,631","Bagdogra to Hyderabad , 26 May",13:25,23:55,1 stop via Kolkata,Spicejet,2021-05-16 21:18:17.160210
+" 6,391","Bagdogra to Chennai , 26 May",12:05,21:35,1 stop via New Delhi,Spicejet,2021-05-16 21:18:42.305403
+" 6,391","Bagdogra to Chennai , 26 May",09:20,20:55,1 stop via Bengaluru,Spicejet,2021-05-16 21:18:42.305403
+" 6,391","Bagdogra to Chennai , 26 May",15:35,09:10,1 stop via New Delhi,Spicejet,2021-05-16 21:18:42.305403
+" 6,391","Bagdogra to Chennai , 26 May",12:05,09:10,1 stop via New Delhi,Spicejet,2021-05-16 21:18:42.305403
+" 7,983","Bagdogra to Chennai , 26 May",08:50,11:40,Non stop,Spicejet,2021-05-16 21:18:42.305403
+" 7,983","Bagdogra to Chennai , 26 May",16:30,19:20,Non stop,Spicejet,2021-05-16 21:18:42.305403
+" 4,483","Bagdogra to Kolkata , 26 May",13:25,14:20,Non stop,Spicejet,2021-05-16 21:19:08.093269
+" 7,255","Bagdogra to Goa , 26 May",08:50,14:50,1 stop via Chennai,Spicejet,2021-05-16 21:19:42.626241
+" 7,255","Bagdogra to Goa , 26 May",15:35,09:25,1 stop via New Delhi,Spicejet,2021-05-16 21:19:42.626241
+" 7,255","Bagdogra to Goa , 26 May",15:45,13:00,1 stop via Mumbai,Spicejet,2021-05-16 21:19:42.626241
+" 7,255","Bagdogra to Goa , 26 May",12:05,09:25,1 stop via New Delhi,Spicejet,2021-05-16 21:19:42.626241
+" 7,255","Bagdogra to Goa , 26 May",13:25,11:35,1 stop via Kolkata,Spicejet,2021-05-16 21:19:42.626241
+" 7,255","Bagdogra to Goa , 26 May",16:30,14:50,1 stop via Chennai,Spicejet,2021-05-16 21:19:42.626241
+" 7,255","Bagdogra to Goa , 26 May",09:20,11:05,1 stop via Bengaluru,Spicejet,2021-05-16 21:19:42.626241
+" 6,264","Bagdogra to Srinagar , 26 May",15:35,08:10,1 stop via New Delhi,Spicejet,2021-05-16 21:22:36.306075
+" 6,264","Bagdogra to Srinagar , 26 May",12:05,08:10,1 stop via New Delhi,Spicejet,2021-05-16 21:22:36.306075
+" 7,185","Bagdogra to Ranchi , 26 May",14:10,19:40,1 stop via New Delhi,Vistara,2021-05-16 21:23:03.092308
+" 11,012","Varanasi to New Delhi , 26 May",16:10,21:55,1 stop via Mumbai,Vistara,2021-05-16 21:37:07.147099
+" 11,012","Varanasi to New Delhi , 26 May",16:10,12:40,1 stop via Mumbai,Vistara,2021-05-16 21:37:07.147099
+" 5,583","Varanasi to New Delhi , 26 May",18:40,21:00,Non stop,Spicejet,2021-05-16 21:37:07.147099
+" 5,637","Varanasi to Mumbai , 26 May",16:10,18:20,Non stop,Vistara,2021-05-16 21:37:32.565254
+" 5,894","Varanasi to Mumbai , 26 May",18:40,09:35,1 stop via New Delhi,Spicejet,2021-05-16 21:37:32.565254
+" 5,894","Varanasi to Mumbai , 26 May",14:15,06:35,1 stop via Ahmedabad,Spicejet,2021-05-16 21:37:32.565254
+" 6,213","Varanasi to Mumbai , 26 May",08:30,10:40,Non stop,Spicejet,2021-05-16 21:37:32.565254
+" 6,213","Varanasi to Mumbai , 26 May",17:40,19:50,Non stop,Spicejet,2021-05-16 21:37:32.565254
+" 7,154","Varanasi to Bengaluru , 26 May",17:40,23:30,1 stop via Mumbai,Spicejet,2021-05-16 21:37:59.225690
+" 7,154","Varanasi to Bengaluru , 26 May",18:40,08:50,1 stop via New Delhi,Spicejet,2021-05-16 21:37:59.225690
+" 7,154","Varanasi to Bengaluru , 26 May",08:30,23:30,1 stop via Mumbai,Spicejet,2021-05-16 21:37:59.225690
+" 7,335","Varanasi to Chennai , 26 May",18:40,09:10,1 stop via New Delhi,Spicejet,2021-05-16 21:38:50.261452
+" 13,236","Varanasi to Kolkata , 26 May",16:10,08:20,"2 stop via Mumbai,New Delhi",Vistara,2021-05-16 21:39:17.612950
+" 6,518","Varanasi to Kochi , 26 May",17:40,20:05,1 stop via Mumbai,Spicejet,2021-05-16 21:39:56.780289
+" 6,570","Varanasi to Goa , 26 May",08:30,17:05,1 stop via Mumbai,Spicejet,2021-05-16 21:40:46.108541
+" 6,570","Varanasi to Goa , 26 May",18:40,09:25,1 stop via New Delhi,Spicejet,2021-05-16 21:40:46.108541
+" 6,570","Varanasi to Goa , 26 May",17:40,13:00,1 stop via Mumbai,Spicejet,2021-05-16 21:40:46.108541
+" 6,570","Varanasi to Goa , 26 May",18:40,14:25,1 stop via New Delhi,Spicejet,2021-05-16 21:40:46.108541
+" 6,570","Varanasi to Goa , 26 May",17:40,17:05,1 stop via Mumbai,Spicejet,2021-05-16 21:40:46.108541
+" 6,570","Varanasi to Goa , 26 May",14:15,17:30,1 stop via Ahmedabad,Spicejet,2021-05-16 21:40:46.108541
+" 13,236","Varanasi to Bhubaneswar , 26 May",16:10,09:05,"2 stop via Mumbai,New Delhi",Vistara,2021-05-16 21:46:07.945471
+" 6,670","Varanasi to Srinagar , 26 May",18:40,08:10,1 stop via New Delhi,Spicejet,2021-05-16 21:48:59.383573
+" 6,281","Varanasi to Amritsar , 26 May",18:40,20:50,1 stop via New Delhi,Spicejet,2021-05-16 21:50:16.539198
+" 5,910","Srinagar to New Delhi , 26 May",15:20,16:55,Non stop,Vistara,2021-05-16 22:20:02.592955
+" 4,946","Srinagar to New Delhi , 26 May",08:30,13:45,1 stop via Jammu,Spicejet,2021-05-16 22:20:02.592955
+" 4,946","Srinagar to New Delhi , 26 May",13:15,13:45,1 stop via Jammu,Spicejet,2021-05-16 22:20:02.592955
+" 5,176","Srinagar to New Delhi , 26 May",16:05,17:35,Non stop,Spicejet,2021-05-16 22:20:02.592955
+" 5,176","Srinagar to New Delhi , 26 May",16:45,18:20,Non stop,Spicejet,2021-05-16 22:20:02.592955
+" 5,176","Srinagar to New Delhi , 26 May",08:50,10:30,Non stop,Spicejet,2021-05-16 22:20:02.592955
+" 5,176","Srinagar to New Delhi , 26 May",12:35,14:15,Non stop,Spicejet,2021-05-16 22:20:02.592955
+" 5,176","Srinagar to New Delhi , 26 May",10:40,13:45,1 stop via Jammu,Spicejet,2021-05-16 22:20:02.592955
+" 7,919","Srinagar to Mumbai , 26 May",15:20,15:00,1 stop via New Delhi,Vistara,2021-05-16 22:20:08.266290
+" 7,165","Srinagar to Mumbai , 26 May",11:35,14:55,Non stop,Spicejet,2021-05-16 22:20:08.266290
+" 7,166","Srinagar to Mumbai , 26 May",16:05,21:05,1 stop via New Delhi,Spicejet,2021-05-16 22:20:08.266290
+" 7,166","Srinagar to Mumbai , 26 May",16:45,22:05,1 stop via New Delhi,Spicejet,2021-05-16 22:20:08.266290
+" 7,985","Srinagar to Bengaluru , 26 May",16:45,22:55,1 stop via New Delhi,Spicejet,2021-05-16 22:20:28.054902
+" 7,985","Srinagar to Bengaluru , 26 May",16:05,22:55,1 stop via New Delhi,Spicejet,2021-05-16 22:20:28.054902
+" 7,164","Srinagar to Hyderabad , 26 May",16:45,22:30,1 stop via New Delhi,Spicejet,2021-05-16 22:20:53.530015
+" 7,164","Srinagar to Hyderabad , 26 May",16:05,22:30,1 stop via New Delhi,Spicejet,2021-05-16 22:20:53.530015
+" 7,164","Srinagar to Hyderabad , 26 May",12:35,22:30,1 stop via New Delhi,Spicejet,2021-05-16 22:20:53.530015
+" 5,844","Srinagar to Chennai , 26 May",16:05,21:35,1 stop via New Delhi,Spicejet,2021-05-16 22:21:16.123598
+" 5,844","Srinagar to Chennai , 26 May",12:35,21:35,1 stop via New Delhi,Spicejet,2021-05-16 22:21:16.123598
+" 5,844","Srinagar to Chennai , 26 May",11:35,21:45,1 stop via Mumbai,Spicejet,2021-05-16 22:21:16.123598
+" 5,844","Srinagar to Chennai , 26 May",08:50,21:35,1 stop via New Delhi,Spicejet,2021-05-16 22:21:16.123598
+" 5,844","Srinagar to Chennai , 26 May",16:45,09:10,1 stop via New Delhi,Spicejet,2021-05-16 22:21:16.123598
+" 7,919","Srinagar to Kolkata , 26 May",15:20,08:20,1 stop via New Delhi,Vistara,2021-05-16 22:21:48.164178
+" 7,165","Srinagar to Kolkata , 26 May",12:35,20:30,1 stop via New Delhi,Spicejet,2021-05-16 22:21:48.164178
+" 7,220","Srinagar to Kolkata , 26 May",16:05,20:30,1 stop via New Delhi,Spicejet,2021-05-16 22:21:48.164178
+" 7,917","Srinagar to Goa , 26 May",08:50,14:25,1 stop via New Delhi,Spicejet,2021-05-16 22:22:33.447417
+" 7,917","Srinagar to Goa , 26 May",16:45,09:25,1 stop via New Delhi,Spicejet,2021-05-16 22:22:33.447417
+" 7,917","Srinagar to Goa , 26 May",16:05,09:25,1 stop via New Delhi,Spicejet,2021-05-16 22:22:33.447417
+" 7,917","Srinagar to Goa , 26 May",12:35,09:25,1 stop via New Delhi,Spicejet,2021-05-16 22:22:33.447417
+" 7,917","Srinagar to Goa , 26 May",11:35,13:00,1 stop via Mumbai,Spicejet,2021-05-16 22:22:33.447417
+" 7,166","Srinagar to Pune , 26 May",12:35,18:55,1 stop via New Delhi,Spicejet,2021-05-16 22:22:56.266724
+" 7,166","Srinagar to Pune , 26 May",08:50,18:55,1 stop via New Delhi,Spicejet,2021-05-16 22:22:56.266724
+" 6,392","Srinagar to Guwahati , 26 May",12:35,20:30,1 stop via New Delhi,Spicejet,2021-05-16 22:23:18.891163
+" 6,392","Srinagar to Guwahati , 26 May",08:50,20:30,1 stop via New Delhi,Spicejet,2021-05-16 22:23:18.891163
+" 6,757","Srinagar to Patna , 26 May",16:05,20:50,1 stop via New Delhi,Spicejet,2021-05-16 22:24:26.310116
+" 6,757","Srinagar to Patna , 26 May",08:50,16:55,1 stop via New Delhi,Spicejet,2021-05-16 22:24:26.310116
+" 5,667","Srinagar to Bagdogra , 26 May",08:50,15:00,1 stop via New Delhi,Spicejet,2021-05-16 22:25:56.554781
+" 5,667","Srinagar to Bagdogra , 26 May",16:45,11:35,1 stop via New Delhi,Spicejet,2021-05-16 22:25:56.554781
+" 5,667","Srinagar to Bagdogra , 26 May",16:05,11:35,1 stop via New Delhi,Spicejet,2021-05-16 22:25:56.554781
+" 5,667","Srinagar to Bagdogra , 26 May",12:35,11:35,1 stop via New Delhi,Spicejet,2021-05-16 22:25:56.554781
+" 7,918","Srinagar to Ranchi , 26 May",15:20,19:40,1 stop via New Delhi,Vistara,2021-05-16 22:28:48.780048
+" 5,188","Srinagar to Ranchi , 26 May",12:35,18:45,1 stop via New Delhi,Spicejet,2021-05-16 22:28:48.780048
+" 5,188","Srinagar to Ranchi , 26 May",08:50,18:45,1 stop via New Delhi,Spicejet,2021-05-16 22:28:48.780048
+" 5,313","Ranchi to New Delhi , 26 May",20:15,22:15,Non stop,Vistara,2021-05-16 22:42:00.894227
+" 5,586","Ranchi to New Delhi , 26 May",19:25,21:15,Non stop,Spicejet,2021-05-16 22:42:00.894227
+" 6,919","Ranchi to Bengaluru , 26 May",19:25,08:50,1 stop via New Delhi,Spicejet,2021-05-16 22:42:47.009244
+" 7,984","Ranchi to Kolkata , 26 May",20:15,08:20,1 stop via New Delhi,Vistara,2021-05-16 22:43:55.476397
+" 7,710","Ranchi to Guwahati , 26 May",19:25,12:45,1 stop via New Delhi,Spicejet,2021-05-16 22:45:20.046599
+" 7,984","Ranchi to Bhubaneswar , 26 May",20:15,09:05,1 stop via New Delhi,Vistara,2021-05-16 22:47:28.929666
+" 7,185","Ranchi to Bagdogra , 26 May",20:15,09:45,1 stop via New Delhi,Vistara,2021-05-16 22:48:15.002758
+" 6,848","Ranchi to Srinagar , 26 May",19:25,08:10,1 stop via New Delhi,Spicejet,2021-05-16 22:50:00.877212
+" 7,038","Ranchi to Amritsar , 26 May",20:15,09:20,1 stop via New Delhi,Vistara,2021-05-16 22:50:39.133851
+" 8,095","Ranchi to Amritsar , 26 May",19:25,20:50,1 stop via New Delhi,Spicejet,2021-05-16 22:50:39.133851
+" 9,324","Mangalore to Patna , 26 May",18:40,16:40,1 stop via Bengaluru,Spicejet,2021-05-16 23:05:50.482607
+" 9,233","Mangalore to Bagdogra , 26 May",18:40,08:50,1 stop via Bengaluru,Spicejet,2021-05-16 23:07:03.775932
+" 9,338","Port Blair to New Delhi , 26 May",08:45,23:30,1 stop via Kolkata,Spicejet,2021-05-16 23:12:01.750455
+" 9,338","Port Blair to New Delhi , 26 May",09:50,00:50,1 stop via Chennai,Spicejet,2021-05-16 23:12:01.750455
+" 9,338","Port Blair to New Delhi , 26 May",08:45,08:45,1 stop via Kolkata,Spicejet,2021-05-16 23:12:01.750455
+" 9,338","Port Blair to New Delhi , 26 May",09:50,09:50,1 stop via Chennai,Spicejet,2021-05-16 23:12:01.750455
+" 9,338","Port Blair to Mumbai , 26 May",08:45,22:15,1 stop via Kolkata,Spicejet,2021-05-16 23:12:24.039566
+" 9,338","Port Blair to Mumbai , 26 May",09:50,23:50,1 stop via Chennai,Spicejet,2021-05-16 23:12:24.039566
+" 9,338","Port Blair to Mumbai , 26 May",09:50,08:20,1 stop via Chennai,Spicejet,2021-05-16 23:12:24.039566
+" 11,092","Port Blair to Bengaluru , 26 May",09:50,09:05,1 stop via Chennai,Spicejet,2021-05-16 23:12:46.568158
+" 5,588","Port Blair to Chennai , 26 May",09:50,12:05,Non stop,Spicejet,2021-05-16 23:13:31.512427
+" 5,588","Port Blair to Kolkata , 26 May",08:45,11:10,Non stop,Spicejet,2021-05-16 23:13:54.058297
+" 10,058","Port Blair to Goa , 26 May",09:50,14:50,1 stop via Chennai,Spicejet,2021-05-16 23:14:36.030570
+" 10,058","Port Blair to Goa , 26 May",08:45,11:35,1 stop via Kolkata,Spicejet,2021-05-16 23:14:36.030570

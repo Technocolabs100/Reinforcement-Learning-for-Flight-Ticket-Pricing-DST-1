@@ -1,0 +1,53 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 23,188","Visakhapatnam to New Delhi , 30 May",17:55,20:25,Non stop,Air India,2021-05-10 10:46:42.329968
+" 41,030","Visakhapatnam to New Delhi , 30 May",14:15,20:30,1 stop via Mumbai,Air India,2021-05-10 10:46:42.329968
+" 41,030","Visakhapatnam to New Delhi , 30 May",14:15,21:15,1 stop via Mumbai,Air India,2021-05-10 10:46:42.329968
+" 23,188","Visakhapatnam to Mumbai , 30 May",14:15,16:25,Non stop,Air India,2021-05-10 10:47:02.071716
+" 41,030","Visakhapatnam to Mumbai , 30 May",17:55,09:05,1 stop via New Delhi,Air India,2021-05-10 10:47:02.071716
+" 41,030","Visakhapatnam to Mumbai , 30 May",17:55,10:10,1 stop via New Delhi,Air India,2021-05-10 10:47:02.071716
+" 54,504","Visakhapatnam to Mumbai , 30 May",17:55,23:30,"2 stop via New Delhi,Hyderabad",Air India,2021-05-10 10:47:02.071716
+" 56,889","Visakhapatnam to Mumbai , 30 May",17:55,17:05,"2 stop via New Delhi,Chennai",Air India,2021-05-10 10:47:02.071716
+" 63,945","Visakhapatnam to Mumbai , 30 May",17:55,13:25,"2 stop via New Delhi,Lucknow",Air India,2021-05-10 10:47:02.071716
+" 41,624","Visakhapatnam to Bengaluru , 30 May",17:55,08:55,1 stop via New Delhi,Air India,2021-05-10 10:47:06.116163
+" 60,854","Visakhapatnam to Bengaluru , 30 May",17:55,16:45,"3 stop via New Delhi,Surat,Kolkata",Air India,2021-05-10 10:47:06.116163
+" 60,854","Visakhapatnam to Bengaluru , 30 May",17:55,16:45,"2 stop via New Delhi,Kolkata",Air India,2021-05-10 10:47:06.116163
+" 38,118","Visakhapatnam to Hyderabad , 30 May",14:15,20:45,1 stop via Mumbai,Air India,2021-05-10 10:47:29.086518
+" 39,574","Visakhapatnam to Hyderabad , 30 May",17:55,10:30,1 stop via New Delhi,Air India,2021-05-10 10:47:29.086518
+" 57,416","Visakhapatnam to Hyderabad , 30 May",14:15,10:30,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:47:29.086518
+" 57,416","Visakhapatnam to Hyderabad , 30 May",14:15,10:30,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:47:29.086518
+" 60,854","Visakhapatnam to Hyderabad , 30 May",17:55,21:15,"3 stop via New Delhi,Surat,Kolkata",Air India,2021-05-10 10:47:29.086518
+" 60,854","Visakhapatnam to Hyderabad , 30 May",17:55,21:15,"2 stop via New Delhi,Kolkata",Air India,2021-05-10 10:47:29.086518
+" 41,814","Visakhapatnam to Chennai , 30 May",17:55,08:55,1 stop via New Delhi,Air India,2021-05-10 10:47:51.764541
+" 56,564","Visakhapatnam to Chennai , 30 May",17:55,22:35,"2 stop via New Delhi,Hyderabad",Air India,2021-05-10 10:47:51.764541
+" 60,854","Visakhapatnam to Chennai , 30 May",17:55,17:05,"2 stop via New Delhi,Kolkata",Air India,2021-05-10 10:47:51.764541
+" 60,854","Visakhapatnam to Chennai , 30 May",17:55,17:05,"3 stop via New Delhi,Surat,Kolkata",Air India,2021-05-10 10:47:51.764541
+" 38,264","Visakhapatnam to Kolkata , 30 May",17:55,09:00,1 stop via New Delhi,Air India,2021-05-10 10:48:14.580021
+" 38,264","Visakhapatnam to Kolkata , 30 May",17:55,11:05,"2 stop via New Delhi,Surat",Air India,2021-05-10 10:48:14.580021
+" 56,105","Visakhapatnam to Kolkata , 30 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:48:14.580021
+" 56,105","Visakhapatnam to Kolkata , 30 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:48:14.580021
+" 56,105","Visakhapatnam to Kolkata , 30 May",14:15,11:05,"3 stop via Mumbai,New Delhi,Surat",Air India,2021-05-10 10:48:14.580021
+" 64,214","Visakhapatnam to Kolkata , 30 May",17:55,13:30,"2 stop via New Delhi,Bengaluru",Air India,2021-05-10 10:48:14.580021
+" 45,779","Visakhapatnam to Kochi , 30 May",14:15,19:15,1 stop via Mumbai,Air India,2021-05-10 10:48:37.400937
+" 63,620","Visakhapatnam to Kochi , 30 May",17:55,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 10:48:37.400937
+" 63,620","Visakhapatnam to Kochi , 30 May",17:55,19:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 10:48:37.400937
+" 39,910","Visakhapatnam to Pune , 30 May",17:55,08:40,1 stop via New Delhi,Air India,2021-05-10 10:49:22.644761
+" 57,752","Visakhapatnam to Pune , 30 May",14:15,08:40,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:49:22.644761
+" 57,752","Visakhapatnam to Pune , 30 May",14:15,08:40,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:49:22.644761
+" 52,328","Visakhapatnam to Guwahati , 30 May",17:55,11:05,"2 stop via New Delhi,Kolkata",Air India,2021-05-10 10:49:45.385355
+" 34,635","Visakhapatnam to Lucknow , 30 May",17:55,08:15,1 stop via New Delhi,Air India,2021-05-10 10:50:08.096920
+" 52,476","Visakhapatnam to Lucknow , 30 May",14:15,08:15,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:50:08.096920
+" 52,476","Visakhapatnam to Lucknow , 30 May",14:15,08:15,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:50:08.096920
+" 61,380","Visakhapatnam to Jaipur , 30 May",17:55,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 10:50:24.922069
+" 61,380","Visakhapatnam to Jaipur , 30 May",17:55,13:15,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 10:50:24.922069
+" 70,934","Visakhapatnam to Patna , 30 May",17:55,21:20,"2 stop via New Delhi,Bengaluru",Air India,2021-05-10 10:50:47.646417
+" 58,614","Visakhapatnam to Bhubaneswar , 30 May",17:55,17:40,"3 stop via New Delhi,Kolkata,Surat",Air India,2021-05-10 10:51:29.695450
+" 64,214","Visakhapatnam to Bhubaneswar , 30 May",17:55,14:00,"2 stop via New Delhi,Bengaluru",Air India,2021-05-10 10:51:29.695450
+" 66,277","Visakhapatnam to Bhubaneswar , 30 May",17:55,17:40,"2 stop via New Delhi,Surat",Air India,2021-05-10 10:51:29.695450
+" 43,539","Visakhapatnam to Nagpur , 30 May",14:15,20:35,1 stop via Mumbai,Air India,2021-05-10 10:52:37.877422
+" 55,444","Visakhapatnam to Coimbatore , 30 May",17:55,14:25,"2 stop via New Delhi,Chennai",Air India,2021-05-10 10:53:42.499282
+" 61,380","Visakhapatnam to Coimbatore , 30 May",17:55,13:30,"3 stop via New Delhi,Mumbai,Mangalore",Air India,2021-05-10 10:53:42.499282
+" 61,896","Visakhapatnam to Raipur , 30 May",17:55,11:50,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 10:55:51.008862
+" 61,380","Visakhapatnam to Mangalore , 30 May",17:55,12:00,"2 stop via New Delhi,Mumbai",Air India,2021-05-10 10:56:10.489377
+" 64,740","Visakhapatnam to Port Blair , 30 May",17:55,09:00,1 stop via New Delhi,Air India,2021-05-10 10:56:33.507217
+" 82,582","Visakhapatnam to Port Blair , 30 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:56:33.507217
+" 82,582","Visakhapatnam to Port Blair , 30 May",14:15,09:00,"2 stop via Mumbai,New Delhi",Air India,2021-05-10 10:56:33.507217

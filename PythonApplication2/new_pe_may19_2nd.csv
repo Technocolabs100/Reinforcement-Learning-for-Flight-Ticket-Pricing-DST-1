@@ -1,0 +1,20 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 6,264","Bagdogra to Srinagar , 19 May",15:35,08:10,1 stop via New Delhi,Spicejet,2021-05-14 08:45:47.433811
+" 6,264","Bagdogra to Srinagar , 19 May",12:05,08:10,1 stop via New Delhi,Spicejet,2021-05-14 08:45:47.433811
+" 7,185","Bagdogra to Ranchi , 19 May",14:10,19:40,1 stop via New Delhi,Vistara,2021-05-14 08:46:10.183262
+" 8,132","Bagdogra to Amritsar , 19 May",12:05,18:45,1 stop via New Delhi,Spicejet,2021-05-14 08:46:15.493373
+" 9,345","Bagdogra to Mangalore , 19 May",09:20,18:10,1 stop via Bengaluru,Spicejet,2021-05-14 08:47:22.699229
+" 9,345","Bagdogra to Mangalore , 19 May",09:20,08:05,1 stop via Bengaluru,Spicejet,2021-05-14 08:47:22.699229
+" 6,670","Varanasi to Srinagar , 19 May",18:40,08:10,1 stop via New Delhi,Spicejet,2021-05-14 08:52:17.675833
+" 7,918","Srinagar to Ranchi , 19 May",15:20,19:40,1 stop via New Delhi,Vistara,2021-05-14 09:04:11.769424
+" 5,188","Srinagar to Ranchi , 19 May",12:35,18:45,1 stop via New Delhi,Spicejet,2021-05-14 09:04:11.769424
+" 5,188","Srinagar to Ranchi , 19 May",08:50,18:45,1 stop via New Delhi,Spicejet,2021-05-14 09:04:11.769424
+" 6,815","Visakhapatnam to Mangalore , 19 May",08:55,20:15,1 stop via Hyderabad,Spicejet,2021-05-14 09:08:49.877510
+" 6,848","Ranchi to Srinagar , 19 May",19:25,08:10,1 stop via New Delhi,Spicejet,2021-05-14 09:10:30.609742
+" 7,038","Ranchi to Amritsar , 19 May",20:15,09:20,1 stop via New Delhi,Vistara,2021-05-14 09:10:53.253121
+" 8,095","Ranchi to Amritsar , 19 May",19:25,18:45,1 stop via New Delhi,Spicejet,2021-05-14 09:10:53.253121
+" 7,480","Amritsar to Ranchi , 19 May",15:25,19:40,1 stop via New Delhi,Vistara,2021-05-14 09:12:55.660315
+" 6,808","Amritsar to Ranchi , 19 May",19:10,18:45,1 stop via New Delhi,Spicejet,2021-05-14 09:12:55.660315
+" 8,062","Raipur to Ranchi , 19 May",08:55,19:40,1 stop via New Delhi,Vistara,2021-05-14 09:21:37.493906
+" 7,116","Raipur to Amritsar , 19 May",08:55,14:50,1 stop via New Delhi,Vistara,2021-05-14 09:22:00.612133
+" 6,572","Raipur to Chandigarh , 19 May",08:55,14:45,1 stop via New Delhi,Vistara,2021-05-14 09:22:25.183522

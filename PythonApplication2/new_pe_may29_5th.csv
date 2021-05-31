@@ -1,0 +1,41 @@
+Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+" 3,457","Chandigarh to New Delhi , 29 May",15:25,16:30,Non stop,Vistara,2021-05-18 00:04:00.290993
+" 11,320","Chandigarh to New Delhi , 29 May",12:55,21:55,1 stop via Mumbai,Vistara,2021-05-18 00:04:00.290993
+" 11,320","Chandigarh to New Delhi , 29 May",12:55,12:40,1 stop via Mumbai,Vistara,2021-05-18 00:04:00.290993
+" 5,945","Chandigarh to Mumbai , 29 May",12:55,15:25,Non stop,Vistara,2021-05-18 00:04:42.742871
+" 13,544","Chandigarh to Kolkata , 29 May",12:55,08:20,"2 stop via Mumbai,New Delhi",Vistara,2021-05-18 00:06:11.095568
+" 7,563","Chandigarh to Goa , 29 May",15:25,13:50,1 stop via New Delhi,Vistara,2021-05-18 00:06:59.034162
+" 6,654","Chandigarh to Pune , 29 May",15:25,12:35,1 stop via New Delhi,Vistara,2021-05-18 00:07:44.345077
+" 6,793","Chandigarh to Guwahati , 29 May",15:25,12:05,1 stop via New Delhi,Vistara,2021-05-18 00:08:28.678370
+" 6,288","Chandigarh to Patna , 29 May",15:25,19:55,1 stop via New Delhi,Vistara,2021-05-18 00:09:52.677472
+" 6,654","Chandigarh to Bhubaneswar , 29 May",15:25,09:05,1 stop via New Delhi,Vistara,2021-05-18 00:11:00.503697
+" 12,217","Chandigarh to Bagdogra , 29 May",12:55,09:45,"2 stop via Mumbai,New Delhi",Vistara,2021-05-18 00:12:08.082181
+" 13,180","Chandigarh to Indore , 29 May",12:55,09:45,"2 stop via Mumbai,New Delhi",Vistara,2021-05-18 00:13:15.766918
+" 5,083","Raipur to New Delhi , 29 May",08:55,10:50,Non stop,Vistara,2021-05-18 00:16:19.986729
+" 8,064","Raipur to Mumbai , 29 May",08:55,15:00,1 stop via New Delhi,Vistara,2021-05-18 00:16:27.114666
+" 8,064","Raipur to Mumbai , 29 May",08:55,17:40,1 stop via New Delhi,Vistara,2021-05-18 00:16:27.114666
+" 8,973","Raipur to Bengaluru , 29 May",08:55,17:05,1 stop via New Delhi,Vistara,2021-05-18 00:16:42.983791
+" 8,062","Raipur to Hyderabad , 29 May",08:55,17:00,1 stop via New Delhi,Vistara,2021-05-18 00:16:49.641986
+" 9,737","Raipur to Kochi , 29 May",08:55,18:50,1 stop via New Delhi,Vistara,2021-05-18 00:17:47.567958
+" 7,116","Raipur to Lucknow , 29 May",08:55,14:50,1 stop via New Delhi,Vistara,2021-05-18 00:18:42.019106
+" 7,698","Raipur to Patna , 29 May",08:55,19:55,1 stop via New Delhi,Vistara,2021-05-18 00:19:06.203240
+" 7,698","Raipur to Varanasi , 29 May",08:55,14:45,1 stop via New Delhi,Vistara,2021-05-18 00:20:20.441569
+" 7,116","Raipur to Amritsar , 29 May",08:55,14:50,1 stop via New Delhi,Vistara,2021-05-18 00:21:44.522181
+" 6,572","Raipur to Chandigarh , 29 May",08:55,14:45,1 stop via New Delhi,Vistara,2021-05-18 00:21:55.384209
+" 5,615","Mangalore to New Delhi , 29 May",18:40,08:40,1 stop via Bengaluru,Spicejet,2021-05-18 00:23:14.568587
+" 4,091","Mangalore to Bengaluru , 29 May",18:40,19:55,Non stop,Spicejet,2021-05-18 00:23:31.481065
+" 7,692","Mangalore to Kolkata , 29 May",18:40,08:00,1 stop via Bengaluru,Spicejet,2021-05-18 00:24:11.611206
+" 7,692","Mangalore to Kolkata , 29 May",18:40,20:40,1 stop via Bengaluru,Spicejet,2021-05-18 00:24:11.611206
+" 7,188","Mangalore to Patna , 29 May",18:40,16:40,1 stop via Bengaluru,Spicejet,2021-05-18 00:26:09.097002
+" 9,233","Mangalore to Bagdogra , 29 May",18:40,08:50,1 stop via Bengaluru,Spicejet,2021-05-18 00:27:13.782309
+" 9,338","Port Blair to New Delhi , 29 May",08:45,23:30,1 stop via Kolkata,Spicejet,2021-05-18 00:29:49.801910
+" 9,338","Port Blair to New Delhi , 29 May",09:50,00:50,1 stop via Chennai,Spicejet,2021-05-18 00:29:49.801910
+" 9,338","Port Blair to New Delhi , 29 May",08:45,08:45,1 stop via Kolkata,Spicejet,2021-05-18 00:29:49.801910
+" 9,338","Port Blair to New Delhi , 29 May",09:50,09:50,1 stop via Chennai,Spicejet,2021-05-18 00:29:49.801910
+" 9,338","Port Blair to Mumbai , 29 May",09:50,23:50,1 stop via Chennai,Spicejet,2021-05-18 00:30:12.240094
+" 9,338","Port Blair to Mumbai , 29 May",09:50,08:20,1 stop via Chennai,Spicejet,2021-05-18 00:30:12.240094
+" 11,092","Port Blair to Bengaluru , 29 May",09:50,09:05,1 stop via Chennai,Spicejet,2021-05-18 00:30:32.209636
+" 5,588","Port Blair to Chennai , 29 May",09:50,12:05,Non stop,Spicejet,2021-05-18 00:30:45.958527
+" 5,588","Port Blair to Kolkata , 29 May",08:45,11:10,Non stop,Spicejet,2021-05-18 00:30:57.755860
+" 10,058","Port Blair to Goa , 29 May",09:50,14:50,1 stop via Chennai,Spicejet,2021-05-18 00:31:34.030375
+" 7,773","Port Blair to Pune , 29 May",09:50,12:20,1 stop via Chennai,Spicejet,2021-05-18 00:31:55.144498

@@ -1,0 +1,263 @@
+,Price,Cities,departure_time,arrival_time,layeover,Airline,Scraping_Time
+0," 6,629","Port Blair to New Delhi , 28 May",08:55,13:50,1 stop via Kolkata,IndiGo,2021-05-10 14:03:18.085076
+1," 6,629","Port Blair to New Delhi , 28 May",10:30,16:40,1 stop via Kolkata,Go Air,2021-05-10 14:03:18.085076
+2," 6,631","Port Blair to New Delhi , 28 May",08:40,23:30,1 stop via Kolkata,Spicejet,2021-05-10 14:03:18.085076
+3," 6,631","Port Blair to New Delhi , 28 May",08:40,08:45,1 stop via Kolkata,Spicejet,2021-05-10 14:03:18.085076
+4," 6,682","Port Blair to New Delhi , 28 May",07:30,15:40,1 stop via Chennai,IndiGo,2021-05-10 14:03:18.085076
+5," 6,682","Port Blair to New Delhi , 28 May",08:55,19:10,1 stop via Kolkata,IndiGo,2021-05-10 14:03:18.085076
+6," 6,682","Port Blair to New Delhi , 28 May",08:55,20:15,1 stop via Kolkata,IndiGo,2021-05-10 14:03:18.085076
+7," 8,364","Port Blair to New Delhi , 28 May",09:45,14:45,1 stop via Visakhapatnam,Air India,2021-05-10 14:03:18.085076
+8," 14,769","Port Blair to New Delhi , 28 May",09:45,20:30,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-10 14:03:18.085076
+9," 14,769","Port Blair to New Delhi , 28 May",09:45,21:15,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-10 14:03:18.085076
+10," 7,177","Port Blair to Mumbai , 28 May",10:50,15:35,1 stop via Chennai,Go Air,2021-05-10 14:03:45.011875
+11," 7,178","Port Blair to Mumbai , 28 May",08:55,17:50,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:03:45.011875
+12," 7,178","Port Blair to Mumbai , 28 May",08:55,18:35,1 stop via Kolkata,IndiGo,2021-05-10 14:03:45.011875
+13," 7,178","Port Blair to Mumbai , 28 May",08:55,23:00,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:03:45.011875
+14," 7,179","Port Blair to Mumbai , 28 May",08:40,22:15,1 stop via Kolkata,Spicejet,2021-05-10 14:03:45.011875
+15," 7,179","Port Blair to Mumbai , 28 May",08:40,12:00,1 stop via Kolkata,Spicejet,2021-05-10 14:03:45.011875
+16," 8,131","Port Blair to Mumbai , 28 May",07:30,17:40,1 stop via Chennai,IndiGo,2021-05-10 14:03:45.011875
+17," 9,330","Port Blair to Mumbai , 28 May",09:45,21:15,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:03:45.011875
+18," 9,330","Port Blair to Mumbai , 28 May",09:45,21:35,"3 stop via Visakhapatnam,New Delhi,Aurangabad",Air India,2021-05-10 14:03:45.011875
+19," 9,330","Port Blair to Mumbai , 28 May",09:45,22:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:03:45.011875
+20," 10,144","Port Blair to Mumbai , 28 May",10:30,22:30,1 stop via Kolkata,Go Air,2021-05-10 14:03:45.011875
+21," 10,464","Port Blair to Mumbai , 28 May",09:45,16:25,1 stop via Visakhapatnam,Air India,2021-05-10 14:03:45.011875
+22," 5,948","Port Blair to Bengaluru , 28 May",08:55,16:55,1 stop via Kolkata,IndiGo,2021-05-10 14:04:08.574513
+23," 5,948","Port Blair to Bengaluru , 28 May",07:30,17:45,1 stop via Chennai,IndiGo,2021-05-10 14:04:08.574513
+24," 5,948","Port Blair to Bengaluru , 28 May",08:55,20:20,1 stop via Kolkata,IndiGo,2021-05-10 14:04:08.574513
+25," 5,948","Port Blair to Bengaluru , 28 May",08:55,21:05,1 stop via Kolkata,IndiGo,2021-05-10 14:04:08.574513
+26," 7,420","Port Blair to Bengaluru , 28 May",10:50,17:45,1 stop via Chennai,"Go Air, IndiGo",2021-05-10 14:04:08.574513
+27," 7,420","Port Blair to Bengaluru , 28 May",10:50,18:55,1 stop via Chennai,"Go Air, IndiGo",2021-05-10 14:04:08.574513
+28," 13,005","Port Blair to Bengaluru , 28 May",09:45,07:55,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:04:08.574513
+29," 13,005","Port Blair to Bengaluru , 28 May",09:45,07:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:04:08.574513
+30," 13,005","Port Blair to Bengaluru , 28 May",09:45,07:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:04:08.574513
+31," 13,005","Port Blair to Bengaluru , 28 May",09:45,11:10,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:04:08.574513
+32," 13,005","Port Blair to Bengaluru , 28 May",09:45,11:10,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:04:08.574513
+33," 13,929","Port Blair to Bengaluru , 28 May",09:45,23:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:04:08.574513
+34," 16,136","Port Blair to Bengaluru , 28 May",10:50,23:55,"2 stop via Chennai,New Delhi","Go Air, Air India",2021-05-10 14:04:08.574513
+35," 7,575","Port Blair to Hyderabad , 28 May",07:30,12:15,1 stop via Chennai,IndiGo,2021-05-10 14:04:53.795779
+36," 7,575","Port Blair to Hyderabad , 28 May",07:30,17:15,1 stop via Chennai,IndiGo,2021-05-10 14:04:53.795779
+37," 7,682","Port Blair to Hyderabad , 28 May",08:55,18:35,1 stop via Kolkata,IndiGo,2021-05-10 14:04:53.795779
+38," 7,682","Port Blair to Hyderabad , 28 May",08:55,19:25,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:04:53.795779
+39," 7,682","Port Blair to Hyderabad , 28 May",08:55,21:25,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:04:53.795779
+40," 13,509","Port Blair to Hyderabad , 28 May",09:45,20:45,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-10 14:04:53.795779
+41," 4,688","Port Blair to Chennai , 28 May",10:50,12:50,Non stop,Go Air,2021-05-10 14:05:16.602084
+42," 4,688","Port Blair to Chennai , 28 May",08:55,15:10,1 stop via Kolkata,IndiGo,2021-05-10 14:05:16.602084
+43," 4,688","Port Blair to Chennai , 28 May",08:55,18:45,1 stop via Kolkata,IndiGo,2021-05-10 14:05:16.602084
+44," 4,689","Port Blair to Chennai , 28 May",07:30,09:55,Non stop,IndiGo,2021-05-10 14:05:16.602084
+45," 13,635","Port Blair to Chennai , 28 May",09:45,10:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:05:16.602084
+46," 13,635","Port Blair to Chennai , 28 May",09:45,10:55,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:05:16.602084
+47," 13,635","Port Blair to Chennai , 28 May",09:45,10:55,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:05:16.602084
+48," 13,929","Port Blair to Chennai , 28 May",09:45,23:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:05:16.602084
+49," 4,688","Port Blair to Kolkata , 28 May",10:30,12:35,Non stop,Go Air,2021-05-10 14:05:39.380069
+50," 4,688","Port Blair to Kolkata , 28 May",07:30,17:15,1 stop via Chennai,IndiGo,2021-05-10 14:05:39.380069
+51," 4,689","Port Blair to Kolkata , 28 May",08:55,10:50,Non stop,IndiGo,2021-05-10 14:05:39.380069
+52," 4,689","Port Blair to Kolkata , 28 May",08:40,11:10,Non stop,Spicejet,2021-05-10 14:05:39.380069
+53," 12,669","Port Blair to Kolkata , 28 May",09:45,19:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:05:39.380069
+54," 12,669","Port Blair to Kolkata , 28 May",09:45,22:20,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:05:39.380069
+55," 17,604","Port Blair to Kolkata , 28 May",09:45,08:20,"3 stop via Visakhapatnam,New Delhi,Bengaluru",Air India,2021-05-10 14:05:39.380069
+56," 8,312","Port Blair to Kochi , 28 May",08:55,21:45,1 stop via Kolkata,IndiGo,2021-05-10 14:06:02.109072
+57," 8,680","Port Blair to Kochi , 28 May",10:50,19:15,1 stop via Chennai,"Go Air, IndiGo",2021-05-10 14:06:02.109072
+58," 14,769","Port Blair to Kochi , 28 May",09:45,19:15,"2 stop via Visakhapatnam,Mumbai",Air India,2021-05-10 14:06:02.109072
+59," 16,344","Port Blair to Kochi , 28 May",09:45,11:25,"4 stop via Visakhapatnam,New Delhi,Bengaluru,Mysore",Air India,2021-05-10 14:06:02.109072
+60," 12,375","Port Blair to Goa , 28 May",09:45,06:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:06:24.914275
+61," 12,375","Port Blair to Goa , 28 May",09:45,06:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:06:24.914275
+62," 12,375","Port Blair to Goa , 28 May",09:45,06:50,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:06:24.914275
+63," 6,573","Port Blair to Pune , 28 May",08:40,14:40,1 stop via Kolkata,Spicejet,2021-05-10 14:06:48.106945
+64," 8,205","Port Blair to Pune , 28 May",07:30,09:45,1 stop via Chennai,IndiGo,2021-05-10 14:06:48.106945
+65," 8,207","Port Blair to Pune , 28 May",08:55,18:25,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:06:48.106945
+66," 8,680","Port Blair to Pune , 28 May",10:50,08:05,"2 stop via Chennai,Hyderabad","Go Air, Spicejet",2021-05-10 14:06:48.106945
+67," 8,680","Port Blair to Pune , 28 May",08:55,08:05,"3 stop via Kolkata,Chennai,Hyderabad","IndiGo, Spicejet",2021-05-10 14:06:48.106945
+68," 8,681","Port Blair to Pune , 28 May",07:30,08:05,"2 stop via Chennai,Hyderabad","IndiGo, Spicejet",2021-05-10 14:06:48.106945
+69," 12,669","Port Blair to Pune , 28 May",09:45,18:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:06:48.106945
+70," 7,051","Port Blair to Guwahati , 28 May",08:55,17:35,1 stop via Kolkata,IndiGo,2021-05-10 14:07:11.216646
+71," 8,448","Port Blair to Guwahati , 28 May",08:55,16:55,"2 stop via Kolkata,Bagdogra","IndiGo, Go Air",2021-05-10 14:07:11.216646
+72," 8,513","Port Blair to Guwahati , 28 May",08:40,17:35,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-10 14:07:11.216646
+73," 9,112","Port Blair to Guwahati , 28 May",10:30,17:35,1 stop via Kolkata,"Go Air, IndiGo",2021-05-10 14:07:11.216646
+74," 14,984","Port Blair to Guwahati , 28 May",09:45,07:35,"3 stop via Visakhapatnam,New Delhi,Kolkata",Air India,2021-05-10 14:07:11.216646
+75," 14,984","Port Blair to Guwahati , 28 May",09:45,07:35,"3 stop via Visakhapatnam,New Delhi,Kolkata",Air India,2021-05-10 14:07:11.216646
+76," 14,984","Port Blair to Guwahati , 28 May",09:45,11:05,"3 stop via Visakhapatnam,New Delhi,Kolkata",Air India,2021-05-10 14:07:11.216646
+77," 14,984","Port Blair to Guwahati , 28 May",09:45,11:25,"3 stop via Visakhapatnam,New Delhi,Kolkata",Air India,2021-05-10 14:07:11.216646
+78," 15,012","Port Blair to Guwahati , 28 May",10:30,12:10,"2 stop via Kolkata,New Delhi","Go Air, Air India",2021-05-10 14:07:11.216646
+79," 15,012","Port Blair to Guwahati , 28 May",07:30,12:10,"3 stop via Chennai,Kolkata,New Delhi","IndiGo, Air India",2021-05-10 14:07:11.216646
+80," 15,013","Port Blair to Guwahati , 28 May",08:55,12:10,"2 stop via Kolkata,New Delhi","IndiGo, Air India",2021-05-10 14:07:11.216646
+81," 7,979","Port Blair to Lucknow , 28 May",08:55,15:45,1 stop via Kolkata,IndiGo,2021-05-10 14:07:33.875120
+82," 8,312","Port Blair to Lucknow , 28 May",08:55,17:35,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:07:33.875120
+83," 8,312","Port Blair to Lucknow , 28 May",08:55,19:45,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:07:33.875120
+84," 9,888","Port Blair to Lucknow , 28 May",08:40,15:45,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-10 14:07:33.875120
+85," 10,394","Port Blair to Lucknow , 28 May",10:30,22:00,"2 stop via Kolkata,Mumbai","Go Air, IndiGo",2021-05-10 14:07:33.875120
+86," 10,394","Port Blair to Lucknow , 28 May",10:30,09:05,"2 stop via Kolkata,Bengaluru","Go Air, IndiGo",2021-05-10 14:07:33.875120
+87," 10,395","Port Blair to Lucknow , 28 May",08:40,21:15,"2 stop via Kolkata,Ahmedabad","Spicejet, IndiGo",2021-05-10 14:07:33.875120
+88," 10,395","Port Blair to Lucknow , 28 May",08:40,22:00,"2 stop via Kolkata,Mumbai","Spicejet, IndiGo",2021-05-10 14:07:33.875120
+89," 10,395","Port Blair to Lucknow , 28 May",08:40,09:05,"2 stop via Kolkata,Bengaluru","Spicejet, IndiGo",2021-05-10 14:07:33.875120
+90," 11,409","Port Blair to Lucknow , 28 May",09:45,19:40,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:07:33.875120
+91," 13,635","Port Blair to Lucknow , 28 May",09:45,10:30,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:07:33.875120
+92," 13,635","Port Blair to Lucknow , 28 May",09:45,10:30,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:07:33.875120
+93," 8,608","Port Blair to Jaipur , 28 May",08:55,20:55,1 stop via Kolkata,IndiGo,2021-05-10 14:07:56.755819
+94," 9,689","Port Blair to Jaipur , 28 May",10:30,23:10,"2 stop via Kolkata,New Delhi","Go Air, IndiGo",2021-05-10 14:07:56.755819
+95," 9,689","Port Blair to Jaipur , 28 May",10:30,23:10,"2 stop via Kolkata,New Delhi","Go Air, IndiGo",2021-05-10 14:07:56.755819
+96," 9,689","Port Blair to Jaipur , 28 May",10:30,07:35,"2 stop via Kolkata,Mumbai",Go Air,2021-05-10 14:07:56.755819
+97," 9,689","Port Blair to Jaipur , 28 May",07:30,07:35,"3 stop via Chennai,Kolkata,Mumbai","IndiGo, Go Air",2021-05-10 14:07:56.755819
+98," 9,690","Port Blair to Jaipur , 28 May",08:40,23:10,"2 stop via Kolkata,New Delhi","Spicejet, IndiGo",2021-05-10 14:07:56.755819
+99," 9,690","Port Blair to Jaipur , 28 May",08:40,23:10,"2 stop via Kolkata,New Delhi","Spicejet, IndiGo",2021-05-10 14:07:56.755819
+100," 9,690","Port Blair to Jaipur , 28 May",08:55,07:35,"2 stop via Kolkata,Mumbai","IndiGo, Go Air",2021-05-10 14:07:56.755819
+101," 9,690","Port Blair to Jaipur , 28 May",08:40,07:35,"2 stop via Kolkata,Mumbai","Spicejet, Go Air",2021-05-10 14:07:56.755819
+102," 9,917","Port Blair to Jaipur , 28 May",10:30,20:55,1 stop via Kolkata,"Go Air, IndiGo",2021-05-10 14:07:56.755819
+103," 9,918","Port Blair to Jaipur , 28 May",08:40,20:55,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-10 14:07:56.755819
+104," 10,779","Port Blair to Jaipur , 28 May",09:45,20:35,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:07:56.755819
+105," 16,967","Port Blair to Jaipur , 28 May",10:30,07:35,"3 stop via Kolkata,Ahmedabad,Mumbai",Go Air,2021-05-10 14:07:56.755819
+106," 16,968","Port Blair to Jaipur , 28 May",08:55,07:35,"3 stop via Kolkata,Ahmedabad,Mumbai","IndiGo, Go Air",2021-05-10 14:07:56.755819
+107," 7,628","Port Blair to Patna , 28 May",08:55,17:45,1 stop via Kolkata,IndiGo,2021-05-10 14:08:19.725026
+108," 7,682","Port Blair to Patna , 28 May",08:55,17:20,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:08:19.725026
+109," 9,098","Port Blair to Patna , 28 May",10:30,17:45,1 stop via Kolkata,"Go Air, IndiGo",2021-05-10 14:08:19.725026
+110," 9,099","Port Blair to Patna , 28 May",08:40,17:45,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-10 14:08:19.725026
+111," 9,287","Port Blair to Patna , 28 May",10:30,20:40,1 stop via Kolkata,"Go Air, Air India",2021-05-10 14:08:19.725026
+112," 9,288","Port Blair to Patna , 28 May",08:55,20:40,1 stop via Kolkata,"IndiGo, Air India",2021-05-10 14:08:19.725026
+113," 9,288","Port Blair to Patna , 28 May",08:40,20:40,1 stop via Kolkata,"Spicejet, Air India",2021-05-10 14:08:19.725026
+114," 9,887","Port Blair to Patna , 28 May",07:30,20:40,"2 stop via Chennai,Kolkata","IndiGo, Air India",2021-05-10 14:08:19.725026
+115," 12,039","Port Blair to Patna , 28 May",09:45,18:25,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:08:19.725026
+116," 13,592","Port Blair to Patna , 28 May",10:30,12:10,"2 stop via Kolkata,New Delhi","Go Air, Air India",2021-05-10 14:08:19.725026
+117," 13,592","Port Blair to Patna , 28 May",07:30,12:10,"3 stop via Chennai,Kolkata,New Delhi","IndiGo, Air India",2021-05-10 14:08:19.725026
+118," 13,593","Port Blair to Patna , 28 May",08:55,12:10,"2 stop via Kolkata,New Delhi","IndiGo, Air India",2021-05-10 14:08:19.725026
+119," 13,593","Port Blair to Patna , 28 May",08:40,12:10,"2 stop via Kolkata,New Delhi","Spicejet, Air India",2021-05-10 14:08:19.725026
+120," 15,483","Port Blair to Patna , 28 May",08:55,21:20,"2 stop via Kolkata,Bengaluru","IndiGo, Air India",2021-05-10 14:08:19.725026
+121," 7,575","Port Blair to Thiruvananthapuram , 28 May",07:30,13:20,1 stop via Chennai,IndiGo,2021-05-10 14:08:42.839420
+122," 6,998","Port Blair to Bhubaneswar , 28 May",08:55,16:35,1 stop via Kolkata,IndiGo,2021-05-10 14:09:05.587567
+123," 7,052","Port Blair to Bhubaneswar , 28 May",08:55,18:10,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:09:05.587567
+124," 8,027","Port Blair to Bhubaneswar , 28 May",10:30,16:35,1 stop via Kolkata,"Go Air, IndiGo",2021-05-10 14:09:05.587567
+125," 8,028","Port Blair to Bhubaneswar , 28 May",08:40,16:35,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-10 14:09:05.587567
+126," 12,669","Port Blair to Bhubaneswar , 28 May",09:45,20:55,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:09:05.587567
+127," 15,084","Port Blair to Bhubaneswar , 28 May",09:45,10:20,"3 stop via Visakhapatnam,New Delhi,Kolkata",Air India,2021-05-10 14:09:05.587567
+128," 15,084","Port Blair to Bhubaneswar , 28 May",09:45,10:30,"4 stop via Visakhapatnam,New Delhi,Kolkata,Jharsuguda",Air India,2021-05-10 14:09:05.587567
+129," 18,234","Port Blair to Bhubaneswar , 28 May",09:45,10:20,"4 stop via Visakhapatnam,New Delhi,Bengaluru,Kolkata",Air India,2021-05-10 14:09:05.587567
+130," 10,944","Port Blair to Kozhikode , 28 May",08:55,19:45,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:09:28.281857
+131," 4,591","Port Blair to Bagdogra , 28 May",08:40,08:25,1 stop via Kolkata,Spicejet,2021-05-10 14:09:51.607886
+132," 6,908","Port Blair to Bagdogra , 28 May",08:55,13:40,1 stop via Kolkata,IndiGo,2021-05-10 14:09:51.607886
+133," 6,908","Port Blair to Bagdogra , 28 May",08:55,11:45,1 stop via Kolkata,IndiGo,2021-05-10 14:09:51.607886
+134," 8,512","Port Blair to Bagdogra , 28 May",08:55,14:10,1 stop via Kolkata,"IndiGo, Go Air",2021-05-10 14:09:51.607886
+135," 8,513","Port Blair to Bagdogra , 28 May",08:55,14:55,1 stop via Kolkata,"IndiGo, Air India",2021-05-10 14:09:51.607886
+136," 8,513","Port Blair to Bagdogra , 28 May",08:40,14:55,1 stop via Kolkata,"Spicejet, Air India",2021-05-10 14:09:51.607886
+137," 8,258","Port Blair to Nagpur , 28 May",08:55,19:20,1 stop via Kolkata,IndiGo,2021-05-10 14:10:15.327784
+138," 13,005","Port Blair to Nagpur , 28 May",09:45,07:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:10:15.327784
+139," 13,005","Port Blair to Nagpur , 28 May",09:45,07:20,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:10:15.327784
+140," 13,005","Port Blair to Nagpur , 28 May",09:45,07:20,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:10:15.327784
+141," 8,431","Port Blair to Varanasi , 28 May",08:55,21:40,"2 stop via Kolkata,New Delhi","IndiGo, Go Air",2021-05-10 14:10:38.638944
+142," 8,431","Port Blair to Varanasi , 28 May",08:40,21:40,"2 stop via Kolkata,New Delhi","Spicejet, Go Air",2021-05-10 14:10:38.638944
+143," 10,252","Port Blair to Varanasi , 28 May",08:55,21:25,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:10:38.638944
+144," 10,971","Port Blair to Varanasi , 28 May",08:55,11:35,"2 stop via Kolkata,New Delhi","IndiGo, Air India",2021-05-10 14:10:38.638944
+145," 10,971","Port Blair to Varanasi , 28 May",08:40,11:35,"2 stop via Kolkata,New Delhi","Spicejet, Air India",2021-05-10 14:10:38.638944
+146," 11,570","Port Blair to Varanasi , 28 May",10:30,11:35,"2 stop via Kolkata,New Delhi","Go Air, Air India",2021-05-10 14:10:38.638944
+147," 11,570","Port Blair to Varanasi , 28 May",07:30,11:35,"3 stop via Chennai,Kolkata,New Delhi","IndiGo, Air India",2021-05-10 14:10:38.638944
+148," 15,343","Port Blair to Varanasi , 28 May",10:30,08:00,"2 stop via Kolkata,Mumbai",Go Air,2021-05-10 14:10:38.638944
+149," 15,343","Port Blair to Varanasi , 28 May",07:30,08:00,"3 stop via Chennai,Kolkata,Mumbai","IndiGo, Go Air",2021-05-10 14:10:38.638944
+150," 15,344","Port Blair to Varanasi , 28 May",08:55,08:00,"2 stop via Kolkata,Mumbai","IndiGo, Go Air",2021-05-10 14:10:38.638944
+151," 15,344","Port Blair to Varanasi , 28 May",08:40,08:00,"2 stop via Kolkata,Mumbai","Spicejet, Go Air",2021-05-10 14:10:38.638944
+152," 15,482","Port Blair to Varanasi , 28 May",10:30,12:40,"3 stop via Kolkata,Patna,Mumbai","Go Air, Air India",2021-05-10 14:10:38.638944
+153," 15,482","Port Blair to Varanasi , 28 May",07:30,12:40,"4 stop via Chennai,Kolkata,Patna,Mumbai","IndiGo, Air India",2021-05-10 14:10:38.638944
+154," 15,483","Port Blair to Varanasi , 28 May",08:55,12:40,"3 stop via Kolkata,Patna,Mumbai","IndiGo, Air India",2021-05-10 14:10:38.638944
+155," 12,375","Port Blair to Indore , 28 May",09:45,08:25,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:10:59.358390
+156," 12,375","Port Blair to Indore , 28 May",09:45,08:25,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:10:59.358390
+157," 12,375","Port Blair to Indore , 28 May",09:45,08:25,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:10:59.358390
+158," 6,721","Port Blair to Coimbatore , 28 May",07:30,15:30,1 stop via Chennai,IndiGo,2021-05-10 14:11:17.198065
+159," 7,052","Port Blair to Coimbatore , 28 May",08:55,21:00,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:11:17.198065
+160," 7,420","Port Blair to Coimbatore , 28 May",10:50,19:25,1 stop via Chennai,"Go Air, IndiGo",2021-05-10 14:11:17.198065
+161," 7,422","Port Blair to Coimbatore , 28 May",07:30,14:25,1 stop via Chennai,"IndiGo, Air India",2021-05-10 14:11:17.198065
+162," 9,341","Port Blair to Srinagar , 28 May",08:55,16:30,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:11:36.659063
+163," 4,689","Port Blair to Visakhapatnam , 28 May",07:30,17:30,1 stop via Chennai,IndiGo,2021-05-10 14:11:59.636288
+164," 4,689","Port Blair to Visakhapatnam , 28 May",08:55,21:40,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:11:59.636288
+165," 6,159","Port Blair to Visakhapatnam , 28 May",09:45,11:55,Non stop,Air India,2021-05-10 14:11:59.636288
+166," 7,052","Port Blair to Ranchi , 28 May",08:55,17:40,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:12:22.370389
+167," 7,052","Port Blair to Ranchi , 28 May",08:55,20:05,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:12:22.370389
+168," 8,027","Port Blair to Ranchi , 28 May",10:30,20:00,1 stop via Kolkata,"Go Air, IndiGo",2021-05-10 14:12:22.370389
+169," 8,028","Port Blair to Ranchi , 28 May",08:40,20:00,1 stop via Kolkata,"Spicejet, IndiGo",2021-05-10 14:12:22.370389
+170," 8,950","Port Blair to Amritsar , 28 May",08:55,19:45,1 stop via Kolkata,IndiGo,2021-05-10 14:12:44.830993
+171," 11,409","Port Blair to Amritsar , 28 May",09:45,22:20,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:12:44.830993
+172," 14,895","Port Blair to Amritsar , 28 May",09:45,09:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:12:44.830993
+173," 14,895","Port Blair to Amritsar , 28 May",09:45,09:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:12:44.830993
+174," 14,895","Port Blair to Amritsar , 28 May",09:45,09:50,"4 stop via Visakhapatnam,New Delhi,Aurangabad,Mumbai",Air India,2021-05-10 14:12:44.830993
+175," 9,097","Port Blair to Chandigarh , 28 May",08:55,16:45,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:13:07.834477
+176," 9,097","Port Blair to Chandigarh , 28 May",08:55,19:45,"2 stop via Kolkata,New Delhi",IndiGo,2021-05-10 14:13:07.834477
+177," 10,779","Port Blair to Chandigarh , 28 May",09:45,20:45,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:13:07.834477
+178," 8,258","Port Blair to Raipur , 28 May",08:55,20:15,1 stop via Kolkata,IndiGo,2021-05-10 14:13:23.391207
+179," 12,039","Port Blair to Raipur , 28 May",09:45,18:10,"2 stop via Visakhapatnam,New Delhi",Air India,2021-05-10 14:13:23.391207
+180," 13,005","Port Blair to Raipur , 28 May",09:45,11:50,"3 stop via Visakhapatnam,New Delhi,Mumbai",Air India,2021-05-10 14:13:23.391207
+181," 7,822","Port Blair to Mangalore , 28 May",10:50,20:15,"2 stop via Chennai,Hyderabad","Go Air, Spicejet",2021-05-10 14:13:46.451633
+182," 7,822","Port Blair to Mangalore , 28 May",08:55,20:15,"3 stop via Kolkata,Chennai,Hyderabad","IndiGo, Spicejet",2021-05-10 14:13:46.451633
+183," 7,823","Port Blair to Mangalore , 28 May",07:30,19:25,"2 stop via Chennai,Mumbai","IndiGo, Go Air",2021-05-10 14:13:46.451633
+184," 7,823","Port Blair to Mangalore , 28 May",07:30,20:15,"2 stop via Chennai,Hyderabad","IndiGo, Spicejet",2021-05-10 14:13:46.451633
+185," 7,155","Port Blair to Tiruchirappalli , 28 May",07:30,14:20,1 stop via Chennai,IndiGo,2021-05-10 14:14:03.857054
+186," 8,644","Tiruchirappalli to New Delhi , 28 May",18:25,00:20,1 stop via Bengaluru,IndiGo,2021-05-10 14:14:46.378196
+187," 8,747","Tiruchirappalli to New Delhi , 28 May",14:40,01:00,1 stop via Chennai,IndiGo,2021-05-10 14:14:46.378196
+188," 9,373","Tiruchirappalli to New Delhi , 28 May",14:40,02:30,"3 stop via Chennai,Bengaluru,Kochi","IndiGo, AirAsia",2021-05-10 14:14:46.378196
+189," 9,534","Tiruchirappalli to New Delhi , 28 May",14:40,23:40,"2 stop via Chennai,Bengaluru","IndiGo, Go Air",2021-05-10 14:14:46.378196
+190," 9,725","Tiruchirappalli to New Delhi , 28 May",11:30,02:30,"3 stop via Chennai,Bengaluru,Kochi","IndiGo, AirAsia",2021-05-10 14:14:46.378196
+191," 9,725","Tiruchirappalli to New Delhi , 28 May",11:30,02:30,"3 stop via Chennai,Bengaluru,Kochi","IndiGo, AirAsia",2021-05-10 14:14:46.378196
+192," 9,725","Tiruchirappalli to New Delhi , 28 May",11:30,02:30,"3 stop via Chennai,Bengaluru,Kochi","IndiGo, AirAsia",2021-05-10 14:14:46.378196
+193," 9,954","Tiruchirappalli to New Delhi , 28 May",11:30,23:40,"2 stop via Chennai,Bengaluru","IndiGo, Go Air",2021-05-10 14:14:46.378196
+194," 9,954","Tiruchirappalli to New Delhi , 28 May",11:30,23:40,"2 stop via Chennai,Bengaluru","IndiGo, Go Air",2021-05-10 14:14:46.378196
+195," 9,955","Tiruchirappalli to New Delhi , 28 May",11:30,23:25,"2 stop via Chennai,Bengaluru","IndiGo, Spicejet",2021-05-10 14:14:46.378196
+196," 6,756","Tiruchirappalli to Mumbai , 28 May",18:25,00:20,1 stop via Bengaluru,IndiGo,2021-05-10 14:15:07.868070
+197," 7,612","Tiruchirappalli to Mumbai , 28 May",11:30,17:40,1 stop via Chennai,IndiGo,2021-05-10 14:15:07.868070
+198," 7,981","Tiruchirappalli to Mumbai , 28 May",14:40,06:35,"2 stop via Chennai,Ahmedabad","IndiGo, Spicejet",2021-05-10 14:15:07.868070
+199," 8,139","Tiruchirappalli to Mumbai , 28 May",14:40,23:50,1 stop via Chennai,"IndiGo, Spicejet",2021-05-10 14:15:07.868070
+200," 8,453","Tiruchirappalli to Mumbai , 28 May",11:30,06:35,"2 stop via Chennai,Ahmedabad","IndiGo, Spicejet",2021-05-10 14:15:07.868070
+201," 8,611","Tiruchirappalli to Mumbai , 28 May",11:30,23:50,1 stop via Chennai,"IndiGo, Spicejet",2021-05-10 14:15:07.868070
+202," 8,612","Tiruchirappalli to Mumbai , 28 May",11:30,17:05,1 stop via Chennai,"IndiGo, Air India",2021-05-10 14:15:07.868070
+203," 9,925","Tiruchirappalli to Mumbai , 28 May",14:40,23:30,"2 stop via Chennai,Hyderabad","IndiGo, Air India",2021-05-10 14:15:07.868070
+204," 10,397","Tiruchirappalli to Mumbai , 28 May",11:30,23:30,"2 stop via Chennai,Hyderabad","IndiGo, Air India",2021-05-10 14:15:07.868070
+205," 10,818","Tiruchirappalli to Mumbai , 28 May",11:30,15:00,"2 stop via Chennai,New Delhi","IndiGo, Vistara",2021-05-10 14:15:07.868070
+206," 3,359","Tiruchirappalli to Bengaluru , 28 May",18:25,19:35,Non stop,IndiGo,2021-05-10 14:15:30.449974
+207," 3,517","Tiruchirappalli to Bengaluru , 28 May",14:40,18:55,1 stop via Chennai,IndiGo,2021-05-10 14:15:30.449974
+208," 4,252","Tiruchirappalli to Bengaluru , 28 May",11:30,17:45,1 stop via Chennai,IndiGo,2021-05-10 14:15:30.449974
+209," 4,252","Tiruchirappalli to Bengaluru , 28 May",11:30,18:55,1 stop via Chennai,IndiGo,2021-05-10 14:15:30.449974
+210," 6,352","Tiruchirappalli to Hyderabad , 28 May",11:30,17:15,1 stop via Chennai,IndiGo,2021-05-10 14:15:53.173323
+211," 6,352","Tiruchirappalli to Hyderabad , 28 May",14:40,20:35,1 stop via Chennai,IndiGo,2021-05-10 14:15:53.173323
+212," 6,352","Tiruchirappalli to Hyderabad , 28 May",11:30,20:35,1 stop via Chennai,IndiGo,2021-05-10 14:15:53.173323
+213," 6,879","Tiruchirappalli to Hyderabad , 28 May",14:40,20:10,1 stop via Chennai,"IndiGo, Spicejet",2021-05-10 14:15:53.173323
+214," 6,880","Tiruchirappalli to Hyderabad , 28 May",14:40,20:35,1 stop via Chennai,"IndiGo, Air India",2021-05-10 14:15:53.173323
+215," 7,351","Tiruchirappalli to Hyderabad , 28 May",11:30,20:10,1 stop via Chennai,"IndiGo, Spicejet",2021-05-10 14:15:53.173323
+216," 7,352","Tiruchirappalli to Hyderabad , 28 May",11:30,20:35,1 stop via Chennai,"IndiGo, Air India",2021-05-10 14:15:53.173323
+217," 11,657","Tiruchirappalli to Hyderabad , 28 May",11:30,20:45,"2 stop via Chennai,Mumbai","IndiGo, Air India",2021-05-10 14:15:53.173323
+218," 3,517","Tiruchirappalli to Chennai , 28 May",14:40,15:45,Non stop,IndiGo,2021-05-10 14:16:02.862790
+219," 3,989","Tiruchirappalli to Chennai , 28 May",11:30,12:40,Non stop,IndiGo,2021-05-10 14:16:02.862790
+220," 6,877","Tiruchirappalli to Kolkata , 28 May",14:40,21:20,1 stop via Chennai,IndiGo,2021-05-10 14:16:25.641875
+221," 6,877","Tiruchirappalli to Kolkata , 28 May",14:40,23:20,1 stop via Chennai,IndiGo,2021-05-10 14:16:25.641875
+222," 7,013","Tiruchirappalli to Kolkata , 28 May",18:25,00:20,1 stop via Bengaluru,IndiGo,2021-05-10 14:16:25.641875
+223," 7,013","Tiruchirappalli to Kolkata , 28 May",18:25,01:20,1 stop via Bengaluru,IndiGo,2021-05-10 14:16:25.641875
+224," 7,349","Tiruchirappalli to Kolkata , 28 May",11:30,17:15,1 stop via Chennai,IndiGo,2021-05-10 14:16:25.641875
+225," 7,349","Tiruchirappalli to Kolkata , 28 May",11:30,21:20,1 stop via Chennai,IndiGo,2021-05-10 14:16:25.641875
+226," 7,510","Tiruchirappalli to Kolkata , 28 May",14:40,07:10,"2 stop via Chennai,New Delhi","IndiGo, AirAsia",2021-05-10 14:16:25.641875
+227," 7,982","Tiruchirappalli to Kolkata , 28 May",11:30,19:00,1 stop via Chennai,"IndiGo, AirAsia",2021-05-10 14:16:25.641875
+228," 7,982","Tiruchirappalli to Kolkata , 28 May",11:30,07:10,"2 stop via Chennai,New Delhi","IndiGo, AirAsia",2021-05-10 14:16:25.641875
+229," 10,818","Tiruchirappalli to Kolkata , 28 May",11:30,08:20,"2 stop via Chennai,New Delhi","IndiGo, Vistara",2021-05-10 14:16:25.641875
+230," 5,827","Tiruchirappalli to Kochi , 28 May",14:40,19:15,1 stop via Chennai,IndiGo,2021-05-10 14:16:48.308217
+231," 6,089","Tiruchirappalli to Kochi , 28 May",11:30,19:15,1 stop via Chennai,IndiGo,2021-05-10 14:16:48.308217
+232," 6,386","Tiruchirappalli to Kochi , 28 May",14:40,22:20,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-10 14:16:48.308217
+233," 6,648","Tiruchirappalli to Kochi , 28 May",11:30,20:50,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-10 14:16:48.308217
+234," 6,648","Tiruchirappalli to Kochi , 28 May",11:30,22:20,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-10 14:16:48.308217
+235," 6,648","Tiruchirappalli to Kochi , 28 May",11:30,22:20,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-10 14:16:48.308217
+236," 7,282","Tiruchirappalli to Goa , 28 May",14:40,18:05,"2 stop via Chennai,Hyderabad","IndiGo, Spicejet",2021-05-10 14:17:09.813867
+237," 8,069","Tiruchirappalli to Goa , 28 May",11:30,18:05,"2 stop via Chennai,Hyderabad","IndiGo, Spicejet",2021-05-10 14:17:09.813867
+238," 9,584","Tiruchirappalli to Guwahati , 28 May",18:25,06:40,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+239," 9,584","Tiruchirappalli to Guwahati , 28 May",18:25,06:40,"2 stop via Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+240," 9,637","Tiruchirappalli to Guwahati , 28 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+241," 9,637","Tiruchirappalli to Guwahati , 28 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+242," 9,637","Tiruchirappalli to Guwahati , 28 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+243," 9,637","Tiruchirappalli to Guwahati , 28 May",11:30,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+244," 9,742","Tiruchirappalli to Guwahati , 28 May",14:40,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+245," 9,742","Tiruchirappalli to Guwahati , 28 May",14:40,06:40,"3 stop via Chennai,Bengaluru,Kolkata","IndiGo, AirAsia",2021-05-10 14:17:49.635248
+246," 9,016","Tiruchirappalli to Varanasi , 28 May",11:30,07:45,"2 stop via Chennai,New Delhi","IndiGo, Spicejet",2021-05-10 14:22:25.607820
+247," 9,174","Tiruchirappalli to Varanasi , 28 May",14:40,07:45,"2 stop via Chennai,New Delhi","IndiGo, Spicejet",2021-05-10 14:22:25.607820
+248," 5,602","Tiruchirappalli to Coimbatore , 28 May",14:40,19:25,1 stop via Chennai,IndiGo,2021-05-10 14:23:30.393900
+249," 6,142","Tiruchirappalli to Coimbatore , 28 May",11:30,15:30,1 stop via Chennai,IndiGo,2021-05-10 14:23:30.393900
+250," 6,142","Tiruchirappalli to Coimbatore , 28 May",11:30,19:25,1 stop via Chennai,IndiGo,2021-05-10 14:23:30.393900
+251," 7,244","Tiruchirappalli to Visakhapatnam , 28 May",11:30,17:30,1 stop via Chennai,IndiGo,2021-05-10 14:25:03.218218
+252," 7,646","Tiruchirappalli to Visakhapatnam , 28 May",14:40,22:55,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-10 14:25:03.218218
+253," 8,066","Tiruchirappalli to Visakhapatnam , 28 May",11:30,22:55,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-10 14:25:03.218218
+254," 8,066","Tiruchirappalli to Visakhapatnam , 28 May",11:30,22:55,"2 stop via Chennai,Bengaluru","IndiGo, AirAsia",2021-05-10 14:25:03.218218
+255," 9,309","Tiruchirappalli to Ranchi , 28 May",14:40,10:25,"3 stop via Chennai,Bengaluru,New Delhi","IndiGo, Go Air",2021-05-10 14:25:26.031062
+256," 9,571","Tiruchirappalli to Ranchi , 28 May",11:30,10:25,"3 stop via Chennai,Bengaluru,New Delhi","IndiGo, Go Air",2021-05-10 14:25:26.031062
+257," 9,571","Tiruchirappalli to Ranchi , 28 May",11:30,10:25,"3 stop via Chennai,Bengaluru,New Delhi","IndiGo, Go Air",2021-05-10 14:25:26.031062
+258," 8,872","Tiruchirappalli to Amritsar , 28 May",18:25,12:50,1 stop via Bengaluru,IndiGo,2021-05-10 14:25:47.909968
+259," 10,027","Tiruchirappalli to Chandigarh , 28 May",18:25,11:55,1 stop via Bengaluru,IndiGo,2021-05-10 14:26:31.079907
+260," 13,640","Tiruchirappalli to Raipur , 28 May",11:30,11:50,"3 stop via Chennai,Hyderabad,Mumbai","IndiGo, Air India",2021-05-10 14:27:20.965013
+261," 7,085","Tiruchirappalli to Port Blair , 28 May",14:40,07:00,1 stop via Chennai,IndiGo,2021-05-10 14:28:54.517763
